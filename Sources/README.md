@@ -36,7 +36,7 @@
 
 - [x] [Herrbischoff - Index: Tracker](https://git.herrbischoff.com/trackers/about/)
 
-- [ ] [Vincent Kenny 01 - Spotblock](https://github.com/vincentkenny01/spotblock)
+- [x] [Vincent Kenny 01 - Spotblock](https://github.com/vincentkenny01/spotblock)
 
 - [x] [Leroyby - Pihole Settings](https://github.com/leroyby/PiHole_Settings)
 
@@ -48,7 +48,7 @@
 
 - [x] [Snota418 - Youtube Spam Hosts](https://github.com/Snota418/Youtube-spam-host-list)
 
-- [ ] [Nocturnal Archives](https://github.com/nocturnalarchives/BlockLists)
+- [x] [Nocturnal Archives](https://github.com/nocturnalarchives/BlockLists)
 
 - [x] [DaylamTayari - PiHole Blocklist](https://github.com/daylamtayari/Pi-Hole-Blocklist)
 
@@ -80,13 +80,11 @@
 
 - [x] [The Firebog](https://firebog.net/)
 
-- [ ] [Developer Dan's - LightSwitch05](https://github.com/lightswitch05/hosts)
+- [x] [Developer Dan's - LightSwitch05](https://github.com/lightswitch05/hosts)
 
 - [x] [Developer Dan's - Hosts](https://www.github.developerdan.com/hosts/)
 
-- [ ] [No Tracking - Hosts Blocklist](https://github.com/notracking/hosts-blocklists)
-
-- [ ] [Just Domains - Blocklists](https://github.com/justdomains/blocklists)
+- [x] [Just Domains - Blocklists](https://github.com/justdomains/blocklists)
 
 - [ ] [Bongochong - Combined Privacy](https://github.com/bongochong/CombinedPrivacyBlockLists)
 
@@ -98,17 +96,17 @@
 
 - [x] [What Zit Tooya - AdBlock](https://github.com/What-Zit-Tooya/Ad-Block)
 
-- [ ] [Craiu - Mobile Trackers](https://github.com/craiu/mobiletrackers)
+- [x] [Craiu - Mobile Trackers](https://github.com/craiu/mobiletrackers)
 
-- [ ] [Mkb2091 - BlockConvert](https://github.com/mkb2091/blockconvert)
+- [x] [Mkb2091 - BlockConvert](https://github.com/mkb2091/blockconvert)
 
 - [x] [Sefinek - Blocklist Generator](https://sefinek.net/blocklist-generator/pihole)
 
-- [ ] [Shadow Whisperer - Blocklists](https://github.com/ShadowWhisperer/BlockLists)
+- [x] [Shadow Whisperer - Blocklists](https://github.com/ShadowWhisperer/BlockLists)
 
 - [ ] [T145 - Black Mirror](https://github.com/T145/black-mirror)
 
-- [ ] [Pengelana - Blocklist](https://github.com/pengelana/blocklist)
+- [x] [Pengelana - Blocklist](https://github.com/pengelana/blocklist)
 
 - [ ] [Ultimate Hosts Blacklist - The Ultimate Hosts](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
 
@@ -132,8 +130,6 @@
 
 - [x] [unkownFalleN - Xiaomi](https://github.com/unknownFalleN/xiaomi-dns-blocklist)
 
-- [ ] [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
-
 - [x] [NextDNS - DDNS Domains](https://github.com/nextdns/ddns-domains)
 
 - [x] [NextDNS - Bin Domains](https://github.com/nextdns/bin-domains)
@@ -154,7 +150,7 @@
 
 - [x] [NextDNS - Click Tracking](https://github.com/nextdns/click-tracking-domains)
 
-- [ ] [Curbengh - Urlhaus-Filter](https://github.com/curbengh/urlhaus-filter)
+- [x] [Curbengh - Urlhaus-Filter](https://github.com/curbengh/urlhaus-filter)
 
 - [x] [FiltersHeroes - KADHosts](https://github.com/FiltersHeroes/KADhosts)
 
@@ -162,7 +158,7 @@
 
 - [x] [NextDNS  - Piracy Blocklists](https://github.com/nextdns/piracy-blocklists)
 
-- [ ] [Olbat - UT1 Blacklists](https://github.com/olbat/ut1-blacklists)
+- [x] [Olbat - UT1 Blacklists](https://github.com/olbat/ut1-blacklists)
 
 - [x] [Fabrioziosalmi - Blacklists](https://github.com/fabriziosalmi/blacklists)
 
@@ -184,13 +180,15 @@
 
 - [x] [intr0 - AppleBlock](https://gitlab.com/intr0/AppleBlock)
 
-- [ ] [Cedws - Apple Telemetry](https://github.com/cedws/apple-telemetry)
+- [x] [Cedws - Apple Telemetry](https://github.com/cedws/apple-telemetry)
 
-- [ ] [Ruddernation-Designs - Adobe URL Blocklist](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List)
+- [x] [Ruddernation-Designs - Adobe URL Blocklist](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List)
 
 - [x] [The Big Blocklist COllection](http://lists.l4t.pl/)
   
-- [ ] [iBlocklist.com](https://www.iblocklist.com/lists)
+- [x] [iBlocklist.com](https://www.iblocklist.com/lists)
+
+- [ ] [Malware Filter - Urlhaus Filter](https://gitlab.com/malware-filter/urlhaus-filter)
 
 - [ ] [Porn Records - Porn Records](https://github.com/porn-records/Porn-Records)
 
@@ -198,13 +196,15 @@
 
 - [ ] [PeterDave Hello - Threat Hostlists](https://github.com/PeterDaveHello/threat-hostlist)
 
+- [ ] [AdguardTeam - AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
+
 - [x] [AntifaN - Pihole](https://github.com/antifa-n/pihole)
 
 - [x] [Rimu - No Quanon](https://github.com/rimu/no-qanon)
 
 - [x] [Shoenig - DonutDNS](https://github.com/shoenig/donutdns)
 
-- [ ] [Zangadoprojets - PiHole Blocklist](https://github.com/zangadoprojets/pi-hole-blocklist)
+- [x] [Zangadoprojets - PiHole Blocklist](https://github.com/zangadoprojets/pi-hole-blocklist)
 
 - [x] [Qyli - Blocklist](https://github.com/gyli/Blocklist)
 
@@ -252,79 +252,83 @@
 
 - [x] [Dmachard - Blocklist Domains](https://github.com/dmachard/blocklist-domains)
 
-- [ ] [SpiriLeo - Blocklist Collection](https://github.com/spiri-leo/blocklist-collection)
+- [x] [SpiriLeo - Blocklist Collection](https://github.com/spiri-leo/blocklist-collection)
 
-- [ ] [Ignaciocastro - Adobe is Dumb](https://github.com/ignaciocastro/adobe-is-dumb)
+- [x] [Ignaciocastro - Adobe is Dumb](https://github.com/ignaciocastro/adobe-is-dumb)
 
 - [x] [Eded333 - The Fucking List](https://github.com/eded333/TheFuckingList)
 
-- [ ] [KitsapCreatoe - Pihole Blocklists](https://github.com/KitsapCreator/pihole-blocklists)
+- [x] [KitsapCreatoe - Pihole Blocklists](https://github.com/KitsapCreator/pihole-blocklists)
 
-- [ ] [Arstech - Pihole Blocking](https://arstech.net/pi-hole-blocking-lists-2023/)
+- [x] [Arstech - Pihole Blocking](https://arstech.net/pi-hole-blocking-lists-2023/)
 
-- [ ] [Obutterback - Full Potential](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
+- [x] [Obutterback - Full Potential](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
 
-- [ ] [Tgjohnst - Pihole Guide](https://github.com/tgjohnst/pihole-guide)
+- [x] [Tgjohnst - Pihole Guide](https://github.com/tgjohnst/pihole-guide)
 
-- [ ] [FuzzThePiGuy - Blocklist](https://fuzzthepiguy.tech/blocklist/)
+- [x] [FuzzThePiGuy - Blocklist](https://fuzzthepiguy.tech/blocklist/)
 
-- [ ] [Sindastra - Big Blocklists](https://www.sindastra.de/p/987/big-block-lists-for-pi-hole)
+- [x] [Sindastra - Big Blocklists](https://www.sindastra.de/p/987/big-block-lists-for-pi-hole)
 
-- [ ] [Jussiroine - Pihole Adlists](https://jussiroine.com/pi-hole-adlists/)
+- [x] [Jussiroine - Pihole Adlists](https://jussiroine.com/pi-hole-adlists/)
 
 - [ ] [Esox-Lucius Pihole Blocklists](https://github.com/Esox-Lucius/PiHoleblocklists)
 
-- [ ] [DRSDavidSoft - Additional Hosts](https://github.com/DRSDavidSoft/additional-hosts)
+- [x] [DRSDavidSoft - Additional Hosts](https://github.com/DRSDavidSoft/additional-hosts)
 
-- [ ] [Privacy Protection Tools - AntiAD](https://github.com/privacy-protection-tools/anti-AD)
+- [x] [TG-Twillight - AWAvenue Ads Rules](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
+
+- [x] [Privacy Protection Tools - AntiAD](https://github.com/privacy-protection-tools/anti-AD)
 
 - [ ] [Autinerd - Anti-AxelSpringer Hosts](https://github.com/autinerd/anti-axelspringer-hosts)
 
 - [ ] [4SkinSkywalker - Anti Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
 
-- [ ] [AdroitAdorKhan - Antipopads-re](https://github.com/AdroitAdorKhan/antipopads-re)
+- [x] [AdroitAdorKhan - Antipopads-re](https://github.com/AdroitAdorKhan/antipopads-re)
 
-- [ ] [TheAntiSocialEngineer - AntiSocial Blocklist UK Community](https://github.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community)
+- [ ] [DandelionSprout - Adfilt](https://github.com/DandelionSprout/adfilt)
 
-- [ ] [MacroAcorte - Antispam IT](https://github.com/marco-acorte/antispam-it/)
+- [x] [TheAntiSocialEngineer - AntiSocial Blocklist UK Community](https://github.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community)
 
-- [ ] [Bjornstart - Hosts](https://github.com/bjornstar/hosts)
+- [x] [MacroAcorte - Antispam IT](https://github.com/marco-acorte/antispam-it/)
 
-- [ ] [Chrisjudk - Hosts](https://github.com/chrisjudk/hosts)
+- [x] [Bjornstart - Hosts](https://github.com/bjornstar/hosts)
 
-- [ ] [AdguardTeam - CNAME Trackers](https://github.com/AdguardTeam/cname-trackers)
+- [x] [Chrisjudk - Hosts](https://github.com/chrisjudk/hosts)
 
-- [ ] [D3Ward Toolz](https://github.com/d3ward/toolz)
+- [x] [AdguardTeam - CNAME Trackers](https://github.com/AdguardTeam/cname-trackers)
 
-- [ ] [Damengzhu - Banad](https://github.com/damengzhu/banad)
+- [x] [D3Ward Toolz](https://github.com/d3ward/toolz)
 
-- [ ] [Someone Who Cares](https://someonewhocares.org/)
+- [x] [Damengzhu - Banad](https://github.com/damengzhu/banad)
 
-- [ ] [Daviddonzo - Threat Intel](https://github.com/davidonzo/Threat-Intel)
+- [x] [Someone Who Cares](https://someonewhocares.org/)
+
+- [x] [Daviddonzo - Threat Intel](https://github.com/davidonzo/Threat-Intel)
 
 - [x] [DisconnectMe - Disconnect Tracking Protection](https://github.com/disconnectme/disconnect-tracking-protection)
   
-- [ ] [Easylist](https://easylist.to/)
+- [x] [Easylist](https://easylist.to/)
 
 - [x] [NikolaisChuck - Discord Phishing Links](https://github.com/nikolaischunk/discord-phishing-links)
 
-- [ ] [Durable Napking - Block](https://github.com/durablenapkin/block)
+- [x] [Durable Napking - Block](https://github.com/durablenapkin/block)
 
-- [ ] [EnergizedProtection - Unblock](https://github.com/EnergizedProtection/unblock)
+- [x] [EnergizedProtection - Unblock](https://github.com/EnergizedProtection/unblock)
 
-- [ ] [Lassekongo83 - Frellwits Filter Lists](https://github.com/lassekongo83/Frellwits-filter-lists)
+- [x] [Lassekongo83 - Frellwits Filter Lists](https://github.com/lassekongo83/Frellwits-filter-lists)
 
-- [ ] [FutaGuard - Low Tech Filter](https://github.com/FutaGuard/LowTechFilter)
+- [x] [FutaGuard - Low Tech Filter](https://github.com/FutaGuard/LowTechFilter)
 
-- [ ] [Origami Official - PiholeBL](https://github.com/origamiofficial/PiholeBL)
+- [x] [Origami Official - PiholeBL](https://github.com/origamiofficial/PiholeBL)
 
-- [ ] [Gioxx - XFiles](https://github.com/gioxx/xfiles)
+- [x] [Gioxx - XFiles](https://github.com/gioxx/xfiles)
 
-- [ ] [Jerryn70 - GoodbyeAds](https://github.com/jerryn70/GoodbyeAds#goodbyeads---wrld-of-ads-free-internet)
+- [x] [Jerryn70 - GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 
-- [ ] [Herrbischoff - Trackers](https://git.herrbischoff.com/trackers)
+- [x] [Herrbischoff - Trackers](https://git.herrbischoff.com/trackers)
 
-- [ ] [Bigdargon - HostsVN](https://github.com/bigdargon/hostsVN)
+- [x] [Bigdargon - HostsVN](https://github.com/bigdargon/hostsVN)
 
 - [ ] [HPThreatResearch - IOCs](https://github.com/hpthreatresearch/iocs)
 
@@ -338,6 +342,8 @@
 
 - [x] [Logroid - Adaway-hosts](https://github.com/logroid/adaway-hosts)
 
+- [x] [Hostsfile - Hosts](http://www.hostsfile.org/hosts.html)
+  
 - [x] [Lwojcik - Lukes Pihole Blocklist](https://github.com/lwojcik/lukes-pihole-blocklist)
 
 - [x] [Marktron - FakeNews](https://github.com/marktron/fakenews)
@@ -356,7 +362,15 @@
 
 - [ ] [FadeMind - Hosts.extras](https://github.com/FadeMind/hosts.extras)
 
-- [ ] [MitchellKrogza - Badd Boyz Hosts](https://github.com/mitchellkrogza/Badd-Boyz-Hosts)
+- [x] [NeoFelhz - NeoHosts](https://github.com/neoFelhz/neohosts)
+
+- [x] [Vokins - Yhosts](https://github.com/vokins/yhosts)
+
+- [x] [Cjx82630 - Cjxlist](https://github.com/cjx82630/cjxlist)
+
+- [x] [Banbendalao - ADgk](https://github.com/banbendalao/ADgk)
+
+- [x] [MitchellKrogza - Badd Boyz Hosts](https://github.com/mitchellkrogza/Badd-Boyz-Hosts)
 
 - [x] [AnudeepND - Whitelist](https://github.com/anudeepND/whitelist)
 
@@ -396,9 +410,9 @@
 
 - [x] [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
 
-- [ ] [TTC-Cert - Blocklist](https://github.com/ttc-cert/TTC-CERT_blocklist_recommended)
+- [x] [TTC-Cert - Blocklist](https://github.com/ttc-cert/TTC-CERT_blocklist_recommended)
 
-- [ ] [Threatview](https://threatview.io)
+- [x] [Threatview](https://threatview.io)
 
 - [x] [OISD](https://oisd.nl/)
 
@@ -422,7 +436,7 @@
 
 - [ ] [Notrohorse - Government Malware Domains](https://gitlab.com/nitrohorse/government-malware-domains-blocklist)
 
-- [ ] [RPIList - Specials](https://github.com/RPiList/specials)
+- [x] [RPIList - Specials](https://github.com/RPiList/specials)
 
 - [x] [Zoso.ro - Rolist](https://zoso.ro/rolist/)
 
@@ -526,7 +540,7 @@
 
 - [x] [nuschberkeks - Knuschberblock (Codeberg)](https://codeberg.org/Knuschberkeks/Knuschberblock)
 
-- [ ] [SystemJargon - Allowlists](https://github.com/SystemJargon/allowlists)
+- [x] [SystemJargon - Allowlists](https://github.com/SystemJargon/allowlists)
 
 - [x] [Square252 - adBlocking Hosts](https://github.com/Square252/adBlockHosts)
 
@@ -626,40 +640,40 @@
 
 - [x] [Yous - YousList](https://github.com/yous/YousList)
 
-- [ ] [Deathbybandaid - Pihole Parser](https://github.com/deathbybandaid/piholeparser)
+- [x] [Deathbybandaid - Pihole Parser](https://github.com/deathbybandaid/piholeparser)
 
-- [ ] [Triw0lf - Twitter Honies](https://github.com/triw0lf/twitterhonies)
+- [x] [Sudaraka - Domain Blocklist](https://github.com/sudaraka/domain-block-list)
 
-- [ ] [ ](https://github.com/sudaraka/domain-block-list)
+- [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 
-- [ ] [ ](https://github.com/cbuijs/unbound-dns-firewall)
+- [ ] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
 
-- [ ] [ ](https://github.com/k0nsl/unbound-blocklist)
+- [x] [Cbuijs - Insigator](https://github.com/cbuijs/instigator)
+  
+- [x] [K0nsl - Unbound Blocklist](https://github.com/k0nsl/unbound-blocklist)
 
-- [ ] [ ](https://github.com/LV-Crew/HostsManager)
+- [x] [Austinheap - Sophos XG Blocklist](https://github.com/austinheap/sophos-xg-block-lists)
 
-- [ ] [ ](https://github.com/austinheap/sophos-xg-block-lists)
+- [x] [Domain Voider](https://github.com/DomainVoider)
 
-- [ ] [ ](https://github.com/pierky/blocklistsaggregator)
+- [x] [X8716e](https://github.com/X8716e)
 
-- [ ] [ ](https://github.com/DomainVoider)
+- [x] [NoTracking - Hosts Blocklists](https://github.com/notracking/hosts-blocklists)
 
-- [ ] [ ](https://github.com/X8716e)
+- [x] [AnudeepND - Youtube Ads](https://github.com/anudeepND/youtubeadsblacklist)
 
-- [ ] [ ](https://github.com/notracking/hosts-blocklists)
+- [x] [Articrevised - Hosts](https://github.com/articrevised/HOSTS-File-List)
 
-- [ ] [ ](https://github.com/anudeepND/youtubeadsblacklist)
+- [x] [Death by Dandaid - Whitelists](https://github.com/deathbybandaid/pihole-whitelists)
 
-- [ ] [ ](https://github.com/articrevised/HOSTS-File-List)
+- [x] [Slycox1186 - Pihole Regex](https://github.com/slyfox1186/pihole-regex)
 
-- [ ] [ ](https://github.com/deathbybandaid/pihole-whitelists)
+### Tools
 
-- [ ] [ ](https://github.com/collinbarrett/FilterLists)
+- [Hocklus - BlocklistBlaster](https://github.com/HOCKULUS/BlocklistBlaster)
 
-- [ ] [ ](https://github.com/slyfox1186/pihole-regex)
+- [Foae - Pihole Youtube Block](https://github.com/foae/pihole-youtube-block)
 
-- [ ] [ ](https://github.com/SomeTechyGuy/My-school-pihole-stuff)
+- [Pierky - Blocklistagrgregator](https://github.com/pierky/blocklistsaggregator)
 
-- [ ] [ ](https://github.com/HOCKULUS/BlocklistBlaster)
-
-- [ ] [ ](https://github.com/foae/pihole-youtube-block)
+- [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
