@@ -73,8 +73,6 @@
 - [x] [Xlimit91- Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
 
 <br>
-<br>
-<br>
 
 ```
 #/^(.*[\.\-])*(advert|banner|beacon|cash|click[y]*|coin|count|megavolt|ms[-]*edge|([ens0-9]+)*(omni|over)ture|pop(cash|check|test|under|up)|tracker)/
