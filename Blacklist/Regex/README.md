@@ -824,7 +824,6 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ### [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
 ```
-r[0-9\-]*\-sn\-[a-z0-9]*\-[0-9a-z]{4}\.googlevideo\.com
 ^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
