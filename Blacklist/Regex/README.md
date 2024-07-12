@@ -1,4 +1,4 @@
-<h1align="center">PiHole Regex Library</h1>
+<h1 align="center">PiHole Regex Library</h1>
 
 <h3>Sources<h3>
 
