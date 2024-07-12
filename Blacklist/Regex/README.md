@@ -379,33 +379,33 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 #/^.*(advert|banner|beacon|cash|click[y]*|coin|coun(t|ter[s]*)|megavolt|ms[-]*edge|([ens0-9]+)*(omni|over)ture|pop(cash|check|test|under|up)|track(er|ing))[\.\-]/
 ```
 
-```
 ### Common AD labels
 
+```
 /^(.*[\.\-])*[0-9]*(php|web|[mwxy])*ad[sxz]*[0-9]*[\.\-]/
 /^(.*[\.\-])*ad(aly[sz]er|am|banner|bureau|click|dynamo|farm|hese|im[a]*g[e]*|info|ition|just|k2|load|log|media|ma(n|nager|x)|ne(t[a-z]+|xus)|nxs|ocean|renaline|revolver|rotat(e|or)|science|script|sense|spirit|[v\-]*s[e]*r(v|ve|ver|vi(ce|ng))|stat|stream)[sxz]*[0-9]*[\.\-]/
 /^(.*[\.\-])*ad([v]*server[a-z]*|shuffle|sl|sy(s|stem)|test|(v|ve(r|rt|rtis(e|er|ing)))|trac(k|king|ker)|wise|word)[sxz]*[0-9]*[\.\-]/
 /^(banner[a-z]*|open[-]*(ad|x)|page[-]*ad|reklam|(secure[-]*)*pub[-]*ad|smart[-]*ad[s]*([-]*server)*|unityad)[sz]*[0-9]*[\.\-]/
 ```
 
-```
 ### Common Tracking/Stats labels
 
+```
 /^(.*[\.\-])*(affiliate|([s]*anal|local)[iy](s[iy]s|ti[ck])|click|clk|cooki(e|ex)|cnt|coun(t[y]*|t[e]*[dr])|datacollect|hit|(amp|[s]*)metr[iy][ck]|open[-]*(ad|x)|partner|ping|pixel|sta(t|tisti[ck])|tag|(web|[uv]*)stat)[sz]*[0-9]*[\.\-]/
 /^(.*[\.\-])*(telemetr[iy]|(evil|[s]*)trac(k|king|ker)|[s]*trk|utm|video[-]*stat)[sz]*[0-9]*[\.\-]/
 ```
 
-```
 ### Top-N advertisers/trackers domain(parts)
 
+```
 /^(.*\.)*(atdmt|beget|bango|casalemedia|clickbank|extreme[-]*dm|flurry|krxd|liveadvert|moatads|mookie[1-9]*|nuggad|omtrdc|p2l|quants[e]*rv[e]*|onestat|onthe|pop(cash|check|test|under|up)|revsci|scorecardresearch|sitestat|tacoda|tynt)\./
 /^(.*\.)*(o0bc|2mdn|2o7|302br|51yes|adtech([-]*[a-z]+)*|amazon[-]*adsystem|atwola|bkrtx|bluekai|chartbeat|crwdcntrl|d(e|o)mdex|effectivemeasure|falkag|free|fwmrm|gemius)\./
 /^(.*\.)*(hit(box|tail)|hotjar|imrworldwide|intellitxt|lijit|mixpanel|ms[-]*adcenter|netklix|outbrain|petrovka|pixel|syndication|rubiconproject|sitemeter|skimresources|smaato|smartadserver|(fast|stat)counter|suprnova|taboola|tradedouble[r]*|xiti|usergrid|visualrevenue|volumetrk)\./
 ```
 
-```
 ### Google
 
+```
 /^(.*\.)*google[-]*(analytic|syndication|(ad[a-z0-9]*|tag)[-]*service)[s]*\./
 /^(.*\.)*(www[-]*)*google[-]*(analytic[s]*|(ad|tag)[-]*manager)\./
 /^(.*\.)double[-]*clic(k|k[-]*by[-]*google)\./
@@ -414,9 +414,10 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [SystemJargon - Filters](https://github.com/SystemJargon/filters)
 
-```
-# Facebook
 
+### Facebook
+
+```
 (\.|^)facebook\.com$
 (^|\.)fbsbx\.com$
 (^|\.)fbsbx\.com\.online-metrix\.net$
@@ -442,27 +443,10 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^|-)(facebook|fb|instagram|tiktok|whatsapp|snapchat)[.]
 ```
 
-```
-(\.)(adult|ads|adverts|advertising|click|porn|sex|telemetry|tracking|tracing)$
-```
+### Tracking
 
 ```
-! /ads/ # no ads but may produce false positives in joining words unrelated
-/advertising/ # no ads
-# tracking
-/location/ # no location
-/telemetry/ # no telemetry
-/tracking/ # no tracking
-/persistencecookie/ # no tracking
-/clickid/ # no tracking
-/click-id/ # no tracking
-/survey/ # no surveys
-# anti-scam strings for remote access software
-/anydesk/ # no remote-sofware
-/teamviewer/ # no remote-sofware
-/vnc/ # no remote-sofware
-/radmin/ # no remote-sofware
-/remoteaccess/ # no remote-sofware
+(\.)(adult|ads|adverts|advertising|click|porn|sex|telemetry|tracking|tracing)$
 ```
 
 - [x] [Smokingwheels-SmokingWheels.github.io](https://github.com/smokingwheels/smokingwheels.github.io)
@@ -473,9 +457,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [Greg-2600-PiholeBlocklist](https://github.com/Greg-2600/pihole_block_list)
 
-```
-# Advertisments
+### Advertisments
 
+```
 (^|\.)qualtrics\.com$
 ^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
@@ -497,56 +481,64 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [HL2Guide- Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
+### FileTypes
 
 ```
-# Blocks series of Filetypes
-
 /(.*).(aif|cda|mid|midi|mpa|wma|wpl|arj|z|dmg|toast|vcd|gadget)/
 /(.*).(wsf|fon|cfm|swift|vb|3g2|3gp|avi|flv|mov|rm|swf|vob|wmv)/
 ```
 
-```
-# [A1] Tracking and Stats
+### [A1] Tracking and Stats
 
+```
 /(.*)(cookie|pixel|stat|telemetry|tracker|pixel|analytic|metric)(s\b|\b)(.*)/
 /(.*)(tracking|xiaomi)(s\b|\b)(.*)/
+```
 
-# [B1] Scams
+### [B1] Scams
 
+```
 /(.*)(g2a)(.*)/
+```
 
-# [C1] Banned Words
+### [C1] Banned Words
 
+```
 /(.*)(chatroom|cheat|drug|casino|liveshow|weapon|coin)(s\b|\b)(.*)/
+```
 
-# [C2] Horrible Words
+### [C2] Horrible Words
 
+```
 /(.*)(rape|forcedsex|animalsex|bestiality|beastsex|monstersex|zoosex|snuff)(s\b|\b)(.*)/
 /(.*)(death|kill|murder|incest)(s\b|\b)(.*)/
 /(.*)(pedophilia|necrophilia|incapacitatedsex|blood|mutilation)(s\b|\b)(.*)/
+```
 
-# Blocks all insecure HTTP traffic
+### Blocks all insecure HTTP traffic
 
+```
 /http\:/
 ```
 
+### Blocks some coinmining websites
+
 ```
-# Blocks some coinmining websites
-
 /(coinmin)/
+```
 
-# Blocks ads
+### Blocks Advertisments
 
+```
 /(ad(service|sdk|vert|serv|s))/
-
 /(banner|doubleclick|groovinads|liveadvert|popupad)/
 ```
 
 - [x] [HomemadeAdvanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
 
-```
-# Advertisments & Tracking
+### Advertisments & Tracking
 
+```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -650,9 +642,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(tracking\.)
 ```
 
-```
-# Advertisments & Tracking (logs included)
+### Advertisments & Tracking (logs included)
 
+```
 ((^)|(.))adchoice. 
 ((^)|(.))ads.roku.com 
 ((^)|(.))adsdk. 
@@ -665,9 +657,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)xn--.*$ 
 ```
 
-```
-# Advertisments & Tracking
+### Advertisments & Tracking
 
+```
 (ads|captive|cloudservices|logs).roku.com$ 
 .*\.g00\..* 
 ^ad([sxv]?[0-9]*|system)[-_.]([^.[:space:]]+\.){1,}|[-_.]ad([sxv]?[0-9]*|system)[-_.] 
@@ -682,20 +674,17 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^pixels?[-_.] 
 ```
 
+### Analytics & Tracking
+
 ```
-# Analytics & Tracking
-
-
 (^|\.)analytics$ 
 (^|\.)adsterra\.com$ 
 (^|\.)clicky\.com$ 
-
 ^(.+[-_.])??telemetry[-.] 
 google-{0,}(analytic|syndication|(ad[a-z0-9]*|tag)-{0,}service)[s]\.[a-z]{2,7}$ 
 google-{0,}(analytics{0,}|(ad|tag)manager)\.[a-z]{2,7}$ 
 double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$ 
 (google|partner|pub)-{0,}ads{0,}-{0,}(apis{0,})\.[a-z]{2,7}$ 
-
 ([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com/ 
 ([A-Za-z0-9.-]*\.)?secure\.footprint\.net/ 
 ([A-Za-z0-9.-]*\.)?match\.com/ 
@@ -725,7 +714,6 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ([A-Za-z0-9.-]*\.)?info\.yahoo\.com/ 
 ([A-Za-z0-9.-]*\.)?ads\.yahoo\.com/ 
 ([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com/ 
-
 /ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/ 
 /(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/ 
 /(.+[_.-])?telemetry[_.-]/ 
@@ -745,19 +733,18 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
 
+### Google
+
 ```
-# Google
-
-
 ^(.*[_.-])?double[-]*[ck]li([c]*k[sz]*|que)[_.-]
 ^(.*[_.-])?google[-]*(analy(se|ti([ck]|que))|syndi[ck]ation|(ad[a-z0-9]*|tag)[-]*(manager|service))[sz]*[_.-]
 (^|\.)firebase
 (^|\.)adservice\.google\.
 ```
 
-```
-# Tracking Statistics
+### Tracking Statistics
 
+```
 ^.*-dnsotls-ds\.metric\.gstatic\.com\.$
 ^.*\.(ds|v[46])\.metric\.gstatic\.com\.$
 ```
@@ -770,9 +757,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
-```
-# Advertisments & Tracking
+### Advertisments & Tracking
 
+```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
@@ -796,10 +783,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
 
+### Block Tiktok Traffic
+
 ```
-
-# Block Tiktok Traffic on your Network
-
 (\.|^)bytecdn\.cn$
 (\.|^)bytedance\.com$
 (\.|^)bytedance\.net$
@@ -1216,7 +1202,6 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 
 - [x] [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
 
-
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
@@ -1262,9 +1247,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (.*)\.g00\.(.*).
 ```
 
-
 - [x] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
-
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -1328,8 +1311,6 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ```
 
 ```
-### Windows diagnostic data
-
 (\.|^)wpc\.*\.net$
 (\.|^)yovoads\.com$
 (^|.)geo[-.]?
@@ -1345,28 +1326,28 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ```
 
-```
 ### https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/amp.list
 
+```
 ^(.+[_.-])?amp(project)?\.
 ```
 
-```
 ### https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
 
+```
 ^(.+[_.-])?dnsdelegation\.io$
 ```
 
-```
 ### https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
 
+```
 ^(.+[_.-])?eulerian\.net$
 ^(.+[_.-])?telemetry[_.-]
 ```
 
-```
 ### https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/internationalized%20domains.list
 
+```
 ^(www[0-9]*\.)?xn--
 ```
 
@@ -1639,5 +1620,3 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
 ```
-
-
