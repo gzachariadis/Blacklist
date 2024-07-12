@@ -1,6 +1,6 @@
 <h1 align="center">PiHole Regex Library</h1>
 
-<h3 align="center">Sources<h3>
+<h3>Sources<h3>
 
 - [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
 
