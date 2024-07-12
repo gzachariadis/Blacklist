@@ -1,6 +1,4 @@
-<h1 align="center">PiHole Regex Library</h1>
-
-<h3>Sources<h3>
+<h1 align="center">Sources</h1>
 
 - [x] [A Programming Blog](https://surajdeshpande.wordpress.com/2021/01/23/pihole-adlist-and-regex-blacklist/)
 
