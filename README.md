@@ -1,3 +1,4 @@
+
 <h1 align="center">External Sources</h1>
 
 - [ ] [Capitole - Blacklist](http://dsi.ut-capitole.fr/blacklists/download/)
@@ -6,10 +7,9 @@
 - [Hocklus - BlocklistBlaster](https://github.com/HOCKULUS/BlocklistBlaster)
 - [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
 - [Pierky - Blocklistagrgregator](https://github.com/pierky/blocklistsaggregator)
-- [x] [0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
+- [x] [TheSmashy - 0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
 - [x] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
 - [x] [1Hosts](https://o0.pages.dev/)
-- [x] [Xanny The Pleb - Adguard Home Adblock](https://github.com/xannythepleb/adguard-home-adblock)
 - [x] [4SkinSkywalker - Anti Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
 - [x] [521Xueweihan - GitHub520](https://github.com/521xueweihan/GitHub520)
 - [x] [9600baudconsolecable - iFunny](https://github.com/9600baudconsolecable/Ifunny-Blocklist)
@@ -460,7 +460,6 @@
 - [x] [Spam404](https://github.com/Spam404/lists)
 - [x] [SpiriLeo - Blocklist Collection](https://github.com/spiri-leo/blocklist-collection)
 - [x] [Spootle - Blocklist](https://codeberg.org/spootle/blocklist)
-- [x] [Spootle - Blocklist](https://codeberg.org/spootle/blocklist)
 - [x] [Square252 - adBlocking Hosts](https://github.com/Square252/adBlockHosts)
 - [x] [Srbdev - Blocklist](https://github.com/srbdev/blocklist)
 - [x] [Stamparm - BlackBook](https://github.com/stamparm/blackbook)
@@ -573,6 +572,7 @@
 - [x] [World Wide Block - Netguard Block](https://github.com/WorldWideBlock/netguard-block)
 - [x] [Wranders - DOH](https://github.com/wranders/doh-list)
 - [x] [X8716e](https://github.com/X8716e)
+- [x] [Xanny The Pleb - Adguard Home Adblock](https://github.com/xannythepleb/adguard-home-adblock)
 - [x] [XionKzn - Pihole Lists](https://github.com/XionKzn/PiHole-Lists)
 - [x] [Xlimit91 - Pi-Hole Blocklist by xlimit91 (DNS Blocking)](https://github.com/xlimit91/xlimit91-block-list)
 - [x] [Yokoffing - Filterlists](https://github.com/yokoffing/filterlists)
