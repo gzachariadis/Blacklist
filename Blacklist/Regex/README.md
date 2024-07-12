@@ -1,4 +1,4 @@
-<h1 align="center">Regex Expressions</h1>
+<h1 align="center">Regex Library</h1>
 
 <h3 align="center">Sources<h3>
 
