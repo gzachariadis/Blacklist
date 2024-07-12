@@ -10,6 +10,7 @@
 - [x] [TheSmashy - 0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
 - [x] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
 - [x] [1Hosts](https://o0.pages.dev/)
+- [x] [Nezu81 - Pihole Mega Lists](https://gitlab.com/nezu81/pihole-mega-lists)
 - [x] [4SkinSkywalker - Anti Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
 - [x] [521Xueweihan - GitHub520](https://github.com/521xueweihan/GitHub520)
 - [x] [9600baudconsolecable - iFunny](https://github.com/9600baudconsolecable/Ifunny-Blocklist)
