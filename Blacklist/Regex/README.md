@@ -1,6 +1,6 @@
 <h1 align="center">Regex Expressions</h1>
 
-- [x] [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
+### [SystemJargon - Pihole](https://github.com/SystemJargon/pi-hole)
 
 ```
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
@@ -110,7 +110,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /^stat(s|istics)?[0-9]*[_.-]/
 ```
 
-- [x] [Cparsell - Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
+### [Cparsell - Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
 
 ```
 [_.-]analytics?[_.-]
@@ -173,13 +173,13 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(.*\.)*(ad-(balancer|brix|center|cloud|delivery|delivery|locus|maven|move|plus|score|srv|stir))\.([a-z]{2,3}\.)*[a-z]{2,6}$
 ```
 
-- [x] [Mkb2091 - Blockconvert](https://github.com/mkb2091/blockconvert)
+### [Mkb2091 - Blockconvert](https://github.com/mkb2091/blockconvert)
 
 ```
 [_.-]analytics?[_.-]
 ```
 
-- [x] [NocutralArchives - BlockLists](https://github.com/nocturnalarchives/BlockLists)
+### [NocutralArchives - BlockLists](https://github.com/nocturnalarchives/BlockLists)
 
 ```
 (\.|^)*-alert*\.
@@ -303,14 +303,14 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^.*beacons?.*\.
 ```
 
-- [x] [RPiList - Specials](https://github.com/RPiList/specials)
+### [RPiList - Specials](https://github.com/RPiList/specials)
 
 ```
 \.ru$
 \.link$
 ```
 
-- [x] [Slyfox1186 - Pihole Regex](https://github.com/slyfox1186/pihole-regex)
+### [Slyfox1186 - Pihole Regex](https://github.com/slyfox1186/pihole-regex)
 
 ```
 (\.|^)dataplicity\.com$
@@ -360,7 +360,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^v-[a-z0-9]+\.wc\.yahoodns\.net$
 ```
 
-- [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
+### [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 
 ```
 /^(.*\.)*(accountant|ad|an|analytic[s]*|bar|bi[dt]|biz|christmas|click|club|country|cricket|date|dclk|diet|docs|download|exit|faith|free|fun|gdn|guru|i2p|info|kim|link|loan|men|mobi|mom|name|ninja|office|on(ion|line)|ovh|party|pro|racing|realtor|reise|ren|review|rocks|science|shop|site|space|stream|study|tec(h|hnology)|to[pr]|trade|vip|web(cam|site)|work|win|xin|xyz|yokohama|zone)$/
@@ -379,7 +379,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 #/^.*(advert|banner|beacon|cash|click[y]*|coin|coun(t|ter[s]*)|megavolt|ms[-]*edge|([ens0-9]+)*(omni|over)ture|pop(cash|check|test|under|up)|track(er|ing))[\.\-]/
 ```
 
-### Common AD labels
+#####  Common AD labels
 
 ```
 /^(.*[\.\-])*[0-9]*(php|web|[mwxy])*ad[sxz]*[0-9]*[\.\-]/
@@ -388,14 +388,14 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /^(banner[a-z]*|open[-]*(ad|x)|page[-]*ad|reklam|(secure[-]*)*pub[-]*ad|smart[-]*ad[s]*([-]*server)*|unityad)[sz]*[0-9]*[\.\-]/
 ```
 
-### Common Tracking/Stats labels
+#####  Common Tracking/Stats labels
 
 ```
 /^(.*[\.\-])*(affiliate|([s]*anal|local)[iy](s[iy]s|ti[ck])|click|clk|cooki(e|ex)|cnt|coun(t[y]*|t[e]*[dr])|datacollect|hit|(amp|[s]*)metr[iy][ck]|open[-]*(ad|x)|partner|ping|pixel|sta(t|tisti[ck])|tag|(web|[uv]*)stat)[sz]*[0-9]*[\.\-]/
 /^(.*[\.\-])*(telemetr[iy]|(evil|[s]*)trac(k|king|ker)|[s]*trk|utm|video[-]*stat)[sz]*[0-9]*[\.\-]/
 ```
 
-### Top-N advertisers/trackers domain(parts)
+#####  Top-N advertisers/trackers domain(parts)
 
 ```
 /^(.*\.)*(atdmt|beget|bango|casalemedia|clickbank|extreme[-]*dm|flurry|krxd|liveadvert|moatads|mookie[1-9]*|nuggad|omtrdc|p2l|quants[e]*rv[e]*|onestat|onthe|pop(cash|check|test|under|up)|revsci|scorecardresearch|sitestat|tacoda|tynt)\./
@@ -403,7 +403,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /^(.*\.)*(hit(box|tail)|hotjar|imrworldwide|intellitxt|lijit|mixpanel|ms[-]*adcenter|netklix|outbrain|petrovka|pixel|syndication|rubiconproject|sitemeter|skimresources|smaato|smartadserver|(fast|stat)counter|suprnova|taboola|tradedouble[r]*|xiti|usergrid|visualrevenue|volumetrk)\./
 ```
 
-### Google
+#####  Google
 
 ```
 /^(.*\.)*google[-]*(analytic|syndication|(ad[a-z0-9]*|tag)[-]*service)[s]*\./
@@ -412,10 +412,10 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /^(google|partner|pub)ad[s]*(api[s]*)*\./
 ```
 
-- [x] [SystemJargon - Filters](https://github.com/SystemJargon/filters)
+### [SystemJargon - Filters](https://github.com/SystemJargon/filters)
 
 
-### Facebook
+#####  Facebook
 
 ```
 (\.|^)facebook\.com$
@@ -443,21 +443,21 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^|-)(facebook|fb|instagram|tiktok|whatsapp|snapchat)[.]
 ```
 
-### Tracking
+#####  Tracking
 
 ```
 (\.)(adult|ads|adverts|advertising|click|porn|sex|telemetry|tracking|tracing)$
 ```
 
-- [x] [Smokingwheels-SmokingWheels.github.io](https://github.com/smokingwheels/smokingwheels.github.io)
+### [Smokingwheels-SmokingWheels.github.io](https://github.com/smokingwheels/smokingwheels.github.io)
 
 ```
 (\.|^)clickbank\.net$
 ```
 
-- [x] [Greg-2600-PiholeBlocklist](https://github.com/Greg-2600/pihole_block_list)
+### [Greg-2600-PiholeBlocklist](https://github.com/Greg-2600/pihole_block_list)
 
-### Advertisments
+#####  Advertisments
 
 ```
 (^|\.)qualtrics\.com$
@@ -479,35 +479,35 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^track(ing)?[0-9]*[_.-]
 ```
 
-- [x] [HL2Guide- Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
+### [HL2Guide- Filterlists for Adguard or PiHole](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole)
 
-### FileTypes
+#####  FileTypes
 
 ```
 /(.*).(aif|cda|mid|midi|mpa|wma|wpl|arj|z|dmg|toast|vcd|gadget)/
 /(.*).(wsf|fon|cfm|swift|vb|3g2|3gp|avi|flv|mov|rm|swf|vob|wmv)/
 ```
 
-### [A1] Tracking and Stats
+#####  [A1] Tracking and Stats
 
 ```
 /(.*)(cookie|pixel|stat|telemetry|tracker|pixel|analytic|metric)(s\b|\b)(.*)/
 /(.*)(tracking|xiaomi)(s\b|\b)(.*)/
 ```
 
-### [B1] Scams
+#####  [B1] Scams
 
 ```
 /(.*)(g2a)(.*)/
 ```
 
-### [C1] Banned Words
+#####  [C1] Banned Words
 
 ```
 /(.*)(chatroom|cheat|drug|casino|liveshow|weapon|coin)(s\b|\b)(.*)/
 ```
 
-### [C2] Horrible Words
+#####  [C2] Horrible Words
 
 ```
 /(.*)(rape|forcedsex|animalsex|bestiality|beastsex|monstersex|zoosex|snuff)(s\b|\b)(.*)/
@@ -515,28 +515,28 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /(.*)(pedophilia|necrophilia|incapacitatedsex|blood|mutilation)(s\b|\b)(.*)/
 ```
 
-### Blocks all insecure HTTP traffic
+#####  Blocks all insecure HTTP traffic
 
 ```
 /http\:/
 ```
 
-### Blocks some coinmining websites
+#####  Blocks some coinmining websites
 
 ```
 /(coinmin)/
 ```
 
-### Blocks Advertisments
+#####  Blocks Advertisments
 
 ```
 /(ad(service|sdk|vert|serv|s))/
 /(banner|doubleclick|groovinads|liveadvert|popupad)/
 ```
 
-- [x] [HomemadeAdvanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
+### [HomemadeAdvanced - PiHole](https://codeberg.org/HomemadeAdvanced/PiHole)
 
-### Advertisments & Tracking
+#####  Advertisments & Tracking
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -642,7 +642,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(tracking\.)
 ```
 
-### Advertisments & Tracking (logs included)
+#####  Advertisments & Tracking (logs included)
 
 ```
 ((^)|(.))adchoice. 
@@ -657,7 +657,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)xn--.*$ 
 ```
 
-### Advertisments & Tracking
+#####  Advertisments & Tracking
 
 ```
 (ads|captive|cloudservices|logs).roku.com$ 
@@ -674,7 +674,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^pixels?[-_.] 
 ```
 
-### Analytics & Tracking
+#####  Analytics & Tracking
 
 ```
 (^|\.)analytics$ 
@@ -731,9 +731,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (x[n]?xx|xvideo|porn|sex).*\. 
 ```
 
-- [x] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
+### [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
 
-### Google
+#####  Google
 
 ```
 ^(.*[_.-])?double[-]*[ck]li([c]*k[sz]*|que)[_.-]
@@ -742,22 +742,22 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)adservice\.google\.
 ```
 
-### Tracking Statistics
+#####  Tracking Statistics
 
 ```
 ^.*-dnsotls-ds\.metric\.gstatic\.com\.$
 ^.*\.(ds|v[46])\.metric\.gstatic\.com\.$
 ```
 
-- [x] [Revolveruk30 - Pihole Regex](https://github.com/revolveruk30/pihole-regex)
+### [Revolveruk30 - Pihole Regex](https://github.com/revolveruk30/pihole-regex)
 
 ```
 
 ```
 
-- [x] [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
+### [Hemiipatu - Pihole Blocklists](https://github.com/hemiipatu/PiHoleBlocklists)
 
-### Advertisments & Tracking
+#####  Advertisments & Tracking
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -781,9 +781,9 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 .*\.g[0-9]+\..*
 ```
 
-- [x] [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
+### [Liamengland1 - Mischosts](https://github.com/liamengland1/mischosts)
 
-### Block Tiktok Traffic
+#####  Block Tiktok Traffic
 
 ```
 (\.|^)bytecdn\.cn$
@@ -815,13 +815,13 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^)wsdvs\.com$
 ```
 
-- [x] [AIRFORCE1 - PiHoleRepositorys](https://github.com/AlRFORCE1/PiHoleRepositorys)
+### [AIRFORCE1 - PiHoleRepositorys](https://github.com/AlRFORCE1/PiHoleRepositorys)
 
 ```
 (^|\.)casino$
 ```
 
-- [x] [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
+### [HeribertoKubuntu - Pihole](https://github.com/HeribertoKubuntu/pihole)
 
 ```
 r[0-9\-]*\-sn\-[a-z0-9]*\-[0-9a-z]{4}\.googlevideo\.com
@@ -1006,7 +1006,7 @@ r[0-9\-]*\-sn\-[a-z0-9]*\-[0-9a-z]{4}\.googlevideo\.com
 ^(tracking\.)
 ```
 
-- [x] [SystemJargon - Blockist](https://github.com/SystemJargon/blocklists)
+### [SystemJargon - Blockist](https://github.com/SystemJargon/blocklists)
 
 ```
 (\.|^)(adserve|adtrack|advert|affiliate|analytics|banners|beacons|click|counters|pixels|stats|statistics|telemetry|track|tracking)
@@ -1085,7 +1085,7 @@ r[0-9\-]*\-sn\-[a-z0-9]*\-[0-9a-z]{4}\.googlevideo\.com
 /^graph?[-.]/
 ```
 
-- [x] [Cparsell - Blocklists-Whitelists](https://github.com/cparsell/Blocklists-Whitelists)
+### [Cparsell - Blocklists-Whitelists](https://github.com/cparsell/Blocklists-Whitelists)
 
 ```
 /^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
@@ -1200,7 +1200,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 /^stat(s|istics)?[0-9]*[_.-]/
 ```
 
-- [x] [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
+### [Mmotti - Pihole Regex](https://github.com/mmotti/pihole-regex)
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -1219,7 +1219,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^stat(s|istics)?[0-9]*[_.-]
 ```
 
-- [x] [MajkiIT - Polish Ads Filters](https://github.com/MajkiIT/polish-ads-filter)
+### [MajkiIT - Polish Ads Filters](https://github.com/MajkiIT/polish-ads-filter)
 
 ```
 ^adserver\.
@@ -1247,7 +1247,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (.*)\.g00\.(.*).
 ```
 
-- [x] [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
+### [Levi2288 - Advanced Blocklist](https://github.com/Levi2288/AdvancedBlockList)
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -1266,7 +1266,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^stat(s|istics)?[0-9]*[_.-]
 ```
 
-- [x] [x0uid - SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock)
+### [x0uid - SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock)
 
 ```
 (\.|^)google-analytics\.com$
@@ -1280,7 +1280,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (\.|^)fastclick\.net&
 ```
 
-- [x] [Stevoh6  - Pihole---Allow-and-Block-lists](https://github.com/stevoh6/Pihole---Allow-and-Block-lists)
+### [Stevoh6  - Pihole---Allow-and-Block-lists](https://github.com/stevoh6/Pihole---Allow-and-Block-lists)
 
 ```
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -1326,32 +1326,32 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ```
 
-### https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/amp.list
+#####  https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/amp.list
 
 ```
 ^(.+[_.-])?amp(project)?\.
 ```
 
-### https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
+#####  https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
 
 ```
 ^(.+[_.-])?dnsdelegation\.io$
 ```
 
-### https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
+#####  https://github.com/mmotti/pihole-regex/blob/master/user%20suggested/first-party%20trackers.list
 
 ```
 ^(.+[_.-])?eulerian\.net$
 ^(.+[_.-])?telemetry[_.-]
 ```
 
-### https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/internationalized%20domains.list
+#####  https://github.com/mmotti/pihole-regex/blob/master/miscellaneous/internationalized%20domains.list
 
 ```
 ^(www[0-9]*\.)?xn--
 ```
 
-- [x] [Peatrick - My Pihole Lists](https://github.com/peatrick/my-pihole-lists)
+### [Peatrick - My Pihole Lists](https://github.com/peatrick/my-pihole-lists)
 
 ```
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
@@ -1373,7 +1373,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)roku\.com$
 ```
 
-- [x] [Anthony-wang - PiHole Blocklist](https://github.com/anthony-wang/PiHoleBlocklist)
+### [Anthony-wang - PiHole Blocklist](https://github.com/anthony-wang/PiHoleBlocklist)
 
 
 ```
@@ -1423,7 +1423,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^stat(s|istics)?[0-9]*[-_.]
 ```
 
-- [x] [Reddit - Pihole](https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/)
+### [Reddit - Pihole](https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/)
 
 ```
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
@@ -1459,7 +1459,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 (^|\.)xn--.*$ 
 ```
 
-- [x] [Xlimit91 - Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
+### [Xlimit91 - Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
 
 ```
 ^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
@@ -1480,7 +1480,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ```
 
 
-- [x] [PebbleOG - Pihole Regex](https://github.com/PebbleOG/pihole-regex)
+### [PebbleOG - Pihole Regex](https://github.com/PebbleOG/pihole-regex)
 
 ```
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
@@ -1557,7 +1557,7 @@ double-{0,}clic(k|k[.]*by-{0,}google)\.[a-z]{2,7}$
 ^stat(s|istics)?[0-9]*[_.-]
 ```
 
-- [x] [Ojmarcelino - Blocklists](https://github.imc.re/ojmarcelino/blocklists)
+### [Ojmarcelino - Blocklists](https://github.imc.re/ojmarcelino/blocklists)
 
 ```
 ^(.+[_.-])?graph[_.-]
