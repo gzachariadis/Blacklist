@@ -368,7 +368,6 @@ https://1hosts.cf/
 https://280blocker.net/files/280blocker_adblock_nanj_supp.txt
 https://280blocker.net/files/280blocker_adblock_nanj.txt
 https://280blocker.net/files/280blocker_adblock.txt
-https://280blocker.net/files/280blocker_domain_{{DATE:YYYY}}{{DATE:MM}}.txt
 https://280blocker.net/files/280blocker_domain_ag.txt
 https://280blocker.net/files/280blocker_domain.txt
 https://46.182.18.136/cybercrime/blacklists.txt
@@ -544,7 +543,7 @@ https://big.oisd.nl/domains
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/all.php.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/hosts.txt
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Rep$
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Rep
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/zeus_baddomains.txt
@@ -1834,7 +1833,6 @@ https://data.netlab.360.com/feeds/dga/necurs.txt
 https://data.netlab.360.com/feeds/dga/suppobox.txt
 https://data.netlab.360.com/feeds/dga/tofsee.txt
 https://data.netlab.360.com/feeds/dga/virut.txt
-https://data.phishtank.com/data/{{PHISHTANK_APP_KEY}}/online-valid.csv
 https://data.phishtank.com/data/online-valid.csv
 https://datadragon.com/banners/hosts.txt
 https://dataplane.org/dnsrd.txt
@@ -6789,7 +6787,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/N
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/Snaevar87s%20Icelandic%20filter.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/TamilFriends%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Android%20Scum%20Class%0Fake%20notification%20counters.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Android%20Scum%20Class%20—%20Fake%20notification%20counters.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Android%20Scum%20Class%20%E2%80%94%20Fake%20notification%20counters.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList-2ndDivision.txt
@@ -6799,7 +6796,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Christmas%2
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Custom%20cursors%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Elsagate%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Futa%20List.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-FіМ%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Google%20Hangouts%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-IMDB%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Anti-Skype%20List.txt
@@ -6889,7 +6885,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInDomains.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/TorRedirectorList-URLRedirector.json
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/WikiaPureBrowsingExperienceDomains.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/PokémonNoGOZone.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/PornHubPureTrailMixExperience.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Pro-LED%20List.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/RedditTrashRemovalService.txt
@@ -9160,8 +9155,6 @@ https://raw.githubusercontent.com/kano1/I/master/badway.txt
 https://raw.githubusercontent.com/kano1/Kano/master/Spyware_Scrip.txt
 https://raw.githubusercontent.com/kano1/Kano/master/Spyware.txt
 https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt
-https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%20—%20skeletonise.txt
-https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%20—%20skeletonise%20extra.txt
 https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%20Main/Anifiltrs%20extra-main.txt
 https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%20Main/Anifiltrs%20main.txt
 https://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifltrs.txt
@@ -9450,7 +9443,7 @@ https://raw.githubusercontent.com/Loyalsoldier/cn-blocked-domain/release/domains
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
-https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt|
+https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/win-extra.txt
@@ -14415,8 +14408,6 @@ https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_experimental.
 https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_lite.txt
 https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
-https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/DNS-BH%20恶意软件域过滤清单.txt
-https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/DNS-sinkhole%20恶意网站列表.txt
 https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/恶意网站实验室MWSL-hosts列表.txt
 https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/核心列表合集.txt
 https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/莆田系医院列表.txt
