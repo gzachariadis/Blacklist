@@ -14408,9 +14408,6 @@ https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_experimental.
 https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_lite.txt
 https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
-https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/恶意网站实验室MWSL-hosts列表.txt
-https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/核心列表合集.txt
-https://raw.githubusercontent.com/zzhihao2017/CN-Malicious-website-list/master/莆田系医院列表.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
 https://raw.githubusercontent.com/zznidar/BAR/master/URLs_full
 https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/ds_hosts.txt
