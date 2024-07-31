@@ -73,3 +73,6 @@
 - [x] [x0uid - Spotify AdBlock](https://github.com/x0uid/SpotifyAdBlock)
 
 - [x] [Xlimit91- Xlimit91 Blocklist](https://github.com/xlimit91/xlimit91-block-list)
+
+- [x] [S0m3sushi - Pihole Filters](https://github.com/s0m3sushi/pihole-filters)
+

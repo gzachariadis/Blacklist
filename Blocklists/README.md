@@ -1,17 +1,13 @@
 <br>
 
-<h1 align="center">External Sources</h1>
+<h1 align="center">Blocklist Sources</h1>
 
 <br>
 
 - [ ] [Capitole - Blacklist](http://dsi.ut-capitole.fr/blacklists/download/)
 - [ ] [Notrohorse - Government Malware Domains](https://gitlab.com/nitrohorse/government-malware-domains-blocklist)
-- [ ] [Foae - Pihole Youtube Block](https://github.com/foae/pihole-youtube-block)
-- [ ] [Hocklus - BlocklistBlaster](https://github.com/HOCKULUS/BlocklistBlaster)
-- [ ] [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
-- [ ] [Pierky - Blocklistagrgregator](https://github.com/pierky/blocklistsaggregator)
-- [x] [TheSmashy - 0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
-- [x] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
+- [ ] [TheSmashy - 0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
+- [ ] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
 - [x] [1Hosts](https://o0.pages.dev/)
 - [x] [Nezu81 - Pihole Mega Lists](https://gitlab.com/nezu81/pihole-mega-lists)
 - [x] [4SkinSkywalker - Anti Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
@@ -71,7 +67,7 @@
 - [x] [Castle67 - CastleAds](https://github.com/Castle67/CastleAds)
 - [x] [Cats-Team - AdRules](https://github.com/Cats-Team/AdRules)
 - [x] [cbSoftware - CB Malicious Domains](https://github.com/cb-software/CB-Malicious-Domains)
-- [x] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
+- [ ] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
 - [x] [Cbuijs - Insigator](https://github.com/cbuijs/instigator)
 - [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 - [x] [Cchevy - Macedonian Pihole](https://github.com/cchevy/macedonian-pi-hole-blocklist)
@@ -125,6 +121,7 @@
 - [x] [DeadHosts - CoinBLockers](https://github.com/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1)
 - [x] [DeadHosts - CoinBlockers](https://github.com/dead-hosts/CoinBlockersLists-hosts_optional_git_ZeroDot1)
 - [x] [DeadHosts - Cookie Filters](https://github.com/dead-hosts/cookies_filters_git_MajkiIT)
+- [x] [SomeoneWhoCares](https://someonewhocares.org/hosts)
 - [x] [DeadHosts - DBL OISD](https://github.com/dead-hosts/domain_blocklist_web_dbl-oisd-nl)
 - [x] [DeadHosts - DomainVoider](https://github.com/dead-hosts/DomainVoider_git_intr0)
 - [x] [DeadHosts - Easylist Web](https://github.com/dead-hosts/easylist_web_easylist.to)
@@ -148,6 +145,7 @@
 - [x] [DeadHosts - xFiles](https://github.com/dead-hosts/xfiles_filtri_git_gioxx)
 - [x] [DeadHosts - XFiles](https://github.com/dead-hosts/xfiles_siteblock_git_gioxx)
 - [x] [DeadHosts - Zelo72s_rpi.pihole.blocklists.multi](https://github.com/dead-hosts/Zelo72s_rpi.pihole.blocklists.multi)
+- [x] [Yhonay - Antipopads](https://github.com/Yhonay/antipopads)
 - [x] [Death by Dandaid - Whitelists](https://github.com/deathbybandaid/pihole-whitelists)
 - [x] [Deathbybandaid - Pihole Parser](https://github.com/deathbybandaid/piholeparser)
 - [x] [DecaTec - Pihole Blacklists](https://codeberg.org/DecaTec/pihole-blacklists)
@@ -260,8 +258,8 @@
 - [x] [Jawz101 - Subdomain Blocklists](https://github.com/jawz101/subdomain_blocklists)
 - [x] [Jdlingyu - AdWars](https://github.com/jdlingyu/ad-wars)
 - [x] [Jerryn70 - GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
-- [x] [JJXu - NSO Pegasus](https://github.com/jjjxu/NSO_Pegasus_Blocklist)
-- [x] [jkrejcha - AdmiraList](https://github.com/jkrejcha/AdmiraList)
+- [ ] [JJXu - NSO Pegasus](https://github.com/jjjxu/NSO_Pegasus_Blocklist)
+- [ ] [jkrejcha - AdmiraList](https://github.com/jkrejcha/AdmiraList)T
 - [x] [Jmdugan - Blocklists](https://github.com/jmdugan/blocklists)
 - [x] [Johang - Cookie Consent Hosts](https://github.com/johang/cookie-consent-hosts)
 - [x] [Joshi-Jhon23 - Block-Domains](https://github.com/Joshi-Jhon23/Block-Domains)
@@ -359,9 +357,10 @@
 - [x] [NextDNS - Native Tracking Domains](https://github.com/nextdns/native-tracking-domains)
 - [x] [NextDNS - No Safesearch](https://github.com/nextdns/no-safesearch)
 - [x] [NextDNS - Public Suffixes-Extras](https://github.com/nextdns/public-suffixes-extras)
-- [x] [NextDNS = URL Shorteners Domains](https://github.com/nextdns/url-shorteners-domains)
+- [x] [NextDNS - URL Shorteners Domains](https://github.com/nextdns/url-shorteners-domains)
 - [x] [Nicholasb2101 - Pihole](https://github.com/nicholasb2101/PiHole)
 - [x] [NickOppen - VPN Providers & Social Media](https://github.com/nickoppen/pihole-blocklists)
+- [x] [EnergizedProtection - EnergizedBlu](https://github.com/EnergizedProtection/EnergizedBlu)
 - [x] [NickspaarGaren - No Amazon](https://github.com/nickspaargaren/no-amazon)
 - [x] [NickspaarGaren - No Google](https://github.com/nickspaargaren/no-google)
 - [x] [NikolaisChuck - Discord Phishing Links](https://github.com/nikolaischunk/discord-phishing-links)
