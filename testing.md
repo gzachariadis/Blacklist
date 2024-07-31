@@ -6,3 +6,6 @@
 - adblock
 - ip
 - ipset
+- netset
+- ubl
+
