@@ -3,10 +3,10 @@
 
 - [ ] [Capitole - Blacklist](http://dsi.ut-capitole.fr/blacklists/download/)
 - [ ] [Notrohorse - Government Malware Domains](https://gitlab.com/nitrohorse/government-malware-domains-blocklist)
-- [Foae - Pihole Youtube Block](https://github.com/foae/pihole-youtube-block)
-- [Hocklus - BlocklistBlaster](https://github.com/HOCKULUS/BlocklistBlaster)
-- [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
-- [Pierky - Blocklistagrgregator](https://github.com/pierky/blocklistsaggregator)
+- [ ] [Foae - Pihole Youtube Block](https://github.com/foae/pihole-youtube-block)
+- [ ] [Hocklus - BlocklistBlaster](https://github.com/HOCKULUS/BlocklistBlaster)
+- [ ] [JavanXD - Yet another Pi-hole list](https://github.com/JavanXD/ya-pihole-list)
+- [ ] [Pierky - Blocklistagrgregator](https://github.com/pierky/blocklistsaggregator)
 - [x] [TheSmashy - 0365 Whitelist](https://github.com/TheSmashy/O365Whitlist)
 - [x] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
 - [x] [1Hosts](https://o0.pages.dev/)
@@ -587,3 +587,4 @@
 - [x] [ZingyAwesome - EasyList](https://github.com/ZingyAwesome/easylists-for-pihole)
 - [x] [Zoonderkins - DBL OISD NL](https://github.com/zoonderkins/dbl-oisd-nl)
 - [x] [Zoso.ro - Rolist](https://zoso.ro/rolist/)
+
