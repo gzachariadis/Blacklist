@@ -49,7 +49,7 @@
 
 <br>
 
-⚠️ Important Security Notice
+⚠️ Security
 
 <br>
 
