@@ -1,4 +1,10 @@
-![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist)
+![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist?style=plastic&logoColor=white&label=Created%20at&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist)
+![GitHub followers](https://img.shields.io/github/followers/gzachariadis)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
+![GitHub User's stars](https://img.shields.io/github/stars/gzachariadis)
+
 
 <br>
 
