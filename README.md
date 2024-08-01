@@ -128,14 +128,11 @@ For questions, suggestions, or support, please open an issue or contact me using
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
 <h3>Support Development</h3>
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
-
-<h3>Mirrors</h3>
-
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
