@@ -15,7 +15,7 @@
 
 🎯 Purpose
 
-Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, ensuring reducing the likelihood of being tracked or exposing my network to malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
+Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, for the purpose of reducing the likelihood of being tracked or exposing my network to malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
 
 Currently, this repository is a virtual backup for my configuration, vetted and upgraded over-time by an automated script.
 
