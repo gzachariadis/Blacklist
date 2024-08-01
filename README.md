@@ -4,9 +4,6 @@
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 <br>
 
 <h1 align="center">
@@ -21,6 +18,8 @@
 ![Total Domains](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
+![License](https://img.shields.io/badge/License-MIT-blue)
 </div>
 
 <br>
