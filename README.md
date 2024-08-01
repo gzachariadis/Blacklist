@@ -41,7 +41,7 @@
 
 <br>
 
-📊 Statistics
+📈 Statistics
 
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
