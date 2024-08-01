@@ -45,16 +45,16 @@
 
 <br>
 
-<h3>Primary Blocklists Sources</h3>
+<h3>🚫 Primary Blocklists Sources</h3>
 
-- Filterlists 
+- **[FilterLists](https://filterlists.com/)**
 
-- Firebog 
+- **[Firebog](https://firebog.net/)**
 
-- Blocklist Project
+- **[Blocklist Project](https://blocklistproject.github.io/)**
 
-- Unified Hosts
-
+- **[Unified Hosts](https://github.com/AdguardTeam/AdguardFilters)**
+  
 for a more detailed section, look [here](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Blocklists)
 
 <br>
