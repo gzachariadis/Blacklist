@@ -39,11 +39,15 @@
 
 - DOH/DNS - Public and DoH (DNS over HTTPS) Servers (bypass protection)
 
+<br>
+
 <h3>📈 Statistics</h3>
 
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
 - Regex Filters: 1,381
+
+<br>
 
 <h3>🛡️ Security</h3>
 
