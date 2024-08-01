@@ -36,15 +36,11 @@
 
 - DOH/DNS: Public and DoH (DNS over HTTPS) Servers
 
-<br>
-
 📊 Statistics
 
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
 - Regex Filters: 1,381
-
-<br>
 
 ⚠️ Important Security Notice
 
