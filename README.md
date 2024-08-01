@@ -9,7 +9,7 @@
   <i align="center"> Block-lists, regex & domains focused mainly targeted at Tracking, Malware, Social Media & Advertisements</i>
   <br>
   <br>
-  <i align="center">Domains on Adlists - 22,819,556</i>
+  <i align="center">Domains on Adlists - 22,821,574</i>
 </p>
 <br>
 
@@ -36,6 +36,25 @@ Currently, this repository is a virtual backup for my configuration, vetted and 
 - Google: Blocks access to a wide range of Alpabet & Google Domains. (Youtube is operational)
 
 - DOH/DNS: Public and Doh (DNS over HTTPS) Servers
+
+<br>
+
+📊 Statistics
+
+<br>
+
+Gravity Domains
+
+A comprehensive compilation of domains sourced from multiple lists, representing the extensive coverage of my blocklists.
+
+- Total Domains: 139,842,918
+- Unique Domains: 22,821,574
+
+Regex Blacklist Filters
+
+Powerful and flexible, regex filters allow us to block a wide range of domain patterns, ensuring efficient and comprehensive blocking.
+
+- Regex Filters: 1,381
 
 <br>
 

@@ -1,3 +1,6 @@
 youtube
 regex
+adblock
+ublock-origin
+ublock
 
