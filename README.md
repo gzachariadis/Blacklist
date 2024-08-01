@@ -45,7 +45,7 @@
 
 <br>
 
-<h3>🚫 Blocklist Aggregator Sources</h3>
+<h3>🚫 Blocklists Aggregator Sources</h3>
 
 - **[FilterLists](https://filterlists.com/)**
 
@@ -55,7 +55,7 @@
 
 - **[Unified Hosts](https://github.com/AdguardTeam/AdguardFilters)**
   
-for a more detailed section, look [here](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Blocklists)
+    for a more detailed section, look [here](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Blocklists)
 
 <br>
 
