@@ -39,10 +39,6 @@ Enjoy!
 
 <br>
 
-and more...
-
-<br>
-
 🔒 Disclaimer
 
 While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
