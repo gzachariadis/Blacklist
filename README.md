@@ -58,14 +58,6 @@
 
 <br>
 
-<h3>📈 Statistics</h3>
-
-- Total Domains: 139,842,918
-- Unique Domains: 22,821,574
-- Regex Filters: 1,381
-
-<br>
-
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
 - **[FilterLists](https://filterlists.com/)**
@@ -81,6 +73,8 @@
 <br>
 
 <h3>🛡️ Security</h3>
+
+<br>
 
 While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
