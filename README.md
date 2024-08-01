@@ -25,17 +25,17 @@
 
 <h3>📂 Categories</h3>
 
-- Tracking: Blocks domains known for tracking user activities.
+- Tracking - Blocks domains known for tracking user activities.
 
-- Malware: Protects against domains with destructive malware.
+- Malware - Protects against domains with destructive malware.
 
-- Advertisements: Blocks ad-serving domains for a cleaner browsing experience.
+- Advertisements - Blocks ad-serving domains for a cleaner browsing experience.
 
-- Social Media: Blocks access to most major social media platforms.
+- Social Media - Blocks access to most major social media platforms.
 
-- Google: Blocks access to a wide range of Alphabet Inc. & Google Domains.
+- Google - Blocks access to a wide range of Alphabet Inc. & Google Domains.
 
-- DOH/DNS: Public and DoH (DNS over HTTPS) Servers
+- DOH/DNS - Public and DoH (DNS over HTTPS) Servers (bypass protection)
 
 <h3>📈 Statistics</h3>
 
@@ -59,7 +59,7 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 🔗 Proposed Resources
 
-- [Pi-hole](https://github.com/gzachariadis/Pi-Hole) A configuration guide for setting up fully self-contained Unbound + Pi-hole setup for maximum privacy and ad-blocking efficiency.
+- [Pi-hole](https://github.com/gzachariadis/Pi-Hole) A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
