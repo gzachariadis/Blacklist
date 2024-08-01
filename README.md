@@ -13,7 +13,7 @@
 </p>
 <br>
 
-</div align="justify">Originally began as a personal endeavor to protect my own digital footprint, by meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content.<div> 
+</div align="justify">Originally began as a personal endeavor to protect my own digital footprint. Meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content.<div> 
 
 <br>
 
