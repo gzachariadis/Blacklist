@@ -23,6 +23,8 @@
 
 <h3>📂 Categories</h3>
 
+<br>
+
 - Tracking - Blocks domains known for tracking user activities.
 
 - Malware - Protects against domains with destructive malware.
