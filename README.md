@@ -16,6 +16,8 @@
 </div align="justify">Originally, this project began as a personal endeavor to protect my own digital footprint; Meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content.</div>
 
 <br>
+<br>
+
 
 <div align="justify">Having worked on it, over the last few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
 
