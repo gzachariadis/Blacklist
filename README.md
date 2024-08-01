@@ -27,15 +27,15 @@
 
 - Tracking: Blocks domains known for tracking user activities.
 
-- Malware: Protects against domains destructive malware.
+- Malware: Protects against domains with destructive malware.
 
 - Advertisements: Blocks ad-serving domains for a cleaner browsing experience.
 
 - Social Media: Blocks access to most major social media platforms.
 
-- Google: Blocks access to a wide range of Alpabet & Google Domains. (Youtube is operational)
+- Google: Blocks access to a wide range of Alphabet Inc. & Google Domains.
 
-- DOH/DNS: Public and Doh (DNS over HTTPS) Servers
+- DOH/DNS: Public and DoH (DNS over HTTPS) Servers
 
 <br>
 
