@@ -15,6 +15,8 @@
 
 🎯 Purpose
 
+<br>
+
 Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, for the purpose of reducing the likelihood of being tracked or exposing my network to malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
 
 Currently, this repository is a virtual backup for my configuration, vetted and upgraded over-time by an automated script.
@@ -24,6 +26,8 @@ Enjoy!
 <br>
 
 📂 Blocklist Categories
+
+<br>
 
 - Tracking: Blocks domains known for tracking user activities.
 
@@ -41,6 +45,8 @@ Enjoy!
 
 🔒 Disclaimer
 
+<br>
+
 While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
 
 Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a><
@@ -48,6 +54,8 @@ Use of these lists, will break things and depending on your needs, require white
 <br>
 
 📝 Contributing
+
+<br>
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
 
@@ -61,11 +69,15 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 
 📄 License
 
+<br>
+
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 <br>
 
 🌐 Contact
+
+<br>
 
 For questions, suggestions, or support, please open an issue.
 
