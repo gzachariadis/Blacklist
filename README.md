@@ -1,12 +1,16 @@
 ![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist?style=plastic&logoColor=white&label=Created%20at&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist)
+![GitHub last commit](https://img.shields.io/github/Last-Commit/gzachariadis/Blacklist)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
-![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
+![Total Domains](https://img.shields.io/badge/Total%20Domains-22.821.574-blue)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
+
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 <br>
 
@@ -113,5 +117,18 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 
 <h3>🌐 Contact</h3>
 
-For questions, suggestions, or support, please open an issue.
+For questions, suggestions, or support, please open an issue or contact me using the options below.
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+
+<h3>Support Development</h3>
+
+[![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+
+<h3>Mirrors</h3>
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
