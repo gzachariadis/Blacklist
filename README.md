@@ -13,7 +13,9 @@
 </p>
 <br>
 
-</div align="justify">Originally began as a personal endeavor to protect my own digital footprint, by meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content. Having worked on it for a few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
+</div align="justify">Originally began as a personal endeavor to protect my own digital footprint, by meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content.<div> 
+
+<div align="justify">Having worked on it for a few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
 
 <br>
 <br>
