@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <i align="center"> Block-lists, regex & domains focused mainly Tracking, Malware & Advertisements compatible with Pi-hole</i>
+  <i align="center"> Block-lists, regex & domains focused mainly targeted at Tracking, Malware & Advertisements</i>
   <br>
   <br>
   <i align="center">Domains on Adlists - 22,819,556</i>
