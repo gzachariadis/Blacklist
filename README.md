@@ -21,7 +21,6 @@
 <div>Currently, this repository acts as a virtual backup; tracking and mirroring my configuration as it's being vetted and upgraded over-time. Hope you enjoy!</div>
 
 <br>
-<br>
 
 📂 Blocklist Categories
 
@@ -51,17 +50,15 @@
 
 While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
-For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I recommend these tools:
+For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I recommend these tools
 
-- [uBlock Origin](https://github.com/gzachariadis/uBlockOrigin) - A browser extension which offers advanced ad and tracker blocking capabilities, allowing for fine-grained control over what content is allowed or blocked. It works seamlessly alongside Pi-hole to provide an extra layer of protection at the browser level.
+- [uBlock Origin](https://github.com/gzachariadis/uBlockOrigin) - A browser extension which offers advanced ad and tracker blocking capabilities, allowing for fine-grained control over what content is allowed or blocked. It works seamlessly alongside Pi-hole to provide an extra layer of protection at the browser level and minimizing the number of requests reaching your DNS.
 
-- [OPNSense](https://github.com/gzachariadis/OPNSense): As a powerful open-source firewall and routing platform, OPNSense offers comprehensive network security features, including intrusion detection and prevention systems. It can work in tandem with Pi-hole to secure your network infrastructure against a broader range of threats.
+- [OPNSense](https://github.com/gzachariadis/OPNSense): A powerful open-source firewall and routing platform, OPNSense offers comprehensive network security features, including intrusion detection and prevention systems. It can work in tandem with Pi-hole to secure your network infrastructure against a broader range of threats.
 
 - [OpenWRT](https://github.com/gzachariadis/OpenWRT): Installing OpenWRT, a customizable open-source firmware, on compatible routers allows for greater control over your network settings. With OpenWRT, you can implement additional security measures, such as setting up a secure DNS, configuring firewall rules, and integrating with Pi-hole for network-wide ad blocking.
 
 These links will take you to my personal guides on how to best leverage and customize these technologies to enchance security and privacy.
-
-**Use these lists at your own risk, and always practice safe browsing habits.**
 
 Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look <a href="https://codeberg.org/gzachariadis/Whitelist">at my categorized Whitelist.</a>
 
