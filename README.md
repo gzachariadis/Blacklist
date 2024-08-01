@@ -13,13 +13,11 @@
 </p>
 <br>
 
-🎯 Purpose
+</div align="justify">Originally, this project began as a personal endeavor to protect my own digital footprints; Meticulously vetting blocklists, for the purpose of reducing my trackable digital footprint and protecting my network from being exposed to malicious content.</div>
 
-<br>
+<div align="justify">Having worked on it, over the last few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
 
-Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, for the purpose of reducing the likelihood of being tracked or exposing my network to malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
-
-Currently, this repository is a virtual backup for my configuration, vetted and upgraded over-time by an automated script. Enjoy!
+<div align="justify">Currently, this repository acts as a virtual backup; tracking and mirroring my configuration as it's being vetted and upgraded over-time. Enjoy!</div>
 
 <br>
 
