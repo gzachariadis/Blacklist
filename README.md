@@ -6,14 +6,11 @@
 </h1>
 
 <p align="center">
-  <i align="center"> Block-lists, regex & domains targeted at Tracking, Malware, Social Media & Advertisements compatible with Pihole.</i>
+  <i align="center">A personal endeavor to reduce my trackable digital footprint and protect my network from exposure to digital malicious content.</i>
   <br>
   <br>
   <i align="center">Domains on Adlists - 22,821,574</i>
 </p>
-<br>
-
-</div align="justify">A personal endeavor to reduce my trackable digital footprint and protecting my network from being exposure to digital malicious content.</div>
 
 <br>
 <br>
