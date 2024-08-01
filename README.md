@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <i align="center"> Block-lists, regex & domains focused targeted at Tracking, Malware, Social Media & Advertisements</i>
+  <i align="center"> Block-lists, regex & domains targeted at Tracking, Malware, Social Media & Advertisements</i>
   <br>
   <br>
   <i align="center">Domains on Adlists - 22,821,574</i>
