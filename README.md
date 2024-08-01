@@ -13,7 +13,7 @@
 </p>
 <br>
 
-</div align="justify">A personal endeavor to reduce my trackable digital footprint and protecting my network from being exposure to digital malicious content. Having worked on it for a while, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
+</div align="justify">A personal endeavor to reduce my trackable digital footprint and protecting my network from being exposure to digital malicious content.</div>
 
 <br>
 <br>
