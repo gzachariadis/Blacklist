@@ -1,4 +1,3 @@
-![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist?style=plastic&logoColor=white&label=Created%20at&color=blue)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
