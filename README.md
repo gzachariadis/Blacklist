@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ![Total Domains](https://img.shields.io/badge/Total%20Domains-22.821.574-blue)
-![Pi-hole](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
 
 <br>
 
