@@ -19,6 +19,7 @@
 <br>
 
 </div align="justify"><b>Use these lists at your own risk</b>, they will break things and depending on your needs, require <bHEAVY</b> whitelisting, for suggestions look <a href="https://codeberg.org/gzachariadis/Whitelist">at my categorized Whitelist.</a>
+
 <br>
 
 <div>Currently, this repository acts as a virtual backup; tracking and mirroring my configuration as it's being vetted and upgraded over-time. Hope you enjoy!</div>
