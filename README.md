@@ -47,13 +47,25 @@
 
 <br>
 
-🔒 Disclaimer
+⚠️ Important Security Notice
 
 <br>
 
-While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. **Use these lists at your own risk, and always practice safe browsing habits.**
+While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
-Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a>
+For users leveraging Pi-hole, we recommend complementing it with additional tools and strategies:
+
+- uBlock Origin: This browser extension offers advanced ad and tracker blocking capabilities, allowing for fine-grained control over what content is allowed or blocked. It works seamlessly alongside Pi-hole to provide an extra layer of protection at the browser level.
+
+- OPNSense: As a powerful open-source firewall and routing platform, OPNSense offers comprehensive network security features, including intrusion detection and prevention systems. It can work in tandem with Pi-hole to secure your network infrastructure against a broader range of threats.
+
+- OpenWRT: Installing OpenWRT, a customizable open-source firmware, on compatible routers allows for greater control over your network settings. With OpenWRT, you can implement additional security measures, such as setting up a secure DNS, configuring firewall rules, and integrating with Pi-hole for network-wide ad blocking.
+
+By combining these tools, you can significantly enhance your defense against online threats and tracking. Remember, while each of these solutions provides valuable protection, they are most effective when used together, offering a comprehensive shield for your digital activities.
+
+**Use these lists at your own risk, and always practice safe browsing habits.**
+
+Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look <a href="https://codeberg.org/gzachariadis/Whitelist">at my categorized Whitelist.</a>
 
 <br>
 
