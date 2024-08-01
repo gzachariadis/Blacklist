@@ -63,7 +63,7 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [Whitelist](https://codeberg.org/gzachariadis/Whitelist") - Categorized domain-based whitelist suggestions for your favorite services, software and websites, compatible with Pi-hole.
 
-- [Pi-hole](https://github.com/gzachariadis/Pi-Hole) A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
+- [Pi-hole](https://github.com/gzachariadis/Pi-Hole) - A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
