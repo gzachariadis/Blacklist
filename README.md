@@ -90,8 +90,6 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
-- [Browser](https://github.com/gzachariadis/Browser) - Enhance your browser's security and privacy settings, protecting your online activity.
-
 <h3>📝 Contributing</h3>
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
