@@ -118,12 +118,6 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-<h3>🌐 Contact</h3>
-
-For questions, suggestions, or support, please open an issue or contact me using the options below.
-
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-
 <br>
 <br>
 
