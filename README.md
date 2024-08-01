@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<div>Currently, this repository acts as a virtual backup; tracking and mirroring my configuration as it's being vetted and upgraded over-time. Enjoy!</div>
+<div>Currently, this repository acts as a virtual backup; tracking and mirroring my configuration as it's being vetted and upgraded over-time. Hope you enjoy!</div>
 
 <br>
 <br>
