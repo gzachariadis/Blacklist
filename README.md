@@ -1,16 +1,17 @@
-![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist?style=plastic&logoColor=white&label=Created%20at&color=blue)
-![GitHub last commit](https://img.shields.io/github/Last-Commit/gzachariadis/Blacklist)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-![Total Domains](https://img.shields.io/badge/Total%20Domains-22.821.574-blue)
-![Pi-hole](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
-
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist?style=plastic&logoColor=white&label=Created%20at&color=blue)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
+![GitHub last commit](https://img.shields.io/github/Last-Commit/gzachariadis/Blacklist)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+![Total Domains](https://img.shields.io/badge/Total%20Domains-22.821.574-blue)
+![Pi-hole](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
 
 <br>
 
