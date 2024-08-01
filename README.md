@@ -13,7 +13,7 @@
 </p>
 <br>
 
-</div align="justify">Originally, this project began as a personal endeavor to protect my own digital footprint; Meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content. Having worked on it for a few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
+</div align="justify">Originally began as a personal endeavor to protect my own digital footprint, by meticulously vetting blocklists, for the purpose of reducing my trackable online presence and protecting my network from being exposed to malicious content. Having worked on it for a few months, I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.</div>
 
 <br>
 <br>
@@ -50,6 +50,8 @@
 <br>
 
 ⚠️ Important Security Notice
+
+<br>
 
 While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
