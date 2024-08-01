@@ -2,7 +2,7 @@
 
 <h1 align="center">
  <img src="">
-  <br/>PiHole
+  <br/>Blacklist
 </h1>
 
 <p align="center">
