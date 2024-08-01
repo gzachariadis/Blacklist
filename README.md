@@ -18,7 +18,9 @@
 <br>
 <br>
 
+<p align="center">
 <i align="center"><b>Use these lists at your own RISK</b>, they will break things; depending on your needs, <b>HEAVY</b> whitelisting may be required, for suggestions look <a href="https://codeberg.org/gzachariadis/Whitelist">here.</a></i>
+</p>
 
 <h3>📂 Categories</h3>
 
