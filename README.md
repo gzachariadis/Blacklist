@@ -6,8 +6,7 @@
 
 ![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
 ![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
-![Pi-hole Blocklist](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
-
+![Pi-hole](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
 
 <br>
 
