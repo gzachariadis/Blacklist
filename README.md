@@ -65,11 +65,7 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 Follow the links, to see my personal guides on how to best leverage and customize these technologies to enchance security and privacy.
 
-<br>
-
 📝 Contributing
-
-<br>
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
 
