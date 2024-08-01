@@ -63,6 +63,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [OpenWRT](https://github.com/gzachariadis/OpenWRT): Installing OpenWRT, a customizable open-source firmware, on compatible routers allows for greater control over your network settings. With OpenWRT, you can implement additional security measures, such as setting up a secure DNS, configuring firewall rules, and integrating with Pi-hole for network-wide ad blocking.
 
+- [Unbound](https://github.com/gzachariadis/Unbound): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
+
 📝 Contributing
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
@@ -80,4 +82,18 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 🌐 Contact
 
 For questions, suggestions, or support, please open an issue.
+
+Additional Resources
+
+- Self-Contained Pi-hole Configuration Guide
+  
+    Learn how to set up a fully self-contained Unbound + Pi-hole configuration for maximum privacy and ad-blocking efficiency.
+
+- Raspberry Pi Configuration Guide
+  
+    A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
+
+- Configuring Your Browser for Security and Privacy
+ 
+    Tips and steps to enhance your browser's security and privacy settings, protecting your online activity.
 
