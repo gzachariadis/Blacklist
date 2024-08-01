@@ -23,7 +23,7 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist?label=Monthly%20Commit%20Activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist?label=Latest%20Commit)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 </div>
 
