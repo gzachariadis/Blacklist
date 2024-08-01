@@ -127,11 +127,10 @@ For questions, suggestions, or support, please open an issue or contact me using
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
 <br>
-<br>
-
-Found my project helpful? Please consider starring it on GitHub or Codeberg! A star helps me gauge interest and visibility, and motivates me to keep improving the project.
 
 <div align="center">
+
+Found my project helpful? Please consider starring it on GitHub or Codeberg!
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
