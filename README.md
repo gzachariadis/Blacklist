@@ -2,7 +2,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
-![GitHub User's stars](https://img.shields.io/github/stars/gzachariadis)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
+![Total Domains](https://img.shields.io/badge/Total%20Domains-1234-blue)
+![Pi-hole Blocklist](https://img.shields.io/badge/Pi--hole%20Blocklist-Active-brightgreen)
+
 
 <br>
 
