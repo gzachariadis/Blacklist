@@ -63,8 +63,6 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [OpenWRT](https://github.com/gzachariadis/OpenWRT): Installing OpenWRT, a customizable open-source firmware, on compatible routers allows for greater control over your network settings. With OpenWRT, you can implement additional security measures, such as setting up a secure DNS, configuring firewall rules, and integrating with Pi-hole for network-wide ad blocking.
 
-Follow the links, to see my personal guides on how to best leverage and customize these technologies to enchance security and privacy.
-
 📝 Contributing
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
