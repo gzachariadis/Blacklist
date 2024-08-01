@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-<i align="center"><b>Use these lists at your own RISK</b>, they will break things; depending on your needs, <b>HEAVY</b> whitelisting may be required, for suggestions look <a href="https://codeberg.org/gzachariadis/Whitelist">here.</a></i>
+<i align="center">Proceed with these lists at your <b>own risk</b> as they could disrupt functionality; Depending on your circumstances, significant whitelisting may be required. For categorized suggestions, refer to this <a href="https://codeberg.org/gzachariadis/Whitelist">link.</a></i>
 </p>
 
 <h3>📂 Categories</h3>
