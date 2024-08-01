@@ -41,8 +41,6 @@
 
 📊 Statistics
 
-<br>
-
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
 - Regex Filters: 1,381
