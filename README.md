@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![DietPi](https://img.shields.io/badge/DietPi-A81D33?logo=debian&logoColor=fff)](#)
+[![DietPi](https://img.shields.io/badge/DietPi-A81D33?llogoColor=fff)](#)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
 ![Total Domains](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
