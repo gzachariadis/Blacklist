@@ -23,8 +23,6 @@
 <br>
 <br>
 
-<br>
-
 <h3>📂 Categories</h3>
 
 - Tracking: Blocks domains known for tracking user activities.
@@ -39,15 +37,11 @@
 
 - DOH/DNS: Public and DoH (DNS over HTTPS) Servers
 
-<br>
-
 <h3>📈 Statistics</h3>
 
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
 - Regex Filters: 1,381
-
-<br>
 
 <h3>🛡️ Security</h3>
 
