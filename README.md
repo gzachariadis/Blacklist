@@ -21,6 +21,8 @@ Currently, this repository is a virtual backup for my configuration, vetted and 
 
 Enjoy!
 
+<br>
+
 📂 Blocklist Categories
 
 - Tracking: Blocks domains known for tracking user activities.
@@ -37,11 +39,15 @@ Enjoy!
 
 and more...
 
+<br>
+
 🔒 Disclaimer
 
 While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
 
 Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a><
+
+<br>
 
 📝 Contributing
 
@@ -53,9 +59,13 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 - Push to the branch (git push origin feature/your-feature-name).
 - Open a Pull Request and join the discussion.
 
+<br>
+
 📄 License
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
+
+<br>
 
 🌐 Contact
 
