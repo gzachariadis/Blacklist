@@ -92,6 +92,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 <h3>🔗 Proposed Resources</h3>
 
+<br>
+
 - [Whitelist](https://codeberg.org/gzachariadis/Whitelist") - Categorized domain-based whitelist suggestions for your favorite services, software and websites, compatible with Pi-hole.
 
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) - A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
@@ -121,9 +123,7 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 For questions, suggestions, or support, please open an issue or contact me using the options below.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
 <h3 align="center">Support Development</h3>
