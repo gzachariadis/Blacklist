@@ -61,13 +61,13 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 🔗 Proposed Resources
 
+- [Whitelist](https://codeberg.org/gzachariadis/Whitelist") - Categorized domain-based whitelist suggestions for your favorite services, software and websites, compatible with Pi-hole.
+
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
 - [Browser](https://github.com/gzachariadis/Browser) - Enhance your browser's security and privacy settings, protecting your online activity.
-
-<p>For categorized suggestions, refer to this <a href="https://codeberg.org/gzachariadis/Whitelist">link.</a></p>
 
 <h3>📝 Contributing</h3>
 
