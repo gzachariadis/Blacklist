@@ -9,15 +9,13 @@
   <i align="center"> Block-lists, regex & domains focused on Tracking, Malware & Advertisements</i>
   <br>
   <br>
-  <i align="center">🛡️ Domains on Adlists - 22,819,556</i>
+  <i align="center">Domains on Adlists - 22,819,556</i>
 </p>
 <br>
 
-<p>An automated Python-backed repository for my Pi-hole blacklisting based on my current setup and featuring many well-known blocklists from reputable sources.Please use with caution, might include false-positives. Whitelisting will be necessary, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a></p>
-
 🎯 Purpose
 
-Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, ensuring they met high standards for reducing the likelihood of being tracked or encountering malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
+Originally, this project began as a personal endeavor to protect my own digital footprints. Having spend many hours, meticulously vetting blocklists, ensuring reducing the likelihood of being tracked or exposing my network to malicious content, I came to recognize the broader need for such a resource, so I decided to share my collection with the world, making it easier for everyone to enjoy a safer and more private online experience.
 
 Currently, this repository is a virtual backup for my configuration, vetted and upgraded over-time by an automated script.
 
@@ -31,9 +29,19 @@ Enjoy!
 
 - Advertisements: Blocks ad-serving domains for a cleaner browsing experience.
 
+- Social Media: Blocks access to most major social media platforms.
+
+- Google: Blocks access to a wide range of Alpabet & Google Domains. (Youtube is operational)
+
+- DOH/DNS: Public and Doh (DNS over HTTPS) Servers
+
+and more...
+
 🔒 Disclaimer
 
-While we strive to provide accurate and effective blocklists, we cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
+While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
+
+Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a><
 
 📝 Contributing
 
