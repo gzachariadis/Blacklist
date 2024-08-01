@@ -4,6 +4,10 @@
 [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist?label=Monthly%20Commit%20Activity)
+![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist?label=Latest%20Commit)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 <br>
 
 <h1 align="center">
@@ -20,10 +24,6 @@
 ![Adlists](https://img.shields.io/badge/Adlists-2.006-white)
 ![Domains on Adlists](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist?label=Monthly%20Commit%20Activity)
-![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist?label=Latest%20Commit)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 </div>
 
