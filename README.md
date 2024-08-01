@@ -49,11 +49,9 @@
 
 ⚠️ Important Security Notice
 
-<br>
-
 While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
-For users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I recommend complementing it with additional tools and strategies:
+For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I recommend these tools:
 
 - [uBlock Origin](https://github.com/gzachariadis/uBlockOrigin) - A browser extension which offers advanced ad and tracker blocking capabilities, allowing for fine-grained control over what content is allowed or blocked. It works seamlessly alongside Pi-hole to provide an extra layer of protection at the browser level.
 
