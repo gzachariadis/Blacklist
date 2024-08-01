@@ -129,7 +129,7 @@ For questions, suggestions, or support, please open an issue or contact me using
 
 <div align="center">
 
-Please consider give this a star on [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) or [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
+Please consider give this a star on <a href="https://github.com/gzachariadis/Blacklist">GitHub</a> or <a href="https://codeberg.org/gzachariadis/Blacklist">Codeberg</a>
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
