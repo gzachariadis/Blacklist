@@ -90,7 +90,7 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 <br>
 
-🔗 Proposed Resources
+<h3>🔗 Proposed Resources</h3>
 
 - [Whitelist](https://codeberg.org/gzachariadis/Whitelist") - Categorized domain-based whitelist suggestions for your favorite services, software and websites, compatible with Pi-hole.
 
