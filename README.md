@@ -114,16 +114,12 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 - Push to the branch (git push origin feature/your-feature-name).
 - Open a Pull Request and join the discussion.
 
-<h3>📄 License</h3>
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
-
 <br>
 <br>
 
 <div align="center">
 
-Please consider give this a star on <a href="https://github.com/gzachariadis/Blacklist">GitHub</a> or <a href="https://codeberg.org/gzachariadis/Blacklist">Codeberg</a>
+Please consider giving this a star on <a href="https://github.com/gzachariadis/Blacklist">GitHub</a> or <a href="https://codeberg.org/gzachariadis/Blacklist">Codeberg</a>
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
