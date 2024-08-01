@@ -43,9 +43,9 @@ Currently, this repository is a virtual backup for my configuration, vetted and 
 
 <br>
 
-While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. Use these lists at your own risk, and always practice safe browsing habits.
+While I strive to provide accurate and effective blocklists, I cannot guarantee complete protection. **Use these lists at your own risk, and always practice safe browsing habits.**
 
-Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a><
+Use of these lists, will break things and depending on your needs, require whitelists, for suggestions look at my <a href="https://codeberg.org/gzachariadis/Whitelist">Whitelist.</a>
 
 <br>
 
