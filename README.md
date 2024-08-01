@@ -14,7 +14,7 @@
 <br/>Blacklist
 </h1>
 
-<p align="center">
+<div align="center">
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![DietPi](https://img.shields.io/badge/DietPi-A81D33?llogoColor=fff)](#)
@@ -22,7 +22,7 @@
 ![Total Domains](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
 
-</p>
+</div>
 
 <p align="center">
   <i align="center">A personal endeavor to reduce my trackable digital footprint and protect my network from exposure to digital malicious content.</i>
