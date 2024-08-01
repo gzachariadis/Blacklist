@@ -126,7 +126,10 @@ For questions, suggestions, or support, please open an issue or contact me using
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)
 
-<h3 align="center">Support Development</h3>
+<br>
+<br>
+
+Found my project helpful? Please consider starring it on GitHub or Codeberg! A star helps me gauge interest and visibility, and motivates me to keep improving the project.
 
 <div align="center">
 
