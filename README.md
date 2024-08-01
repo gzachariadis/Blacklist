@@ -2,7 +2,7 @@
 
 <h1 align="center">
  <img src="">
-  <br />Blocklists
+  <br />Blacklist
 </h1>
 
 <p align="center">
