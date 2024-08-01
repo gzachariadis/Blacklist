@@ -22,8 +22,6 @@
 <i align="center">Proceed <b>with caution</b>, could disrupt functionality; Depending on your circumstances, significant whitelisting may be required.</i>
 </p>
 
-<p>For categorized suggestions, refer to this <a href="https://codeberg.org/gzachariadis/Whitelist">link.</a></p>
-
 <h3>📂 Categories</h3>
 
 - Tracking - Blocks domains known for tracking user activities.
@@ -65,6 +63,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
 
 - [Browser](https://github.com/gzachariadis/Browser) - Enhance your browser's security and privacy settings, protecting your online activity.
+
+<p>For categorized suggestions, refer to this <a href="https://codeberg.org/gzachariadis/Whitelist">link.</a></p>
 
 <h3>📝 Contributing</h3>
 
