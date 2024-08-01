@@ -65,6 +65,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [Unbound](https://github.com/gzachariadis/Unbound): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
 
+<br>
+
 🔗 Additional Resources
 
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) A configuration guide for setting up fully self-contained Unbound + Pi-hole setup for maximum privacy and ad-blocking efficiency.
