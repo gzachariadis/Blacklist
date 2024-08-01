@@ -14,8 +14,8 @@
 <div align="center">
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
 
+![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
 ![Adlists](https://img.shields.io/badge/Adlists-2.006-blue)
 ![Domains on Adlists](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
