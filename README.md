@@ -43,17 +43,8 @@ Currently, this repository is a virtual backup for my configuration, vetted and 
 
 <br>
 
-Gravity Domains
-
-A comprehensive compilation of domains sourced from multiple lists, representing the extensive coverage of my blocklists.
-
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
-
-Regex Blacklist Filters
-
-Powerful and flexible, regex filters allow us to block a wide range of domain patterns, ensuring efficient and comprehensive blocking.
-
 - Regex Filters: 1,381
 
 <br>
