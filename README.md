@@ -26,6 +26,9 @@
 <i align="center">Proceed <b>with caution</b>; Depending on your circumstances, could <b>disrupt functionality.</b></i>
 </p>
 
+<br>
+<br>
+
 <h3>📂 Categories</h3>
 
 - Tracking - Blocks domains known for tracking user activities.
