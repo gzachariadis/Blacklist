@@ -25,7 +25,7 @@
 
 <br>
 
-📂 Categories
+<h3>📂 Categories</h3>
 
 - Tracking: Blocks domains known for tracking user activities.
 
@@ -41,7 +41,7 @@
 
 <br>
 
-📈 Statistics
+<h3>📈 Statistics</h3>
 
 - Total Domains: 139,842,918
 - Unique Domains: 22,821,574
@@ -49,7 +49,7 @@
 
 <br>
 
-🛡️ Security
+<h3>🛡️ Security</h3>
 
 While blocklists offer significant protection against trackers, malware, and advertisements, relying solely on them is not a foolproof solution for safeguarding your digital footprint. The ever-evolving nature of online threats means that a layered approach to security is crucial. I personally highly recommend using a combination of tools and techniques to enhance your privacy and security. 
 
@@ -71,7 +71,7 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [Browser](https://github.com/gzachariadis/Browser) - Enhance your browser's security and privacy settings, protecting your online activity.
 
-📝 Contributing
+<h3>📝 Contributing</h3>
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
 
@@ -81,11 +81,11 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 - Push to the branch (git push origin feature/your-feature-name).
 - Open a Pull Request and join the discussion.
 
-📄 License
+<h3>📄 License</h3>
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-🌐 Contact
+<h3>🌐 Contact</h3>
 
 For questions, suggestions, or support, please open an issue.
 
