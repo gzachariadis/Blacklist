@@ -2,7 +2,7 @@
 
 <h1 align="center">
  <img src="">
-  <br/>Pi-hole
+  <br/>PiHole
 </h1>
 
 <p align="center">
