@@ -69,6 +69,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 
 - [Browser](https://github.com/gzachariadis/Browser) - Enhance your browser's security and privacy settings, protecting your online activity.
 
+<br>
+
 <h3>📝 Contributing</h3>
 
 In case, you have suggestions, new blocklist sources, or want to report an issue:
