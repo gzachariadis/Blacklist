@@ -47,7 +47,7 @@
 
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
-    - **[FilterLists](https://filterlists.com/)**
+- **[FilterLists](https://filterlists.com/)**
 
 - **[Firebog](https://firebog.net/)**
 
@@ -72,6 +72,8 @@ For most users leveraging [Pi-hole](https://github.com/gzachariadis/Pi-Hole), I 
 - [OpenWRT](https://github.com/gzachariadis/OpenWRT): Installing OpenWRT, a customizable open-source firmware, on compatible routers allows for greater control over your network settings. With OpenWRT, you can implement additional security measures, such as setting up a secure DNS, configuring firewall rules, and integrating with Pi-hole for network-wide ad blocking.
 
 - [Unbound](https://github.com/gzachariadis/Unbound): A high-performance, open-source DNS resolver that improves security and privacy by handling DNS queries and providing features like DNSSEC validation.
+
+<br>
 
 🔗 Proposed Resources
 
