@@ -56,8 +56,6 @@
 
 - DOH/DNS - Public and DoH (DNS over HTTPS) Servers (bypass protection)
 
-<br>
-
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
 - **[FilterLists](https://filterlists.com/)**
@@ -69,8 +67,6 @@
 - **[Unified Hosts](https://github.com/AdguardTeam/AdguardFilters)**
   
     for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Blocklists)
-
-<br>
 
 <h3>🛡️ Security</h3>
 
