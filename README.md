@@ -25,8 +25,6 @@ Currently, this repository is a virtual backup for my configuration, vetted and 
 
 📂 Blocklist Categories
 
-<br>
-
 - Tracking: Blocks domains known for tracking user activities.
 
 - Malware: Protects against domains destructive malware.
