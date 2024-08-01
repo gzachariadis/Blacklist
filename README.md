@@ -24,6 +24,8 @@
 
 </div>
 
+<br>
+
 <p align="center">
   <i align="center">A personal endeavor to reduce my trackable digital footprint and protect my network from exposure to digital malicious content.</i>
   <br>
