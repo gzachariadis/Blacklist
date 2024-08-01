@@ -65,15 +65,11 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 
 📄 License
 
-<br>
-
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 <br>
 
 🌐 Contact
-
-<br>
 
 For questions, suggestions, or support, please open an issue.
 
