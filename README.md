@@ -2,8 +2,7 @@
 
 <h1 align="center">
  <img src="">
-  <br />
-  PiHole Blacklist
+  <br />Blacklist
 </h1>
 
 <p align="center">
