@@ -7,18 +7,18 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![DietPi](https://img.shields.io/badge/DietPi-A81D33?llogoColor=fff)](#)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
-![Total Domains](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
-![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
-
 <br>
 
 <h1 align="center">
  <img src="https://i.ibb.co/0BpMXKc/pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre.png" alt="pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre" border="0" width="150" height="200"></img>
 <br/>Blacklist
 </h1>
+
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![DietPi](https://img.shields.io/badge/DietPi-A81D33?llogoColor=fff)](#)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-Active-brightgreen)
+![Total Domains](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.574-blue)
+![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
 
 <p align="center">
   <i align="center">A personal endeavor to reduce my trackable digital footprint and protect my network from exposure to digital malicious content.</i>
