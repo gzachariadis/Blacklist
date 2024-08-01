@@ -45,7 +45,7 @@
 
 <br>
 
-<h3>🚫 Primary Blocklists Sources</h3>
+<h3>🚫 Blocklist Aggregator Sources</h3>
 
 - **[FilterLists](https://filterlists.com/)**
 
