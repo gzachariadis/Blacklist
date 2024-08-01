@@ -75,13 +75,9 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 - Push to the branch (git push origin feature/your-feature-name).
 - Open a Pull Request and join the discussion.
 
-<br>
-
 📄 License
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
-
-<br>
 
 🌐 Contact
 
