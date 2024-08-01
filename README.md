@@ -2,11 +2,6 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist?label=Monthly%20Commit%20Activity)
-![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist?label=Latest%20Commit)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 <br>
 
 <h1 align="center">
