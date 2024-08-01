@@ -19,6 +19,7 @@
 ![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gzachariadis/Blacklist)
+![GitHub last commit](https://img.shields.io/github/last-commit/gzachariadis/Blacklist)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 </div>
 
