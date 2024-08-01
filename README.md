@@ -1,3 +1,5 @@
+![GitHub Created At](https://img.shields.io/github/created-at/gzachariadis/Blacklist)
+
 <br>
 
 <h1 align="center">
