@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
- <img src="https://i.ibb.co/0BpMXKc/pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre.png" alt="pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre" border="0" width="200" height="100">
+ <img src="https://i.ibb.co/0BpMXKc/pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre.png" alt="pi-hole-clipart-download-pi-hole-svg-symbol-logo-trademark-heart-transparent-png-209157-removebg-pre" border="0" width="100" height="200">
 <br/>Blacklist
 </h1>
 
