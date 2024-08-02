@@ -98,7 +98,7 @@ In case, you have suggestions, new blocklist sources, or want to report an issue
 
 <div align="center">
 
-Please consider giving this a star on <a href="https://github.com/gzachariadis/Blacklist">GitHub</a> or <a href="https://codeberg.org/gzachariadis/Blacklist">Codeberg</a>
+Please consider giving this a star.
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
