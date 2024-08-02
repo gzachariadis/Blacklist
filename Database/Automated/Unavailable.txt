@@ -1,0 +1,5 @@
+https://divested.dev/blocklists/Cameras.txt
+https://divested.dev/blocklists/Mobile.txt
+https://divested.dev/hosts
+https://divested.dev/hosts-domains
+https://raw.githubusercontent.com/th3m3/blocklists/master/tracking&amp;ads.list
