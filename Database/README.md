@@ -1,10 +1,16 @@
 
 ## SELECT
 
-Get Address by Domain entries
+Get Address by Domain Entries (number=0)
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number=0"
+```
+
+Get Address by Domain Entries (number < 100)
+
+```sh
+sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number<100"
 ```
 
 ## DELETE
@@ -15,9 +21,9 @@ Delete Empty (exact domains = 0)
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.number=0"
 ```
 
-Delete Small (less than 50 domains long)
+Delete Small (less than 100 domains long)
 
 ```sh
-sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.number<50"
+sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.number<100"
 ```
 
