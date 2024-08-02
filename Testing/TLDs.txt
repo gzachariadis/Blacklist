@@ -24,7 +24,6 @@ rules
 tail
 tar.gz
 tpl
-ubl
 ublock
 win
 zip
