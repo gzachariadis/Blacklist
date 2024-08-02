@@ -81,7 +81,7 @@ def is_valid_url(url):
     except ValueError:
         return False
 
-def is_url_reachable(url,timeout=2):
+def is_url_reachable(url,timeout=5):
 
     successful_status_codes = {200, 201, 203, 205, 206, 302, 303}
 
@@ -221,7 +221,7 @@ def main(filepath):
             print(e)
 
     try:
-        with open("unique.txt", 'w') as file:
+        with open("/home/user/Music/Blacklist/Testing/Unique.txt", 'w') as file:
             # Write each key to the file, each on a new line
             for key in Unique.keys():
                 file.write(f"{key}\n")
@@ -231,6 +231,6 @@ def main(filepath):
         
 if __name__ == "__main__":
     # Example file path; replace with actual path as needed.
-    filepath = "/home/user/Music/PiScraper/blocklists.txt"
+    filepath = "/home/user/Music/Blacklist/Testing/Blocklists.txt"
     main(filepath)
 

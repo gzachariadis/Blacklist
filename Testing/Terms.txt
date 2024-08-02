@@ -68,7 +68,9 @@ imagehosting
 indonesia
 indonesian
 ip-addresses
+ipsum
 italian
+japanese
 jav_sites
 jobsearch
 korea
@@ -99,12 +101,14 @@ radiotv
 recipes
 roblox
 samsung
+shock
 shopping
 shops
 slovak
 snort
 spanish
 steam
+supporting-russia
 switzerland
 tabloid
 theories
@@ -114,10 +118,12 @@ tvbox
 ubisoft
 ublock-origin
 unbound
+vaping
 video-games
 videogames
 whatsapp
 whitelist-modules
+whitelisted
 youtube
 youtube_ads
 ytadblock
