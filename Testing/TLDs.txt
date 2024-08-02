@@ -2,6 +2,7 @@
 abp
 acl
 adblock
+archiveformat=
 archiveformat=gz
 archiveformat=zip
 blf
@@ -24,6 +25,7 @@ rules
 tail
 tar.gz
 tpl
+ubl
 ublock
 win
 zip
