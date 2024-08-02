@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/bamf2077/quarklist/master/src/hosts-block-malw
 https://raw.githubusercontent.com/Castle67/CastleAds/main/GologleAds.lst
 https://raw.githubusercontent.com/Castle67/CastleAds/main/data/add.Spam/hosts.txt
 https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/Snapchat-Blocklist--d43m0nhLInt3r.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adware-Filters.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Quidsup-Malicious.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
@@ -534,6 +535,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/everest.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evilextractor.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evilgrab.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evilproxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evoltinpos.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/eyespy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/fakben.txt
