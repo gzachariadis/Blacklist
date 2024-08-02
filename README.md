@@ -16,7 +16,7 @@
 
 ![Adlists](https://img.shields.io/badge/Adlists-1356-white)
 ![Domains on Adlists](https://img.shields.io/badge/Domains%20on%20Adlists-22.821.294-blue)
-![Regex Filters](https://img.shields.io/badge/Regex%20Filters-1.381-red)
+![Regex Filters](https://img.shields.io/badge/1.381-blue?style=flat&label=Regex%20Filters&labelColor=%23DEDDDA&color=%239141AC)
 
 ![Last Update](https://img.shields.io/github/last-commit/gzachariadis/Blacklist/main?label=Last%20Update&labelColor=%233584E4&color=brightgreen&cacheSeconds=3600)
 
