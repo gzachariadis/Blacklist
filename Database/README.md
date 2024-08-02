@@ -1,6 +1,12 @@
 
 ## SELECT
 
+List Adlists
+
+```sh
+sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist"
+```
+
 Get Address by Domain Entries (number=0)
 
 ```sh
