@@ -1,4 +1,6 @@
 
+# Adlists
+
 ## SELECT
 
 List Adlists
@@ -37,5 +39,15 @@ Delete Small (less than 100 domains long)
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.number<100"
+```
+
+# Domains
+
+# SELECT
+
+Fetch Blacklist Regex
+
+```sh
+sqlite3 "/etc/pihole/gravity.db" "SELECT domain FROM domainlist WHERE type=3"
 ```
 
