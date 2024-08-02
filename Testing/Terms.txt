@@ -129,4 +129,23 @@ youtube_ads
 ytadblock
 ytads
 zealand
+filters.adtidy.org
+affiliate
+vivaldi
+adfilt
+hagezi
+pixiv
+patreon
+omegle
+booth.pm
+skype
+hostlistsregistry 
+adguard.com
+xbox
+salesforce
+vimeo
+wordpress
+amazon
+inactive
+volatile
 

@@ -214,6 +214,7 @@ def main(filepath):
                                     if normalized not in Unique:
                                         # Add the URL to the dictionary with a default value (e.g., None or any other value)
                                         Unique[normalized] = line_number
+                                        print(f"Appended line by number {line_number} to Dictionary")
                                         continue
                     continue
 
@@ -221,7 +222,7 @@ def main(filepath):
             print(e)
 
     try:
-        with open("/home/user/Music/Blacklist/Testing/Unique.txt", 'w') as file:
+        with open("/home/user/Music/Blacklist/Testing/Purpose.txt", 'w') as file:
             # Write each key to the file, each on a new line
             for key in Unique.keys():
                 file.write(f"{key}\n")
@@ -231,6 +232,6 @@ def main(filepath):
         
 if __name__ == "__main__":
     # Example file path; replace with actual path as needed.
-    filepath = "/home/user/Music/Blacklist/Testing/Blocklists.txt"
+    filepath = "/home/user/Music/Blacklist/Testing/Unique.txt"
     main(filepath)
 
