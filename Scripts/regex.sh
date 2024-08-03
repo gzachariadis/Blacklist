@@ -56,9 +56,3 @@ fi
 # Run the SQLite query and save the output to the file
 sqlite3 "$DATABASE" "SELECT domain FROM domainlist WHERE type=3;" > "$OUTPUT_FILE"
 
-# Check if the operation was successful
-if [ $? -ne 0 ]; then
-    echo "6" > "$ERROR_FILE"
-    exit 1
-fi
-
