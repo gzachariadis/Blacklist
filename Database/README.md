@@ -1,7 +1,12 @@
+<br>
 
-# Adlists
+<h1 align="center">Helpful SQLite3 Commands</h1>
 
-## SELECT
+<br>
+
+## Adlists
+
+### SELECT
 
 List Adlists
 
@@ -27,7 +32,7 @@ Fetch by Status - (4 - List Unavailable)
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.status=4"
 ```
 
-## DELETE
+### DELETE
 
 Delete Empty (exact domains = 0)
 
@@ -47,9 +52,9 @@ Delete by Status (Unavailabe Lists)
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.status=4"
 ```
 
-# Domains
+## Domains
 
-# SELECT
+### SELECT
 
 Fetch Blacklist Regex
 

@@ -4,20 +4,26 @@ import requests
 from urllib.parse import urlparse, urljoin
 from bs4 import BeautifulSoup
 from pathlib import Path
+import logging
 
-# Function to check if a string is a valid URL
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(message)s')
+
+# Find the Git repository root
+def find_git_root(start_path):
+    current_path = Path(start_path).resolve()
+    while current_path != current_path.parent:
+        if (current_path / '.git').exists():
+            return current_path
+        current_path = current_path.parent
+    raise FileNotFoundError("Git repository root not found")
+
+# Check string is valid URL
 def is_valid_url(url):
-    regex = re.compile(
-        r'^(?:http|ftp)s?://' # http:// or https://
-        r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' # domain...
-        r'localhost|' # localhost...
-        r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|' # ...or ipv4
-        r'\[?[A-F0-9]*:[A-F0-9:]+\]?)' # ...or ipv6
-        r'(?::\d+)?' # optional port
-        r'(?:/?|[/?]\S+)$', re.IGNORECASE)
-    return re.match(regex, url) is not None
+    parsed_url = urlparse(url)
+    return bool(parsed_url.scheme) and bool(parsed_url.netloc)
 
-# Function to check if a URL is accessible and has non-empty content
+# Check URL is accessible and has non-empty content
 def is_accessible_and_non_empty(url):
     try:
         response = requests.get(url, timeout=10)
@@ -43,17 +49,18 @@ def extract_urls_from_page(url):
     return unique_urls
 
 # Main processing function
-def process_folder(folder_path, output_file):
+def process_folder(input_folder, output_file):
     unique_urls = set()
     
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(input_folder):
         if filename.endswith(".txt"):
-            file_path = os.path.join(folder_path, filename)
+            file_path = os.path.join(input_folder, filename)
             with open(file_path, 'r') as file:
-                for line in file:
+                for line_number, line in enumerate(file, start=1):
                     line = line.strip()
                     if not line:
                         continue
+                    logging.info(f'{filename} - {line_number}: {line}')
                     if is_valid_url(line) and is_accessible_and_non_empty(line):
                         page_urls = extract_urls_from_page(line)
                         unique_urls.update(page_urls)
@@ -61,17 +68,18 @@ def process_folder(folder_path, output_file):
     with open(output_file, 'w') as file:
         for url in sorted(unique_urls):
             file.write(url + '\n')
+    logging.info(f'Unique URLs written to: {output_file}')
 
-# Determine the base directory (the directory where this script is located)
-base_dir = Path(__file__).parent
+# Repository Directory
+repo_root = find_git_root(__file__)
 
-# Define relative paths
-folder_path = base_dir / 'Blacklist' / 'Consolidate' / 'Input'
-output_file = base_dir / 'Blacklist' / 'Consolidate' / 'Output' / 'domains.txt'
+# Relative Paths 
+input_folder = repo_root / 'Consolidate' / 'Input'
+output_file = repo_root / 'Consolidate' / 'Output' / 'domains.txt'
 
 # Ensure the output directory exists
 output_file.parent.mkdir(parents=True, exist_ok=True)
 
 # Run the script
-process_folder(folder_path, output_file)
+process_folder(input_folder, output_file)
 

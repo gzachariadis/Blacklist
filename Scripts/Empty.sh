@@ -1,8 +1,8 @@
 # Define variables
 DATABASE="/etc/pihole/gravity.db"
-OUTPUT_FILE="/root/Blacklist/Database/Automated/Empty.txt"
+OUTPUT_FILE="/root/Blacklist/Testing/Filters/Automated/Empty.txt"
 OUTPUT_DIR=$(dirname "$OUTPUT_FILE")
-ERROR_FILE="/root/Blacklist/Database/Automated/Empty-Execution Error.txt"
+ERROR_FILE="/root/Blacklist/Testing/Filters/Automated/Empty-Execution Error.txt"
 DELETE_QUERY="DELETE FROM adlist WHERE adlist.number=0;"
 
 # Function to check if the SQLite database is locked
