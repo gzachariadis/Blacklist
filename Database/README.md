@@ -4,35 +4,35 @@
 
 <br>
 
-## Adlists
+<h2 align="center">Adlists Table</h2>
 
-### SELECT
+<br>
 
-List Adlists
+Select Adlists
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist"
 ```
 
-Get Address by Domain Entries (number=0)
+Select Addresses by Domain Entries (number=0)
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number=0"
 ```
 
-Get Address by Domain Entries (number <= 100)
+Select Addresses by Domain Entries (number <= 100)
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number<=100"
 ```
 
-Fetch by Status - (4 - List Unavailable)
+Select by Status (4 - Unavailable)
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.status=4"
 ```
 
-### DELETE
+<h3 align="center">⚠️ <b>CAUTION DELETE</b> ⚠️</h3>
 
 Delete Empty (exact domains = 0)
 
