@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Helpful SQLite3 Commands</h1>
+<h1 align="center">SQLite3 Commands</h1>
 
 <br>
 
