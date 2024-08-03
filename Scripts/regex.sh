@@ -2,9 +2,9 @@
 
 # Define variables
 DATABASE="/etc/pihole/gravity.db"
-OUTPUT_FILE="/root/Blacklist/Adlists/adlists.txt"
+OUTPUT_FILE="/root/Domains/Regex Blacklist/regex.txt"
 OUTPUT_DIR=$(dirname "$OUTPUT_FILE")
-ERROR_FILE="/root/Blacklist/Adlists/Execution_Error.txt"
+ERROR_FILE="/root/Domains/Regex Blacklist/Execution_Error.txt"
 
 # Function to check if the SQLite database is locked
 check_db_lock() {
@@ -53,6 +53,12 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# Run the SQLite Query for Adlists and save the output to the file
-sqlite3 "$DATABASE" "SELECT address FROM adlist;" > "$OUTPUT_FILE"
+# Run the SQLite query and save the output to the file
+sqlite3 "$DATABASE" "SELECT domain FROM domainlist WHERE type=3;" > "$OUTPUT_FILE"
+
+# Check if the operation was successful
+if [ $? -ne 0 ]; then
+    echo "6" > "$ERROR_FILE"
+    exit 1
+fi
 
