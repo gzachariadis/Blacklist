@@ -6,6 +6,7 @@ from pathlib import Path
 import logging
 import validators
 import idna
+import ipaddress
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
@@ -56,7 +57,10 @@ def check_compatibility(domain):
         # Validate IDN domain with validators
         if validators.domain(idna_domain) is None:
             return False
-        
+
+        if domain.startswith(('http://', 'https://')):
+            return False
+
         return True
 
     except (idna.IDNAError, ValueError):
@@ -64,21 +68,36 @@ def check_compatibility(domain):
         return False
 
 def transform_to_compatible(domain):
-    # Parse the URL and extract the network location (domain)
-    parsed_url = urlparse(domain)
+    try:
+
+        # Parse the URL and extract the network location (domain)
+        parsed_url = urlparse(domain)
+        
+        # Extract the domain part
+        domain = parsed_url.hostname
+        
+        # If domain is None or empty, return an empty string
+        if not domain:
+            return ""
+        
+        # Skip if the domain is an IPv6 address
+        if domain.startswith('[') and domain.endswith(']'):
+            # Remove square brackets for further processing
+            domain = domain[1:-1]
+            try:
+                ipaddress.IPv6Address(domain)
+                return ""  # Skip IPv6 addresses
+            except ipaddress.AddressValueError:
+                pass  # Not a valid IPv6 address, continue processing
     
-    # Extract the domain part
-    host = parsed_url.hostname
-    
-    # If domain is None or empty, return an empty string
-    if not host:
+    except ValueError:
         return ""
     
     # Use regex to clean and validate the domain
-    host = host.lower()  # Convert to lowercase for consistency
+    domain = domain.lower()  # Convert to lowercase for consistency
     
     # Remove invalid characters and enforce domain name rules
-    valid_domain = re.sub(r'[^a-zA-Z0-9.-]', '', host)
+    valid_domain = re.sub(r'[^a-zA-Z0-9.-]', '', domain)
     
     # Remove trailing dots (not allowed in TLDs)
     valid_domain = valid_domain.rstrip('.')
@@ -121,7 +140,7 @@ def scrape_urls(database: set):
     domains = set()
     
     for entry in database:
-
+        logging.info(f'Processing file: {entry}')
         try:
 
             # Fetch the content of the URL
