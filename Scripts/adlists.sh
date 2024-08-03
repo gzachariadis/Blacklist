@@ -2,7 +2,7 @@
 
 # Define variables
 DATABASE="/etc/pihole/gravity.db"
-OUTPUT_FILE="/root/Blacklists/Adlists/adlists.txt"
+OUTPUT_FILE="/root/Blacklist/Adlists/adlists.txt"
 
 # Check if the database file exists
 if [ ! -f "$DATABASE" ]; then
@@ -19,12 +19,4 @@ fi
 
 # Run the SQLite query and save the output to the file
 sqlite3 "$DATABASE" "SELECT address FROM adlist;" > "$OUTPUT_FILE"
-
-# Check if the operation was successful
-if [ $? -eq 0 ]; then
-    echo "Successfully updated $OUTPUT_FILE with adlist addresses."
-else
-    echo "Error: Failed to execute SQLite query or write to $OUTPUT_FILE."
-    exit 1
-fi
 
