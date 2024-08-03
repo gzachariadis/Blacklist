@@ -2,9 +2,9 @@
 
 # Define variables
 DATABASE="/etc/pihole/gravity.db"
-OUTPUT_FILE="/root/Domains/Regex Blacklist/regex.txt"
+OUTPUT_FILE="/root/Blacklist/Domains/Regex Blacklist"
 OUTPUT_DIR=$(dirname "$OUTPUT_FILE")
-ERROR_FILE="/root/Domains/Regex Blacklist/Execution_Error.txt"
+ERROR_FILE="/root/Blacklist/Domains/Regex Blacklist"
 
 # Function to check if the SQLite database is locked
 check_db_lock() {
