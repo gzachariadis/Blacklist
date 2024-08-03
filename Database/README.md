@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">Adlists Table</h2>
+<h3 align="center">Adlists</h3>
 
 <br>
 
@@ -32,7 +32,7 @@ Select by Status (4 - Unavailable)
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.status=4"
 ```
 
-<h3 align="center">⚠️ <b>CAUTION DELETE</b> ⚠️</h3>
+<h3 align="center">⚠️ <b>DELETE</b> ⚠️</h3>
 
 Delete Empty (exact domains = 0)
 
@@ -52,11 +52,13 @@ Delete by Status (Unavailabe Lists)
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.status=4"
 ```
 
-## Domains
+<br>
 
-### SELECT
+<h3 align="center">Domains</h3>
 
-Fetch Blacklist Regex
+<br>
+
+Select Blacklist Regex
 
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT domain FROM domainlist WHERE type=3"
