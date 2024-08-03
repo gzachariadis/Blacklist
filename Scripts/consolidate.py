@@ -140,7 +140,7 @@ def scrape_urls(database: set):
     domains = set()
     
     for count, entry in enumerate(database):
-        logging.info(f'{count} - Processing file - {entry}')
+        logging.info(f'Currently at {count} - {entry}')
         try:
 
             # Fetch the content of the URL
