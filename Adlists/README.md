@@ -4,16 +4,11 @@
 
 <br>
 
-- [ ] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
-- [ ] [1Hosts](https://o0.pages.dev/)
-- [ ] [4SkinSkywalker - Anti Porn](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File)
-- [ ] [521ueweihan - GitHub520](https://github.com/521ueweihan/GitHub520)
-- [ ] [8716e](https://github.com/8716e)
-- [ ] [9600baudconsolecable - iFunny](https://github.com/9600baudconsolecable/Ifunny-Blocklist)
-- [ ] [ABPVN](https://github.com/abpvn/abpvn)
-- [ ] [ABPindo - Indonesian Adblocker](https://github.com/ABPindo/indonesianadblockrules)
-- [ ] [ADSecu - Black Domains](https://github.com/ADsecu/black-domains)
-- [ ] [AdAway - adaway.github.io](https://github.com/AdAway/adaway.github.io)
+- [x] [0n1cOn3 - NSO Blacklist](https://github.com/0n1cOn3/The-NSO-Blacklist)
+- [x] [1Hosts](https://o0.pages.dev/)
+- [x] [9600baudconsolecable - iFunny](https://github.com/9600baudconsolecable/Ifunny-Blocklist)
+- [x] [ADSecu - Black Domains](https://github.com/ADsecu/black-domains)
+- [x] [AdAway - adaway.github.io](https://github.com/AdAway/adaway.github.io)
 - [ ] [AdguardTeam - AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
 - [ ] [AdguardTeam - CNAME Trackers](https://github.com/AdguardTeam/cname-trackers)
 - [ ] [AdguardTeam - DNS Filters](https://github.com/AdguardTeam/AdguardSDNSFilter)

@@ -139,8 +139,8 @@ def process_files(input_folder):
 def scrape_urls(database: set):
     domains = set()
     
-    for entry in database:
-        logging.info(f'Processing file: {entry}')
+    for count, entry in enumerate(database):
+        logging.info(f'{count} - Processing file - {entry}')
         try:
 
             # Fetch the content of the URL
