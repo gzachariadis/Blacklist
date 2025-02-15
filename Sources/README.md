@@ -259,7 +259,7 @@
 - [x] [Jdlingyu - AdWars](https://github.com/jdlingyu/ad-wars)
 - [x] [Jerryn70 - GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 - [ ] [JJXu - NSO Pegasus](https://github.com/jjjxu/NSO_Pegasus_Blocklist)
-- [ ] [jkrejcha - AdmiraList](https://github.com/jkrejcha/AdmiraList)T
+- [ ] [jkrejcha - AdmiraList](https://github.com/jkrejcha/AdmiraList)
 - [x] [Jmdugan - Blocklists](https://github.com/jmdugan/blocklists)
 - [x] [Johang - Cookie Consent Hosts](https://github.com/johang/cookie-consent-hosts)
 - [x] [Joshi-Jhon23 - Block-Domains](https://github.com/Joshi-Jhon23/Block-Domains)
