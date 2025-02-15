@@ -28,6 +28,8 @@ sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number
 
 <h3 align="center">Delete Queries</h3>
 
+<br>
+
 Delete Empty (exact domains = 0) and (invalid_domains = 0)
 
 ```sh
@@ -39,8 +41,6 @@ Delete by Status (Unavailabe Lists)
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.status=4"
 ```
-
-<br>
 
 <h3 align="center">Select Domains</h3>
 
