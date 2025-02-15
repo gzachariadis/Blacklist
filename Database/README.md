@@ -25,6 +25,7 @@ Select Addresses by Domain Entries (number <= 20)
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number<=20"
 ```
+<br>
 
 <h3 align="center">Delete Queries</h3>
 
@@ -41,6 +42,8 @@ Delete by Status (Unavailabe Lists)
 ```sh
 sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.status=4"
 ```
+
+<br>
 
 <h3 align="center">Select Domains</h3>
 
