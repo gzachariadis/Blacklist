@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">Adlists</h3>
+<h3 align="center">Select Queries</h3>
 
 <br>
 
@@ -26,7 +26,7 @@ Select Addresses by Domain Entries (number <= 20)
 sqlite3 "/etc/pihole/gravity.db" "SELECT address FROM adlist WHERE adlist.number<=20"
 ```
 
-<h3 align="center">⚠️ <b>DELETE</b> ⚠️</h3>
+<h3 align="center">Delete Queries</h3>
 
 Delete Empty (exact domains = 0) and (invalid_domains = 0)
 
@@ -42,7 +42,7 @@ sqlite3 "/etc/pihole/gravity.db" "DELETE FROM adlist WHERE adlist.status=4"
 
 <br>
 
-<h3 align="center">Domains</h3>
+<h3 align="center">Select Domains</h3>
 
 <br>
 
