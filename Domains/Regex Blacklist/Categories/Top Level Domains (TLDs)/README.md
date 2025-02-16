@@ -33,7 +33,19 @@ The list of malicious TLDs has been sourced from the following trusted threat in
 - [WhoisXML](https://main.whoisxmlapi.com/blog/december-2022-new-domain-activity-highlights/pdf)
 
 - [A Peek into Top-Level Domains and Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
-      
+
+### Articles
+
+- [DomainTools names and shames bad TLDs](https://domainnamewire.com/2022/07/15/domaintools-names-and-shames-bad-tlds/)
+
+- [Bad .Men at .Work. Please Don't .Click](https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/#more-44137)
+
+- [The "Top 20": Shady Top-Level Domains](https://www.security.com/feature-stories/top-20-shady-top-level-domains)
+
+- [NextDNS - Spamhaus Most Abused TLDs List](https://help.nextdns.io/t/h7hg88p/spamhaus-most-abused-tlds-list)
+
+- [SpamHaus Project](https://www.spamhaus.org/reputation-statistics/cctlds/domains/)
+   
 ## File Format
 
 The TLDs are stored in text format, with one TLD per line, formatted as a regex to be used for [Pihole](https://pi-hole.net/).
