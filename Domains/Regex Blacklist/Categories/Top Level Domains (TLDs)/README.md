@@ -16,12 +16,13 @@ The list is updated periodically based on new data and reports from various sour
 
 The list of malicious TLDs has been sourced from the following trusted threat intelligence providers:
 
-- Source: [Spamhaus](https://www.spamtitan.com/)
-- Source: [SpamTitan](https://www.spamtitan.com/)
-- Source: [Interisle](https://interisle.net/)
-- Source: [DomainTools](https://whois.domaintools.com/)
-- Source: [Unit42](https://unit42.paloaltonetworks.com/)
-- 
+- [Spamhaus](https://www.spamtitan.com/)
+- [SpamTitan](https://www.spamtitan.com/)
+- [Interisle](https://interisle.net/)
+- [DomainTools](https://whois.domaintools.com/)
+- [Unit42](https://unit42.paloaltonetworks.com/)
+- [WhoisXML](https://www.whoisxmlapi.com/)
+- [Symantec](https://sep.securitycloud.symantec.com/v2/landing) 
 
 ## File Format
 
