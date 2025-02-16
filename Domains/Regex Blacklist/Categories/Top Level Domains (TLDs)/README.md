@@ -20,6 +20,8 @@ The list of malicious TLDs has been sourced from the following trusted threat in
 - Source: [SpamTitan](https://www.spamtitan.com/)
 - Source: [Interisle](https://interisle.net/)
 - Source: [DomainTools](https://whois.domaintools.com/)
+- Source: [Unit42](https://unit42.paloaltonetworks.com/)
+- 
 
 ## File Format
 
