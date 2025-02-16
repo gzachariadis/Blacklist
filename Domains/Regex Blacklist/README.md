@@ -76,3 +76,31 @@
 
 - [x] [S0m3sushi - Pihole Filters](https://github.com/s0m3sushi/pihole-filters)
 
+
+
+- [x] [InfinityTec - Blocklists](https://github.com/infinitytec/blocklists)
+      
+- [x] [Th3M3 - Blocklists](https://github.com/Th3M3/blocklists)
+
+
+### Articles
+
+- [x] [DomainTools names and shames bad TLDs](https://domainnamewire.com/2022/07/15/domaintools-names-and-shames-bad-tlds/)
+
+- [x] [Bad .Men at .Work. Please Don't .Click](https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/#more-44137)
+
+- [x] [The "Top 20": Shady Top-Level Domains](https://www.security.com/feature-stories/top-20-shady-top-level-domains)
+
+- [x] [NextDNS - Spamhaus Most Abused TLDs List](https://help.nextdns.io/t/h7hg88p/spamhaus-most-abused-tlds-list)
+
+- [x] [SpamHaus Project](https://www.spamhaus.org/reputation-statistics/cctlds/domains/)
+
+### Malware Reports
+
+- [x] [Cybercrime Supply Chain 2024](https://static1.squarespace.com/static/63dbf2b9075aa2535887e365/t/673a102318cc943de2987231/1731858468631/CybercrimeSupplyChain2024.pdf)
+
+- [x] [Interisle](https://interisle.net/insights/phishing-landscape-2024-an-annual-study-of-the-scope-and-distribution-of-phishing)
+
+- [x] [WhoisXML](https://main.whoisxmlapi.com/blog/december-2022-new-domain-activity-highlights/pdf)
+
+- [x] [A Peek into Top-Level Domains and Cybercrime](https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/)
