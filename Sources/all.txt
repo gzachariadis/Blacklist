@@ -14351,7 +14351,6 @@ https://1hosts.cf/
 https://280blocker.net/files/280blocker_adblock_nanj_supp.txt
 https://280blocker.net/files/280blocker_adblock_nanj.txt
 https://280blocker.net/files/280blocker_adblock.txt
-https://280blocker.net/files/280blocker_domain_{{DATE:YYYY}}{{DATE:MM}}.txt
 https://280blocker.net/files/280blocker_domain_ag.txt
 https://280blocker.net/files/280blocker_domain.txt
 https://46.182.18.136/cybercrime/blacklists.txt
@@ -14525,7 +14524,7 @@ https://big.oisd.nl/domains
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/all.php.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/hosts.txt
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Rep$
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Rep
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/zeus_baddomains.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -14966,7 +14965,6 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.medium.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.mini.txt
-https://data.phishtank.com/data/{{PHISHTANK_APP_KEY}}/online-valid.csv
 https://tgc.cloud/downloads/archive/hosts.alive.txt
 https://tgc.cloud/downloads/archive/hosts.dead.txt
 https://tgc.cloud/downloads/archive/hosts.txt

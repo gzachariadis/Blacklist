@@ -39,4 +39,3 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_tunpot.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_xdr33.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/emdivi.txt
-

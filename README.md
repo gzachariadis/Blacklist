@@ -50,6 +50,8 @@
 
 - DOH/DNS - Public and DoH (DNS over HTTPS) Servers (bypass protection)
 
+<br>
+
 <h3>🚫 Blocklists Aggregator Sources</h3>
 
 - **[FilterLists](https://filterlists.com/)**
@@ -61,6 +63,8 @@
 - **[Unified Hosts](https://github.com/AdguardTeam/AdguardFilters)**
   
     for a more detailed section, look [here.](https://codeberg.org/gzachariadis/Blacklist/src/branch/main/Adlists)
+
+<br>
 
 <h3>🛡️ Security</h3>
 
@@ -79,6 +83,8 @@ For most users leveraging [Pi-hole](https://pi-hole.net/), I recommend:
 - [Pi-hole](https://github.com/gzachariadis/Pi-Hole) - A configuration guide for setting up fully self-contained recursive DNS resolver for maximum privacy and ad-blocking efficiency.
 
 - [Raspberry Pi](https://github.com/gzachariadis/Raspberry-Pi) - A comprehensive guide on configuring your Raspberry Pi for optimal performance, reliability, power-consumption, security & privacy.
+
+<br>
 
 <h3>📝 Contributing</h3>
 
