@@ -1,0 +1,4 @@
+(^|\.)ibs\.lgappstv\.com
+(^|\.)lgsmartad\.com
+(^|\.)smartshare\.lgtvsdp\.com
+(^|\.)rdx2\.lgtvsdp\.com

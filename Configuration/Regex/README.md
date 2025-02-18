@@ -4,17 +4,17 @@
 
 <br>
 
-- [ ] [A Programming Blog](https://surajdeshpande.wordpress.com/2021/01/23/pihole-adlist-and-regex-blacklist/)
+- [x] [A Programming Blog](https://surajdeshpande.wordpress.com/2021/01/23/pihole-adlist-and-regex-blacklist/)
 
-- [ ] [AIRFORCE1 - PiHole Repositorys](https://github.com/AlRFORCE1/PiHoleRepositorys)
+- [x] [AIRFORCE1 - PiHole Repositorys](https://github.com/AlRFORCE1/PiHoleRepositorys)
 
-- [ ] [Anthony-wang- PiHole Blocklist](https://github.com/anthony-wang/PiHoleBlocklist)
+- [x] [Anthony-wang- PiHole Blocklist](https://github.com/anthony-wang/PiHoleBlocklist)
 
 - [ ] [BenTasker](https://www.bentasker.co.uk/posts/documentation/general/refreshing-piholes-regex-block-list-from-external-sources.html)
 
 - [ ] [Cbuijs - Accomplist](https://github.com/cbuijs/accomplist)
 
-- [ ] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
+- [x] [Cbuijs - Unbound DNS Firewall](https://github.com/cbuijs/unbound-dns-firewall)
 
 - [ ] [Cparsell- Blocklists Whitelist](https://github.com/cparsell/Blocklists-Whitelists)
 

@@ -1,0 +1,10 @@
+(^|\.)giraffic\.com$
+(^|\.)internetat\.tv$
+(^|\.)pavv\.co\.kr$
+(^|\.)samsungcloudcdn\.com$
+(^|\.)samsungcloudsolution\.com$
+(^|\.)samsungcloudsolution\.net$
+(^|\.)samsungelectronics\.com$
+(^|\.)samsungotn\.net$
+(^|\.)samsungrm\.net$
+^api\..*\.hismarttv\.com$
