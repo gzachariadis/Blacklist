@@ -4765,7 +4765,7 @@ https://phishing-filter.pages.dev/phishing-filter-bind.conf
 https://phishing-filter.pages.dev/phishing-filter-dnsmasq.conf
 https://phishing-filter.pages.dev/phishing-filter-domains.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
-https://phishing-filter.pages.dev/phishing-filter-hosts.txtb
+https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phishing-filter.pages.dev/phishing-filter-rpz.conf
 https://phishing-filter.pages.dev/phishing-filter-snort2.rules
 https://phishing-filter.pages.dev/phishing-filter-snort3.rules

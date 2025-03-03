@@ -5869,10 +5869,7 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/unchec
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklhttps://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt
 https://raw.githubusercontent.com/gzachariadis/Blacklist/main/Consolidate/Output/domains.txt
 https://antipopads-re.energized.pro/formats/hosts.txthttps://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts-ipv6.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate
-versions
-Anti-Malware
-List/AntiMalwareHosts.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternateversions
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txthttps://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-ad/list.txthttps://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/anudeepnd-adservers/list.txthttps:/raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-ad/list.txthttps:/raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/giftcardkiller.txthttps://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt

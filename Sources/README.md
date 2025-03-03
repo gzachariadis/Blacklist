@@ -1,585 +1,618 @@
-- [ ] [0n1con3 - nso blacklist](https://github.com/0n1con3/the-nso-blacklist)
-- [ ] [capitole - blacklist](http://dsi.ut-capitole.fr/blacklists/download/)
-- [ ] [cbuijs - accomplist](https://github.com/cbuijs/accomplist)
-- [ ] [jjxu - nso pegasus](https://github.com/jjjxu/nso_pegasus_blocklist)
-- [ ] [jkrejcha - admiralist](https://github.com/jkrejcha/admiralist)
-- [ ] [notrohorse - government malware domains](https://gitlab.com/nitrohorse/government-malware-domains-blocklist)
-- [ ] [thesmashy - 0365 whitelist](https://github.com/thesmashy/o365whitlist)
-- [x] [1hosts](https://o0.pages.dev/)
-- [x] [4skinskywalker - anti porn](https://github.com/4skinskywalker/anti-porn-hosts-file)
-- [x] [521xueweihan - github520](https://github.com/521xueweihan/github520)
-- [x] [9600baudconsolecable - ifunny](https://github.com/9600baudconsolecable/ifunny-blocklist)
-- [x] [abpindo - indonesian adblocker](https://github.com/abpindo/indonesianadblockrules)
-- [x] [abpvn](https://github.com/abpvn/abpvn)
-- [x] [adaway - adaway.github.io](https://github.com/adaway/adaway.github.io)
-- [x] [adguardteam - adguardfilters](https://github.com/adguardteam/adguardfilters)
-- [x] [adguardteam - cname trackers](https://github.com/adguardteam/cname-trackers)
-- [x] [adguardteam - dns filters](https://github.com/adguardteam/adguardsdnsfilter)
-- [x] [adroitadorkhan - antipopads-re](https://github.com/adroitadorkhan/antipopads-re)
-- [x] [adsecu - black domains](https://github.com/adsecu/black-domains)
-- [x] [aetherinox - hos blacklist collection](https://github.com/aetherinox/host-blacklist-collection/)
-- [x] [alexrabbit - adios](https://github.com/alexrabbit/adios)
-- [x] [alexsannikov - adguard home](https://github.com/alexsannikov/adguardhome-filters)
-- [x] [allendema - no playlist](https://codeberg.org/allendema/noplaylist)
-- [x] [allendema - no playlist](https://github.com/allendema/noplaylist)
-- [x] [amazefcc233 - no ad host](https://github.com/amazefcc233/no-ads-hosts)
-- [x] [amnestytech - investigations](https://github.com/amnestytech/investigations)
-- [x] [and96 - adblock additional filters](https://github.com/and96/adblock-additional-filters)
-- [x] [andryou - andrew settings](https://gitlab.com/andryou/andrews-settings)
-- [x] [andryou - block](https://gitlab.com/andryou/block)
-- [x] [angelics - pfbng](https://github.com/angelics/pfbng)
-- [x] [anosoldierno - adblock nordic](https://github.com/anosoldierno/adblock-nordic)
-- [x] [anthony wang - pihole blocklist](https://github.com/anthony-wang/piholeblocklist/)
-- [x] [antifan - pihole](https://github.com/antifa-n/pihole)
-- [x] [anudeepnd - blacklist](https://github.com/anudeepnd/blacklist)
-- [x] [anudeepnd - whitelist](https://github.com/anudeepnd/whitelist)
-- [x] [anudeepnd - youtube ads](https://github.com/anudeepnd/youtubeadsblacklist)
-- [x] [arcetera - minimal hosts blocker](https://github.com/arcetera/minimal-hosts-blocker)
-- [x] [arstech - pihole blocking](https://arstech.net/pi-hole-blocking-lists-2023/)
-- [x] [articrevised - hosts](https://github.com/articrevised/hosts-file-list)
-- [x] [aspartam206 - gravity housekeeper](https://github.com/aspartam206/gravity_housekeeper)
-- [x] [assoechap - stalkerware indicators](https://github.com/assoechap/stalkerware-indicators)
-- [x] [austinheap - sophos xg blocklist](https://github.com/austinheap/sophos-xg-block-lists)
-- [x] [authorshin - blocklist pihole](https://github.com/authorshin/blocklist_pi_hole)
-- [x] [autinerd - anti-axelspringer hosts](https://github.com/autinerd/anti-axelspringer-hosts)
-- [x] [ayanagroup official - adguard home](https://github.com/ayanagroup-official/hosts)
-- [x] [bad&ugly - bad and ugly](https://codeberg.org/badandugly/badandugly)
-- [x] [badmojr - 1hosts](https://github.com/badmojr/1hosts)
-- [x] [badmojr - addons](https://github.com/badmojr/addons_1hosts)
-- [x] [bamf2077 - quarklist](https://github.com/bamf2077/quarklist)
-- [x] [banbendalao - adgk](https://github.com/banbendalao/adgk)
-- [x] [bcye - hello-goodbye](https://github.com/cpeterso/clickbait-blocklist)
-- [x] [bestpika - abp](https://github.com/bestpika/abp)
-- [x] [bigdargon - hostsvn](https://github.com/bigdargon/hostsvn)
-- [x] [bjornstart - hosts](https://github.com/bjornstar/hosts)
-- [x] [bkrucarci - turk adlist](https://github.com/bkrucarci/turk-adlist)
-- [x] [blackjack8 - iosadblock](https://github.com/blackjack8/iosadblocklist)
-- [x] [bmyjacks - adlists](https://github.com/bmyjacks/adlists)
-- [x] [bon-appetit - porn domains](https://github.com/bon-appetit/porn-domains)
-- [x] [bongochong - combined privacy](https://github.com/bongochong/combinedprivacyblocklists)
-- [x] [brijrajparmar27 - host sources](https://github.com/brijrajparmar27/host-sources)
-- [x] [buildbot42 - discord scam links](https://github.com/buildbot42/discord-scam-links)
-- [x] [cafeeinewriter - don't push me](https://github.com/caffeinewriter/dontpushme)
-- [x] [castle67 - castleads](https://github.com/castle67/castleads)
-- [x] [cats-team - adrules](https://github.com/cats-team/adrules)
-- [x] [cbsoftware - cb malicious domains](https://github.com/cb-software/cb-malicious-domains)
-- [x] [cbuijs - insigator](https://github.com/cbuijs/instigator)
-- [x] [cbuijs - unbound dns firewall](https://github.com/cbuijs/unbound-dns-firewall)
-- [x] [cchevy - macedonian pihole](https://github.com/cchevy/macedonian-pi-hole-blocklist)
-- [x] [cedws - apple telemetry](https://github.com/cedws/apple-telemetry)
-- [x] [cert.pl - malicious domains](https://cert.pl/en/posts/2020/03/malicious_domains/)
-- [x] [chadmayfield - my pihole blocklists](https://github.com/chadmayfield/my-pihole-blocklists)
-- [x] [chrisjudk - hosts](https://github.com/chrisjudk/hosts)
-- [x] [cjx82630 - cjxlist](https://github.com/cjx82630/cjxlist)
-- [x] [cleanmachine1 - adlisttxts](https://github.com/cleanmachine1/adlisttxts)
-- [x] [clefspeare13 -pornhosts](https://github.com/clefspeare13/pornhosts)
-- [x] [cloudsentraldotnet - pfsense porn famous](https://github.com/cloudsentraldotnet/pfsense_porn_famous)
-- [x] [cloudyyuw - adblock to pihole blocklist](https://codeberg.org/cloudyyuw/adblock-to-pihole-blocklist)
-- [x] [cmiksche - blacklists](https://gitlab.com/cmiksche/blacklists)
-- [x] [codesapiens - adguard](https://github.com/codesapiens/adguard-filters)
-- [x] [columndeeply - hosts](https://github.com/columndeeply/hosts)
-- [x] [coopgroupatx - game blocklist](https://github.com/coopgroupatx/pihole-game-blocklist)
-- [x] [copy05 - blocklists](https://github.com/copy05/blocklists)
-- [x] [cparsell - blocklists whitelists](https://github.com/cparsell/blocklists-whitelists)
-- [x] [cpeterso - clickbait](https://github.com/cpeterso/clickbait-blocklist)
-- [x] [craiu - mobile trackers](https://github.com/craiu/mobiletrackers)
-- [x] [crazy max - windows spy blocker](https://github.com/crazy-max/windowsspyblocker)
-- [x] [crpietschmann's - social media](https://github.com/crpietschmann/pi-hole-blocklist)
-- [x] [cryptofr - crypto scams fr](https://github.com/cryptofr/crypto-scams-fr)
-- [x] [cschp - pihole](https://github.com/cschp/cschp_pihole)
-- [x] [curben - phishing filter](https://pagure.io/curben/phishing-filter)
-- [x] [curben - vn badsite filter](https://pagure.io/curben/vn-badsite-filter)
-- [x] [curbengh - urlhaus-filter](https://github.com/curbengh/urlhaus-filter)
-- [x] [curryonpatat - fortine blocklist](https://github.com/curryonpatat/forntite-blocklist)
-- [x] [cyanidebrother - anti-pr0n](https://github.com/cyanidebrother/anti-pr0n)
-- [x] [d3cim - block](https://github.com/d3cim/block)
-- [x] [d3ward toolz](https://github.com/d3ward/toolz)
-- [x] [d43m0nhlint3r - social blocklists](https://github.com/d43m0nhlint3r/socialblocklists)
-- [x] [damengzhu - banad](https://github.com/damengzhu/banad)
-- [x] [dandelionsprout - adfilt](https://github.com/dandelionsprout/adfilt)
-- [x] [danhorton7 - pihole block tiktok](https://github.com/danhorton7/pihole-block-tiktok)
-- [x] [danny van lierpo - txt blocklist](https://github.com/dannyvanlierop/txt_blocklists)
-- [x] [daviddonzo - threat intel](https://github.com/davidonzo/threat-intel)
-- [x] [dawsey21 - lists](https://github.com/dawsey21/lists)
-- [x] [daylamtayari - pihole blocklist](https://github.com/daylamtayari/pi-hole-blocklist)
-- [x] [de956 - adblock list](https://github.com/de956/adblock-list)
-- [x] [dead-hosts - hosts facebook0](https://github.com/dead-hosts/hosts_facebook0_git_kowith337)
-- [x] [deadhosts - adaway](https://github.com/dead-hosts/adaway.github.io_git_adaway)
-- [x] [deadhosts - adblockid plus](https://github.com/dead-hosts/adblockid-plus_realodix)
-- [x] [deadhosts - add.207net](https://github.com/dead-hosts/add.2o7net_git_fademind)
-- [x] [deadhosts - add.dead](https://github.com/dead-hosts/add.dead_git_fademind)
-- [x] [deadhosts - addspam](https://github.com/dead-hosts/add.spam_git_fademind)
-- [x] [deadhosts - adfilter list web disconnect](https://github.com/dead-hosts/ad-filter-list_web_disconnect.me)
-- [x] [deadhosts - badd boyz hosts](https://github.com/dead-hosts/badd-boyz-hosts_git_mitchellkrogza)
-- [x] [deadhosts - basic tracking disconnect.me](https://github.com/dead-hosts/basic-tracking-list_web_disconnect.me)
-- [x] [deadhosts - cameleon](https://github.com/dead-hosts/cameleon_web_sysctl.org)
-- [x] [deadhosts - coinblockers](https://github.com/dead-hosts/coinblockerslists-hosts_git_zerodot1)
-- [x] [deadhosts - coinblockers](https://github.com/dead-hosts/coinblockerslists-hosts_optional_git_zerodot1)
-- [x] [deadhosts - cookie filters](https://github.com/dead-hosts/cookies_filters_git_majkiit)
-- [x] [deadhosts - dbl oisd](https://github.com/dead-hosts/domain_blocklist_web_dbl-oisd-nl)
-- [x] [deadhosts - domainvoider](https://github.com/dead-hosts/domainvoider_git_intr0)
-- [x] [deadhosts - easylist web](https://github.com/dead-hosts/easylist_web_easylist.to)
-- [x] [deadhosts - fademind risk](https://github.com/dead-hosts/add.risk_git_fademind)
-- [x] [deadhosts - fademind](https://github.com/dead-hosts/rlwpx.free.fr.htrc_git_fademind)
-- [x] [deadhosts - google adservice](https://github.com/dead-hosts/hosts_google_adservice_id_git_kowith337)
-- [x] [deadhosts - hosts lightswitch05](https://github.com/dead-hosts/hosts_git_lightswitch05)
-- [x] [deadhosts - hosts web mvps](https://github.com/dead-hosts/hosts_web_mvps.org)
-- [x] [deadhosts - hosts web yoyo](https://github.com/dead-hosts/hosts_web_yoyo.org)
-- [x] [deadhosts - hp hosts tracking](https://github.com/dead-hosts/hphosts---ad-and-tracking_web_hosts-file.net)
-- [x] [deadhosts - indoneasian adblock](https://github.com/dead-hosts/indonesianadblockrules-subscriptions_git_abpindo)
-- [x] [deadhosts - indonesia adblockers](https://github.com/dead-hosts/indonesianadblockrules_git_abpindo)
-- [x] [deadhosts - iosadblock list](https://github.com/dead-hosts/iosadblocklist-hosts_git_blackjack8)
-- [x] [deadhosts - ivoid](https://github.com/dead-hosts/ivoid.hosts_git_intr0)
-- [x] [deadhosts - kad hosts](https://github.com/dead-hosts/kadhosts_git_azet12)
-- [x] [deadhosts - pl hosts](https://github.com/dead-hosts/.pl-host-file_git_xxcriticxx)
-- [x] [deadhosts - stevenblack](https://github.com/dead-hosts/hosts_git_stevenblack)
-- [x] [deadhosts - uncheckyads](https://github.com/dead-hosts/uncheckyads_git_fademind)
-- [x] [deadhosts - upd domain git](https://github.com/dead-hosts/upd_domain_git_gioxx)
-- [x] [deadhosts - xfiles facebook](https://github.com/dead-hosts/xfiles_facebook_git_gioxx)
-- [x] [deadhosts - xfiles](https://github.com/dead-hosts/xfiles_filtri_git_gioxx)
-- [x] [deadhosts - xfiles](https://github.com/dead-hosts/xfiles_siteblock_git_gioxx)
-- [x] [deadhosts - zelo72s_rpi.pihole.blocklists.multi](https://github.com/dead-hosts/zelo72s_rpi.pihole.blocklists.multi)
-- [x] [death by dandaid - whitelists](https://github.com/deathbybandaid/pihole-whitelists)
-- [x] [deathbybandaid - pihole parser](https://github.com/deathbybandaid/piholeparser)
-- [x] [decatec - pihole blacklists](https://codeberg.org/decatec/pihole-blacklists)
-- [x] [deep bhatt - huawei blocklist](https://github.com/deep-bhatt/huawei-block-list)
-- [x] [dehakkelaar - cryptojacking](https://github.com/dehakkelaar/cryptojacking-campaign-list)
-- [x] [dersumo - dns allowslists](https://github.com/dersumo/dns_allowlists)
-- [x] [developer dan's - hosts](https://www.github.developerdan.com/hosts/)
-- [x] [developer dan's - lightswitch05](https://github.com/lightswitch05/hosts)
-- [x] [devspen - scam links](https://github.com/devspen/scam-links)
-- [x] [dfederlein - dnsbl - dfed](https://github.com/dfederlein/dnsbl-dfed)
-- [x] [didbot - doh-ip-blocklists](https://github.com/dibdot/doh-ip-blocklists)
-- [x] [disconnectme - disconnect tracking protection](https://github.com/disconnectme/disconnect-tracking-protection)
-- [x] [discord-antiscam - scam links](https://github.com/discord-antiscam/scam-links)
-- [x] [divested.dev - dnsbl](https://divested.dev/pages/dnsbl)
-- [x] [divestedcg - dnsbl](https://github.com/divestedcg/dnsbl)
-- [x] [divestedcg - dnsrm](https://github.com/divestedcg/dnsrm)
-- [x] [dmachard - blocklist domains](https://github.com/dmachard/blocklist-domains)
-- [x] [dnsblocklistnet - blocklists](https://github.com/dnsblocklistnet/blocklists)
-- [x] [dogino - discord phishing urls](https://github.com/dogino/discord-phishing-urls)
-- [x] [doh dns blocks filter](https://github.com/mohamedelashri/doh-list)
-- [x] [domain voider](https://github.com/domainvoider)
-- [x] [drsdavidsoft - additional hosts](https://github.com/drsdavidsoft/additional-hosts)
-- [x] [durable napkin - scamblock](https://github.com/durablenapkin/scamblocklist)
-- [x] [durable napking - block](https://github.com/durablenapkin/block)
-- [x] [easonjim - blackhosts](https://github.com/easonjim/blackhosts)
-- [x] [easylist - easylist hebrew](https://github.com/easylist/easylisthebrew)
-- [x] [easylist - easylist](https://github.com/easylist/easylist)
-- [x] [easylist brasil - brasil](https://github.com/easylistbrasil/easylistbrasil)
-- [x] [easylist](https://easylist.to/)
-- [x] [eded333 - the fucking list](https://github.com/eded333/thefuckinglist)
-- [x] [elbkr - bad websites](https://github.com/elbkr/bad-websites)
-- [x] [elliotwutingfeng - global antiscamorg blocklist](https://github.com/elliotwutingfeng/globalantiscamorg-blocklist)
-- [x] [elliotwutingfeng - inversion dnsbl-blocklists](https://github.com/elliotwutingfeng/inversion-dnsbl-blocklists)
-- [x] [emillio dalla torre - adult hosts](https://github.com/emiliodallatorre/adult-hosts-list)
-- [x] [endmod nader - my pihole lists](https://github.com/edmond-nader/mypiholelists)
-- [x] [energized protection - block](https://github.com/energizedprotection/block)
-- [x] [energizedprotection - energizedblu](https://github.com/energizedprotection/energizedblu)
-- [x] [energizedprotection - unblock](https://github.com/energizedprotection/unblock)
-- [x] [error13 - premonition](https://github.com/error13/premonition)
-- [x] [esentire - malfeed](https://github.com/esentire/malfeed)
-- [x] [esox-lucius - blocklist malware](https://github.com/esox-lucius/blocklist-malware-do-not-use-)
-- [x] [esox-lucius pihole blocklists](https://github.com/esox-lucius/piholeblocklists)
-- [x] [explorer422 - privacy badger](https://codeberg.org/explorer422/privacy-badger-block-list-for-pihole)
-- [x] [fabrioziosalmi - blacklists](https://github.com/fabriziosalmi/blacklists)
-- [x] [fademind - hosts.extras](https://github.com/fademind/hosts.extras)
-- [x] [farrokhi - adblock iran](https://github.com/farrokhi/adblock-iran)
-- [x] [fillippobuletto - pihole hoax sites](https://github.com/filippobuletto/pihole-hoax-sites-list)
-- [x] [filtersheroes - kadhosts](https://github.com/filtersheroes/kadhosts)
-- [x] [firebog ticked list](https://github.com/shahidcodes/firebog-ticked-list)
-- [x] [fishysites](https://github.com/vladak/fishysites)
-- [x] [ftpmorph - ftprivacy](https://github.com/ftpmorph/ftprivacy)
-- [x] [funilrys - dead hosts](https://github.com/funilrys/dead-hosts)
-- [x] [furkun - protectorhosts](https://github.com/furkun/protectorhosts)
-- [x] [fusionplmh - dead block](https://github.com/fusionplmh/dead-block)
-- [x] [futaguard - low tech filter](https://github.com/futaguard/lowtechfilter)
-- [x] [fuzzthepiguy - blocklist](https://fuzzthepiguy.tech/blocklist/)
-- [x] [gatmyit - piholelists](https://github.com/gatmyit/pihole-lists)
-- [x] [genediazjr - nopelist](https://github.com/genediazjr/nopelist)
-- [x] [geoffrey frogeye's block list of first-party trackers](https://hostfiles.frogeye.fr/)
-- [x] [gieljnssns - social media](https://github.com/gieljnssns/social-media-blocklists)
-- [x] [gioxx - xfiles](https://github.com/gioxx/xfiles)
-- [x] [go2engineering - pihole blocklists](https://github.com/go2engineering/pihole-blocklists)
-- [x] [gooler - 1024 hosts](https://github.com/goooler/1024_hosts)
-- [x] [grateful - win10piholeblocklist](https://codeberg.org/grateful/win10piholeblocklist)
-- [x] [greg-2600 - pihole blocklist](https://github.com/greg-2600/pihole_block_list)
-- [x] [guardicore - lab campaings](https://github.com/guardicore/labs_campaigns)
-- [x] [hazegi - dns blocklists](https://github.com/hagezi/dns-blocklists)
-- [x] [hblock - molinero](https://hblock.molinero.dev/)
-- [x] [hectorm - hblock](https://github.com/hectorm/hblock)
-- [x] [hellsh - evil domains](https://github.com/hell-sh/evil-domains)
-- [x] [hemiipatu - pihole blocklists](https://github.com/hemiipatu/piholeblocklists)
-- [x] [hendersonaw - pihole](https://github.com/hendersonaw/pi-hole-project)
-- [x] [heriberto kubuntu - pihole](https://github.com/heribertokubuntu/pihole)
-- [x] [hermanjustinm - herm's ad blacklist](https://github.com/hermanjustinm/herms-blacklist)
-- [x] [herrbischoff - index: tracker](https://git.herrbischoff.com/trackers/about/)
-- [x] [herrbischoff - trackers](https://git.herrbischoff.com/trackers)
-- [x] [hexxiumcreations - threatlist](https://github.com/hexxiumcreations/threat-list)
-- [x] [hkamran80 - blocklists](https://github.com/hkamran80/blocklists)
-- [x] [hl2guide - adguard home whitelist](https://github.com/hl2guide/adguard-home-whitelist)
-- [x] [hl2guide - filterlists](https://github.com/hl2guide/filterlist-for-adguard-or-pihole)
-- [x] [homemadeadvanced - pihole](https://codeberg.org/homemadeadvanced/pihole)
-- [x] [horusteknoloji - tr phising list](https://github.com/horusteknoloji/tr-phishinglist)
-- [x] [hoshsadiq - nocoin adblock](https://github.com/hoshsadiq/adblock-nocoin-list)
-- [x] [hosts.trli.club](https://hosts.trli.club/)
-- [x] [hostsfile - hosts](http://www.hostsfile.org/hosts.html)
-- [x] [hpthreatresearch - iocs](https://github.com/hpthreatresearch/iocs)
-- [x] [hubird-au - adversity](https://github.com/hubird-au/adversity)
-- [x] [hungarian fakenews adblock list](https://github.com/radokristof/hunfakenewsadblocklist)
-- [x] [iampytest - my filters 001 mirror](https://codeberg.org/iam-py-test/my_filters_001_mirror_1)
-- [x] [iampytest - my filters 001](https://github.com/iam-py-test/my_filters_001)
-- [x] [iblocklist.com](https://www.iblocklist.com/lists)
-- [x] [ignaciocastro - adobe is dumb](https://github.com/ignaciocastro/adobe-is-dumb)
-- [x] [ilpl - adhosts](https://github.com/ilpl/ad-hosts)
-- [x] [imkarthikk - pihole facebook](https://github.com/imkarthikk/pihole-facebook)
-- [x] [inaugral - game trackers](https://github.com/inaugral/pihole-blocklist-gametrackers)
-- [x] [infinitytech - blocklists](https://github.com/infinitytec/blocklists)
-- [x] [intr0 - appleblock](https://gitlab.com/intr0/appleblock)
-- [x] [iocium - download dangerous domains](https://github.com/iocium/download.dangerous.domains)
-- [x] [isaaker - spotify adslist](https://github.com/isaaker/spotify-adslist)
-- [x] [itayfunes - stream nitro phishing links](https://github.com/itayfunes/steamnitrophishinglinks)
-- [x] [jackcuthbert - pihole reddit](https://github.com/jackcuthbert/pihole-reddit)
-- [x] [jackcuthbert - pihole splogs](https://github.com/jackcuthbert/pihole-splogs)
-- [x] [jackcuthbert - twitter](https://github.com/jackcuthbert/pihole-twitter)
-- [x] [jakejarvis - ios trackers](https://github.com/jakejarvis/ios-trackers)
-- [x] [jameshas - public doh lists](https://github.com/jameshas/public-doh-lists)
-- [x] [jamiemansfield - minecraft hosts](https://github.com/jamiemansfield/minecraft-hosts)
-- [x] [jankais3r - synology safe access domainlist](https://github.com/jankais3r/synology-safe-access-domain-list)
-- [x] [jarelllama - emerging threads](https://github.com/jarelllama/emerging-threats)
-- [x] [jarelllama - scam blocklist](https://github.com/jarelllama/scam-blocklist)
-- [x] [jawz101 - potential trackers](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/adguardmobileads.txt)
-- [x] [jawz101 - subdomain blocklists](https://github.com/jawz101/subdomain_blocklists)
-- [x] [jdlingyu - adwars](https://github.com/jdlingyu/ad-wars)
-- [x] [jerryn70 - goodbyeads](https://github.com/jerryn70/goodbyeads)
-- [x] [jmdugan - blocklists](https://github.com/jmdugan/blocklists)
-- [x] [johang - cookie consent hosts](https://github.com/johang/cookie-consent-hosts)
-- [x] [joshi-jhon23 - block-domains](https://github.com/joshi-jhon23/block-domains)
-- [x] [juanico10 - piholelist](https://github.com/juanico10/pihole_list)
-- [x] [jussiroine - pihole adlists](https://jussiroine.com/pi-hole-adlists/)
-- [x] [just domains - blocklists](https://github.com/justdomains/blocklists)
-- [x] [k0nsl - unbound blocklist](https://github.com/k0nsl/unbound-blocklist)
-- [x] [kaythromas0 - cryptoscamdb-lists](https://github.com/kaythomas0/cryptoscamdb-lists)
-- [x] [kboghdady - youtube ads 4 pihole](https://github.com/kboghdady/youtube_ads_4_pi-hole)
-- [x] [kboghdady - youtube ads](https://github.com/kboghdady/youtube_ads_4_pi-hole)
-- [x] [kevle1 - windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist)
-- [x] [kevle1 - xiaomi spyware blocklist](https://github.com/kevle1/xiaomi-telemetry-blocklist)
-- [x] [kiril-u - orbit pihole hosts list](https://github.com/kiril-u/orbit-pihole)
-- [x] [kitsapcreatoe - pihole blocklists](https://github.com/kitsapcreator/pihole-blocklists)
-- [x] [knuschberkeks - knuschberblock](https://codeberg.org/knuschberkeks/knuschberblock)
-- [x] [koff75](https://github.com/koff75/pi-hole-rules-for-fr---us)
-- [x] [konnor88 - antigrabify](https://github.com/konnor88/anti-grabify)
-- [x] [kornelski - sblam](https://github.com/kornelski/sblam)
-- [x] [kowith337 - personal filterlist collection](https://github.com/kowith337/personalfilterlistcollection)
-- [x] [kox599 - pihole blocklist](https://github.com/kox599/pi-hole-block-list-etc)
-- [x] [kurobeats - phishing hosts](https://gitlab.com/kurobeats/phishing_hosts)
-- [x] [lassekongo83 - frellwits filter lists](https://github.com/lassekongo83/frellwits-filter-lists)
-- [x] [leavemealone - email trackers](https://github.com/leavemealone-app/email-trackers)
-- [x] [leroyby - pihole settings](https://github.com/leroyby/pihole_settings)
-- [x] [lethalaspect - ipdefender](https://github.com/lethalaspect/ipdefender)
-- [x] [levi2288 -advanced blockist](https://github.com/levi2288/advancedblocklist)
-- [x] [lggomez - squidcontrib pihole](https://github.com/lggomez/squidcontrib_pihole)
-- [x] [liamengland1 - mischosts](https://github.com/liamengland1/mischosts)
-- [x] [lightrain - pihole blocklists](https://codeberg.org/lightrain/pihole_blocklists)
-- [x] [linuxtracker - blocklists](https://github.com/linuxtracker/blocklists)
-- [x] [littlecordines - pfsense hosts file](https://github.com/littlecordines/pfsense-hosts-file)
-- [x] [logroid - adaway-hosts](https://github.com/logroid/adaway-hosts)
-- [x] [luca1844 - spotify](https://github.com/luca1844/pihole_spotify_blockads)
-- [x] [lukaszlapaj - pihole filters](https://github.com/lukaszlapaj/pihole-filters)
-- [x] [lumiworx - htp-ai-blocklist](https://codeberg.org/lumiworx/hpt-ai-blocklist)
-- [x] [luois45 - dns blocklist](https://github.com/luois45/dnsblocklists)
-- [x] [luois45 - vr chat](https://github.com/luois45/vrchatanalyticsblocklist)
-- [x] [lwojcik - lukes pihole blocklist](https://github.com/lwojcik/lukes-pihole-blocklist)
-- [x] [m-a-sc - adlist!!!!!!!!!!!!!!!!!!!!!!!](https://github.com/m-a-sc/adlist-sanitizer)
-- [x] [macroacorte - antispam it](https://github.com/marco-acorte/antispam-it/)
-- [x] [magnesium1062 - badblock](https://codeberg.org/magnesium1062/badblock)
-- [x] [malware filter - phishing filter](https://gitlab.com/malware-filter/phishing-filter)
-- [x] [malware filter - pup filter](https://gitlab.com/malware-filter/pup-filter)
-- [x] [malware filter - tracking filter](https://gitlab.com/malware-filter/tracking-filter)
-- [x] [malware filter - urlhaus filter](https://gitlab.com/malware-filter/urlhaus-filter)
-- [x] [malware filter - vn badsite filter](https://gitlab.com/malware-filter/vn-badsite-filter)
-- [x] [manic-code - emerging malicious blocklist](https://github.com/manic-code/emerging-malicious-domain-blocklist)
-- [x] [marbytebeep - block news](https://github.com/marbytebeep/blocknews)
-- [x] [marcusminus - orthrus blocklist](https://github.com/marcusminus/orthrus-blocklist)
-- [x] [marfjeh - coinhive block](https://github.com/marfjeh/coinhive-block)
-- [x] [marktron - fakenews](https://github.com/marktron/fakenews)
-- [x] [matomo-org - referrer spamlists](https://github.com/matomo-org/referrer-spam-list)
-- [x] [mattellery - yt pihole blocklist](https://codeberg.org/mattellery/yt-pihole-blocklist)
-- [x] [mawenjian - chrina cdn](https://github.com/mawenjian/china-cdn-domain-whitelist)
-- [x] [maxi2142 - piholeblocklist](https://codeberg.org/maxi2142/piholeblocklist)
-- [x] [maxwai - piholeadlists](https://github.com/maxwai/pihole_ad_lists)
-- [x] [mdp43140 - badomain](https://github.com/mdp43140/badomain)
-- [x] [merkeid - covid domains](https://github.com/merkleid/covid-domains)
-- [x] [metamask - eth phishing detect](https://github.com/metamask/eth-phishing-detect)
-- [x] [mhhakim - pihole blocklist](https://github.com/mhhakim/pihole-blocklist)
-- [x] [mhxion - pornaway](https://github.com/mhxion/pornaway)
-- [x] [michaeltrimm - hostsblocking](https://github.com/michaeltrimm/hosts-blocking)
-- [x] [miogmiog - filters](https://github.com/miogmiog/filters)
-- [x] [miriquidi - dns blocklists](https://github.com/miriquidi/dns-block-lists)
-- [x] [miriquidi - domain blocklist](https://github.com/miriquidi/domain-blocklists)
-- [x] [miscellaneousfactory - adblocklist](https://github.com/miscellaneousfactory/adblocklist)
-- [x] [mitchellkrogza - badd boyz hosts](https://github.com/mitchellkrogza/badd-boyz-hosts)
-- [x] [mitchellkrogza - phishing.database](https://github.com/mitchellkrogza/phishing.database)
-- [x] [mitchellkrogza - phishing](https://github.com/mitchellkrogza/phishing)
-- [x] [mitchellkrogza - the big list of hacked malware web sites](https://github.com/mitchellkrogza/the-big-list-of-hacked-malware-web-sites)
-- [x] [mkb2091 - blockconvert](https://github.com/mkb2091/blockconvert)
-- [x] [mklemmingen - stop the token](https://github.com/mklemmingen/stopthetoken)
-- [x] [moose84 - list](https://github.com/moose84/list)
-- [x] [moralcode - pihole antitelemetry](https://github.com/moralcode/pihole-antitelemetry)
-- [x] [mrchi - adaway](https://github.com/mrchi/adaway-hosts)
-- [x] [mrxehmad - pihole adlist](https://github.com/mrxehmad/pi-hole-adlist)
-- [x] [mtxadmin - ublock](https://github.com/mtxadmin/ublock)
-- [x] [muhrizkil1996 - pihole adblocker](https://github.com/muhrizki1996/pihole-adblocker-list)
-- [x] [mullvad - dns blocklists](https://github.com/mullvad/dns-blocklists)
-- [x] [nabeelxy - domainbl](https://github.com/nabeelxy/domainbl)
-- [x] [nanoadblocker - nano filters](https://github.com/nanoadblocker/nanofilters)
-- [x] [nebelix - pihole adlists](https://codeberg.org/nebelix/pihole_adlists)
-- [x] [nemalex - pihole blocklist](https://codeberg.org/nemalex/pihole_blocklist)
-- [x] [neo23x0 - signature base](https://github.com/neo23x0/signature-base)
-- [x] [neodevpro - neodevhost](https://github.com/neodevpro/neodevhost)
-- [x] [neofelhz - neohosts](https://github.com/neofelhz/neohosts)
-- [x] [newdevpro dead-allow](https://github.com/neodevpro/dead-allow)
-- [x] [nextdns  - piracy blocklists](https://github.com/nextdns/piracy-blocklists)
-- [x] [nextdns - bin domains](https://github.com/nextdns/bin-domains)
-- [x] [nextdns - blocklists](https://github.com/nextdns/blocklists)
-- [x] [nextdns - click tracking](https://github.com/nextdns/click-tracking-domains)
-- [x] [nextdns - cname cloacking](https://github.com/nextdns/cname-cloaking-blocklist)
-- [x] [nextdns - ddns domains](https://github.com/nextdns/ddns-domains)
-- [x] [nextdns - mixed content domains](https://github.com/nextdns/mixed-content-domains)
-- [x] [nextdns - native tracking domains](https://github.com/nextdns/native-tracking-domains)
-- [x] [nextdns - no safesearch](https://github.com/nextdns/no-safesearch)
-- [x] [nextdns - public suffixes-extras](https://github.com/nextdns/public-suffixes-extras)
-- [x] [nextdns - url shorteners domains](https://github.com/nextdns/url-shorteners-domains)
-- [x] [nezu81 - pihole mega lists](https://gitlab.com/nezu81/pihole-mega-lists)
-- [x] [nicholasb2101 - pihole](https://github.com/nicholasb2101/pihole)
-- [x] [nickoppen - vpn providers & social media](https://github.com/nickoppen/pihole-blocklists)
-- [x] [nickspaargaren - no amazon](https://github.com/nickspaargaren/no-amazon)
-- [x] [nickspaargaren - no google](https://github.com/nickspaargaren/no-google)
-- [x] [nikolaischuck - discord phishing links](https://github.com/nikolaischunk/discord-phishing-links)
-- [x] [nizekun - adguardhome blocklist](https://github.com/nizekun/adguardhome-blocklist)
-- [x] [no-cmyk - search engine spam blocklist](https://github.com/no-cmyk/search-engine-spam-blocklist)
-- [x] [noctualachieves - blocklists-x](https://github.com/nocturnalarchives/blocklists-x)
-- [x] [nocturnal archives](https://github.com/nocturnalarchives/blocklists)
-- [x] [nory - pihole blocklists](https://codeberg.org/nory/pihole-blocklists)
-- [x] [notracking - hosts blocklists scripts](https://github.com/notracking/hosts-blocklists-scripts)
-- [x] [notracking - hosts blocklists](https://github.com/notracking/hosts-blocklists)
-- [x] [nuschberkeks - knuschberblock (codeberg)](https://codeberg.org/knuschberkeks/knuschberblock)
-- [x] [nuschberkeks - knuschberblock](https://github.com/knuschberkeks/knuschberblock)
-- [x] [obutterback - full potential](https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36)
-- [x] [ogollemon - blacklists pihole](https://github.com/ogollemon/blacklistspihole)
-- [x] [oisd.nl - knownlists](https://oisd.nl/knownlists.php)
-- [x] [oisd](https://oisd.nl/)
-- [x] [olbat - ut1 blacklists](https://github.com/olbat/ut1-blacklists)
-- [x] [olegwukr - polish privacy filters](https://github.com/olegwukr/polish-privacy-filters)
-- [x] [oneclicklab - ugly email trackers](https://github.com/oneclicklab/ugly-email-trackers)
-- [x] [oneoffdallas - doh servers](https://github.com/oneoffdallas/dohservers)
-- [x] [openphish](https://openphish.com/index.html)
-- [x] [openphish](https://www.openphish.com/)
-- [x] [openwrt - packages](https://github.com/openwrt/packages)
-- [x] [origami official - odd blacklist](https://github.com/origamiofficial/odd-blacklist)
-- [x] [origami official - piholebl](https://github.com/origamiofficial/piholebl)
-- [x] [originalsouth - nsomet](https://github.com/originalsouth/nsomet)
-- [x] [oxdaniellopez - phishing kits](https://github.com/0xdaniellopez/phishing_kits)
-- [x] [p-mng - hosts files backup](https://github.com/p-mng/hosts-file-backup)
-- [x] [pallebone - personal blocklists pallebone](https://github.com/pallebone/personalblocklistspallebone)
-- [x] [pallebone - strict block pallebone](https://github.com/pallebone/strictblockpallebone)
-- [x] [peatrick - my pihole lists](https://github.com/peatrick/my-pihole-lists)
-- [x] [pedrojuan91 - pornlist](https://github.com/pedrojuan91/porn-list)
-- [x] [pengelana - blocklist](https://github.com/pengelana/blocklist)
-- [x] [perflyst - pihole blocklist](https://github.com/perflyst/piholeblocklist)
-- [x] [perksie - blocklist](https://github.com/perksie/blocklist)
-- [x] [peterdave hello - threat hostlists](https://github.com/peterdavehello/threat-hostlist)
-- [x] [pfsense facebook](https://github.com/cloudsentraldotnet/pfsense_ips_facebook)
-- [x] [pfsense instagram](https://github.com/cloudsentraldotnet/pfsense_ips_instagram)
-- [x] [pfsense social media](https://github.com/cloudsentraldotnet/pfsense_ips_miscsocialmedia)
-- [x] [pfsense youtube](https://github.com/cloudsentraldotnet/pfsense_ips_youtube)
-- [x] [ph00lt0 - blocklist](https://github.com/ph00lt0/blocklist)
-- [x] [phishing army](https://phishing.army/)
-- [x] [phishing.army](https://www.phishing.army/)
-- [x] [pihole ios update](https://github.com/upal212/pihole-ios-update-blocklist)
-- [x] [pihole prased filter lists](https://github.com/leyyce/pihole-parsed-filter-lists)
-- [x] [pirat28 - ihatetracker](https://github.com/pirat28/ihatetracker)
-- [x] [pirate28 - ihatespam](https://github.com/pirat28/ihatespamlist)
-- [x] [pirate28 - ihateurlshort](https://github.com/pirat28/ihateurlshort)
-- [x] [playbackthatradiohit - filter ads blocklist](https://github.com/playbackthatradiohit/filter-ads-block-list)
-- [x] [polarhive - arceo](https://codeberg.org/polarhive/arceo)
-- [x] [polarhive - arceo](https://github.com/polarhive/arceo)
-- [x] [poorpockets mcnewhold - stream scam sites](https://github.com/poorpocketsmcnewhold/steamscamsites)
-- [x] [porn records - porn records](https://github.com/porn-records/porn-records)
-- [x] [potterli20 - hosts](https://github.com/potterli20/hosts)
-- [x] [praveenprem - adblocker](https://github.com/praveenprem/adblocker)
-- [x] [privacy protection tools - antiad](https://github.com/privacy-protection-tools/anti-ad)
-- [x] [pureexe - leech list](https://github.com/pureexe/leech-list)
-- [x] [pushinginertia - ip blacklist](https://github.com/pushinginertia/ip-blacklist)
-- [x] [qfoxb - anti-grabify (fork)](https://github.com/qfoxb/anti-grabify)
-- [x] [quidsup - notrack blocklists](https://gitlab.com/quidsup/notrack-blocklists)
-- [x] [qwiri - blocklist](https://github.com/qwiri/blocklist)
-- [x] [qyli - blocklist](https://github.com/gyli/blocklist)
-- [x] [rafelrico77 - piholeyt](https://github.com/rafaelrico77/piholeyt)
-- [x] [rampd2 - specials (fork)](https://github.com/rampd2/specials)
-- [x] [ray - mobile hosts](https://github.com/r-a-y/mobile-hosts)
-- [x] [realodix - adblockid](https://github.com/realodix/adblockid)
-- [x] [red laboratory - nso hosts](https://github.com/red-laboratory/nso-hosts)
-- [x] [redflag domains](https://red.flag.domains/)
-- [x] [redpillx2 - fake news blocker](https://github.com/redpillx2/fake-news-blocker)
-- [x] [rentianyu - adset hosts](https://github.com/rentianyu/ad-set-hosts)
-- [x] [rescure.me - domains](https://rescure.me/feeds.html)
-- [x] [rimu - no quanon](https://github.com/rimu/no-qanon)
-- [x] [robi052 - pihole](https://github.com/robi052/pihole)
-- [x] [rooneymcnibnug - pihole stuff](https://github.com/rooneymcnibnug/pihole-stuff)
-- [x] [rpilist - specials](https://github.com/rpilist/specials)
-- [x] [rto - phased array](https://github.com/rto/phased-array)
-- [x] [ruddernation-designs - adobe url blocklist](https://github.com/ruddernation-designs/adobe-url-block-list)
-- [x] [ryanbr - fanboy adblock](https://github.com/ryanbr/fanboy-adblock)
-- [x] [sanatg - adblocklist](https://github.com/sanatg/allblock-ultimateblocklists)
-- [x] [sefinek - blocklist generator](https://sefinek.net/blocklist-generator/pihole)
-- [x] [sefinek24 - sefineck blocklist collection](https://github.com/sefinek24/sefinek-blocklist-collection)
-- [x] [sekhan - the greatwall](https://github.com/sekhan/thegreatwall)
-- [x] [shadow whisperer - blocklists](https://github.com/shadowwhisperer/blocklists)
-- [x] [shoenig - donutdns](https://github.com/shoenig/donutdns)
-- [x] [sindastra - big blocklists](https://www.sindastra.de/p/987/big-block-lists-for-pi-hole)
-- [x] [sinfonietta - hostfiles](https://github.com/sinfonietta/hostfiles)
-- [x] [sjhgvr - oisd](https://github.com/sjhgvr/oisd)
-- [x] [skcat - fluffy](https://github.com/sk-cat/fluffy-blocklist)
-- [x] [slycox1186 - pihole regex](https://github.com/slyfox1186/pihole-regex)
-- [x] [smashah - smashblock](https://github.com/smashah/smashblock)
-- [x] [smed79 - blacklist](https://github.com/smed79/blacklist)
-- [x] [smoking wheels](https://github.com/smokingwheels/smokingwheels.github.io)
-- [x] [snota418 - youtube spam hosts](https://github.com/snota418/youtube-spam-host-list)
-- [x] [softcreatr - fakerando domains](https://github.com/softcreatr/fakerando-domains)
-- [x] [someone who cares](https://someonewhocares.org/)
-- [x] [someonewhocares](https://someonewhocares.org/hosts)
-- [x] [sometechyguy - my school pihole stuff](https://github.com/sometechyguy/my-school-pihole-stuff)
-- [x] [songxiaosen - another unified blocklist](https://github.com/songxiaosen/anotherunifiedblocklist)
-- [x] [sophoslabs - covid iocs](https://github.com/sophoslabs/covid-iocs)
-- [x] [soteria-nou - domainlists](https://github.com/soteria-nou/domain-list)
-- [x] [spam404](https://github.com/spam404/lists)
-- [x] [spirileo - blocklist collection](https://github.com/spiri-leo/blocklist-collection)
-- [x] [spootle - blocklist](https://codeberg.org/spootle/blocklist)
-- [x] [square252 - adblocking hosts](https://github.com/square252/adblockhosts)
-- [x] [srbdev - blocklist](https://github.com/srbdev/blocklist)
-- [x] [stamparm - blackbook](https://github.com/stamparm/blackbook)
-- [x] [stevejenkins - my pihole lists](https://github.com/stevejenkins/my-pihole-lists)
-- [x] [stevenblack - hosts](https://github.com/stevenblack/hosts)
-- [x] [stevoh6 - pihole---allow-and-block-lists](https://github.com/stevoh6/pihole---allow-and-block-lists)
-- [x] [stonecrusher - filterlists](https://github.com/stonecrusher/filterlists-pihole)
-- [x] [stop forum spam](https://www.stopforumspam.com/downloads)
-- [x] [strappazzon - teleme7try](https://github.com/strappazzon/teleme7ry)
-- [x] [sudaraka - domain blocklist](https://github.com/sudaraka/domain-block-list)
-- [x] [sukkaw - surge](https://github.com/sukkaw/surge)
-- [x] [suodrazah - murdoch blacklist](https://github.com/suodrazah/murdoch_blocklist)
-- [x] [suuhm - pdns recreator](https://github.com/suuhm/pdns-recreator)
-- [x] [sweetsophia - mifit xiaomi piholelists](https://github.com/sweetsophia/mifitxiaomipiholelist)
-- [x] [sweetsophie - android apps](https://github.com/sweetsophia/androidappspihole)
-- [x] [system jargon - blocklist](https://github.com/systemjargon/blocklists)
-- [x] [systemjargon - allowlists](https://github.com/systemjargon/allowlists)
-- [x] [systemjargon - pihole](https://github.com/systemjargon/pi-hole)
-- [x] [t145 - black mirror](https://github.com/t145/black-mirror)
-- [x] [t145 - metalhead](https://github.com/t145/metalhead)
-- [x] [taubesnuesschen - ya pihole list](https://codeberg.org/taubesnuesschen/ya-pihole-list)
-- [x] [tdgomes - adsyoutube](https://github.com/tdgomes/ads-youtube-pt)
-- [x] [tekintian - hosts ads block](https://github.com/tekintian/hosts_ads_block)
-- [x] [tg-twillight - awavenue ads rules](https://github.com/tg-twilight/awavenue-ads-rule)
-- [x] [tgc](https://tgc.cloud/downloads/)
-- [x] [tgjohnst - pihole guide](https://github.com/tgjohnst/pihole-guide)
-- [x] [the big blocklist collection](http://lists.l4t.pl/)
-- [x] [the block list project - lists](https://github.com/blocklistproject/lists)
-- [x] [the firebog](https://firebog.net/)
-- [x] [the ultimate hosts - whitelist](https://github.com/ultimate-hosts-blacklist/whitelist)
-- [x] [theantisocialengineer - antisocial blocklist uk community](https://github.com/theantisocialengineer/antisocial-blocklist-uk-community)
-- [x] [thezeeka - zeeka filters](https://github.com/thezeeka/zeeka-filters)
-- [x] [the_quantum_alpha - quantum adlist](https://gitlab.com/the_quantum_alpha/the-quantum-ad-list)
-- [x] [thiojoe - youtube spam lists](https://github.com/thiojoe/yt-spam-lists)
-- [x] [threatfox](https://threatfox.abuse.ch/)
-- [x] [threatview](https://threatview.io)
-- [x] [timedin-de - pihole full privacy](https://github.com/timedin-de/pihole-full-privacy)
-- [x] [tiuxo - hosts](https://github.com/tiuxo/hosts)
-- [x] [toryrl - blocklist](https://github.com/tonyrl/blocklist)
-- [x] [tosunkaya - pihole blacklists](https://codeberg.org/tosunkaya/pihole-blacklists)
-- [x] [tqml - piholelists (fork)](https://github.com/tqml/pi-hole-lists)
-- [x] [trigus42 - block-securedns](https://github.com/trigus42/block-securedns)
-- [x] [ttc-cert - blocklist](https://github.com/ttc-cert/ttc-cert_blocklist_recommended)
-- [x] [tweedge - emerging threats](https://github.com/tweedge/emerging-threats-pihole)
-- [x] [ultimate hosts blacklist - 207.net](https://github.com/ultimate-hosts-blacklist/2o7.net)
-- [x] [ultimate hosts blacklist - adblock nocoin](https://github.com/ultimate-hosts-blacklist/adblock-nocoin-list)
-- [x] [ultimate hosts blacklist - add risk](https://github.com/ultimate-hosts-blacklist/add_risk)
-- [x] [ultimate hosts blacklist - add spam](https://github.com/ultimate-hosts-blacklist/add_spam)
-- [x] [ultimate hosts blacklist - ads disconnect.me](https://github.com/ultimate-hosts-blacklist/ads_disconnect.me)
-- [x] [ultimate hosts blacklist - antipop ads](https://github.com/ultimate-hosts-blacklist/antipopads)
-- [x] [ultimate hosts blacklist - anudeepnd blacklist](https://github.com/ultimate-hosts-blacklist/anudeepnd_blacklist_ad_server)
-- [x] [ultimate hosts blacklist - bad jav sites](https://github.com/ultimate-hosts-blacklist/bad_jav_sites)
-- [x] [ultimate hosts blacklist - baddboyz hosts](https://github.com/ultimate-hosts-blacklist/baddboyzhosts)
-- [x] [ultimate hosts blacklist - badips](https://github.com/ultimate-hosts-blacklist/badips.com_key)
-- [x] [ultimate hosts blacklist - blacklist](https://github.com/ultimate-hosts-blacklist/blacklist)
-- [x] [ultimate hosts blacklist - blocklist.de](https://github.com/ultimate-hosts-blacklist/www.blocklist.de)
-- [x] [ultimate hosts blacklist - cameleon](https://github.com/ultimate-hosts-blacklist/cameleon_at_sysctl.org)
-- [x] [ultimate hosts blacklist - coinblocker browser](https://github.com/ultimate-hosts-blacklist/zerodot1_coinblockerlists_browser)
-- [x] [ultimate hosts blacklist - coinblocker](https://github.com/ultimate-hosts-blacklist/zerodot1_coinblockerlists)
-- [x] [ultimate hosts blacklist - cyveillance](https://github.com/ultimate-hosts-blacklist/cyveillance_blocks)
-- [x] [ultimate hosts blacklist - firehol](https://github.com/ultimate-hosts-blacklist/firehol_level1)
-- [x] [ultimate hosts blacklist - hostsvn](https://github.com/ultimate-hosts-blacklist/hostsvn)
-- [x] [ultimate hosts blacklist - just domains](https://github.com/ultimate-hosts-blacklist/justdomains_mirror1.malwaredomains.com)
-- [x] [ultimate hosts blacklist - kadhosts](https://github.com/ultimate-hosts-blacklist/kadhosts_azet12)
-- [x] [ultimate hosts blacklist - level 3](https://github.com/ultimate-hosts-blacklist/badips.com_level_3)
-- [x] [ultimate hosts blacklist - level 4](https://github.com/ultimate-hosts-blacklist/badips.com_level_4)
-- [x] [ultimate hosts blacklist - level 5](https://github.com/ultimate-hosts-blacklist/badips.com_level_5)
-- [x] [ultimate hosts blacklist - lightswitch05](https://github.com/ultimate-hosts-blacklist/lightswitch05_hosts_ads-and-tracking-extended)
-- [x] [ultimate hosts blacklist - malc0de](https://github.com/ultimate-hosts-blacklist/malc0de.com)
-- [x] [ultimate hosts blacklist - malware domains](https://github.com/ultimate-hosts-blacklist/malwaredomainlist.com)
-- [x] [ultimate hosts blacklist - michael trimms](https://github.com/ultimate-hosts-blacklist/michael_trimms_hosts)
-- [x] [ultimate hosts blacklist - minimal hosts blocker](https://github.com/ultimate-hosts-blacklist/minimalhostsblocker)
-- [x] [ultimate hosts blacklist - mitchell krong](https://github.com/ultimate-hosts-blacklist/mitchell_krog_snooping_ips)
-- [x] [ultimate hosts blacklist - phishing database](https://github.com/ultimate-hosts-blacklist/phishing.database)
-- [x] [ultimate hosts blacklist - pl hosts](https://github.com/ultimate-hosts-blacklist/pl-host-file)
-- [x] [ultimate hosts blacklist - quidsup malicious](https://github.com/ultimate-hosts-blacklist/quidsup_malicious-sites)
-- [x] [ultimate hosts blacklist - quidsup notrack trackers](https://github.com/ultimate-hosts-blacklist/quidsup_notrack_trackers)
-- [x] [ultimate hosts blacklist - smed79 blacklist](https://github.com/ultimate-hosts-blacklist/smed79_blacklist)
-- [x] [ultimate hosts blacklist - someonewhocares](https://github.com/ultimate-hosts-blacklist/someonewhocares.org)
-- [x] [ultimate hosts blacklist - spam404](https://github.com/ultimate-hosts-blacklist/spam404)
-- [x] [ultimate hosts blacklist - ssh attackers probers](https://github.com/ultimate-hosts-blacklist/ssh_attackers_probers)
-- [x] [ultimate hosts blacklist - suspicious snooping](https://github.com/ultimate-hosts-blacklist/suspicious.snooping.sniffing.hacking.ip.addresses)
-- [x] [ultimate hosts blacklist - the big list of hacked malware websites](https://github.com/ultimate-hosts-blacklist/the-big-list-of-hacked-malware-web-sites)
-- [x] [ultimate hosts blacklist - the ultimate hosts](https://github.com/ultimate-hosts-blacklist/ultimate.hosts.blacklist)
-- [x] [ultimate hosts blacklist - top attacking ip addresses](https://github.com/ultimate-hosts-blacklist/top-attacking-ip-addresses-against-wordpress-sites)
-- [x] [ultimate hosts blacklist - wally3k](https://github.com/ultimate-hosts-blacklist/wally3k_blacklist)
-- [x] [ultimate hosts blacklist - wiggum27](https://github.com/ultimate-hosts-blacklist/wiggum27_blockers)
-- [x] [ultimate hosts blacklist - yourslist](https://github.com/ultimate-hosts-blacklist/youslist)
-- [x] [ultimate hosts blacklist - yoyo.org ips](https://github.com/ultimate-hosts-blacklist/yoyo.org_ips)
-- [x] [ultimate hosts blacklist - yoyo.org](https://github.com/ultimate-hosts-blacklist/yoyo.org_domains)
-- [x] [ultimate pihole blocklist - list](https://github.com/ultimate-pihole-list/list)
-- [x] [unkownfallen - xiaomi](https://github.com/unknownfallen/xiaomi-dns-blocklist)
-- [x] [urlhaus](https://urlhaus.abuse.ch/)
-- [x] [velesila - yhosts](https://github.com/velesila/yhosts)
-- [x] [veticia - antipodads](https://github.com/veticia/antipopads)
-- [x] [vibrantleaf - hosts](https://codeberg.org/vibrantleaf/hosts)
-- [x] [vincent kenny 01 - spotblock](https://github.com/vincentkenny01/spotblock)
-- [x] [viperman1271 - pihole](https://github.com/viperman1271/pihole)
-- [x] [vokins - yhosts](https://github.com/vokins/yhosts)
-- [x] [voryzen - pihole adlist](https://codeberg.org/voryzen/pihole_adlist)
-- [x] [w13d - adblock](https://github.com/w13d/adblocklistabp-pihole)
-- [x] [waelisa - best blocklist](https://github.com/waelisa/best-blocklist)
-- [x] [werewolfke - ad blocklist](https://github.com/werewolfke/ad-blocklist)
-- [x] [wh0ami - pihole lists](https://codeberg.org/wh0ami/pihole-lists)
-- [x] [what zit tooya - adblock](https://github.com/what-zit-tooya/ad-block)
-- [x] [willidieenter - betterblocklist](https://github.com/willidieente/betterblocklist)
-- [x] [windows 10 dns blocklist](https://github.com/schrebra/windows.10.dns.block.list)
-- [x] [windowslies - block windows](https://github.com/windowslies/blockwindows)
-- [x] [wolfsreaml - adblocklist](https://github.com/wolfsrealm/adblocklists)
-- [x] [world wide block - netguard block](https://github.com/worldwideblock/netguard-block)
-- [x] [wranders - doh](https://github.com/wranders/doh-list)
-- [x] [x8716e](https://github.com/x8716e)
-- [x] [xanny the pleb - adguard home adblock](https://github.com/xannythepleb/adguard-home-adblock)
-- [x] [xionkzn - pihole lists](https://github.com/xionkzn/pihole-lists)
-- [x] [xlimit91 - pi-hole blocklist by xlimit91 (dns blocking)](https://github.com/xlimit91/xlimit91-block-list)
-- [x] [yhonay - antipopads](https://github.com/yhonay/antipopads)
-- [x] [yokoffing - filterlists](https://github.com/yokoffing/filterlists)
-- [x] [yous - youslist](https://github.com/yous/youslist)
-- [x] [yozzer - dns blocklists](https://codeberg.org/yozzer/dns-blocklists)
-- [x] [yucked - blackhole](https://github.com/yucked/blackhole)
-- [x] [zangadoprojets - pihole blocklist](https://github.com/zangadoprojets/pi-hole-blocklist)
-- [x] [zebpalmer - blockworkr](https://github.com/zebpalmer/blockworkr)
-- [x] [zebpalmer dns](https://github.com/zebpalmer/dns_blocklists)
-- [x] [zerodot1 - coinblocker lists](https://gitlab.com/zerodot1/coinblockerlists)
-- [x] [zingyawesome - easylist](https://github.com/zingyawesome/easylists-for-pihole)
-- [x] [zoonderkins - dbl oisd nl](https://github.com/zoonderkins/dbl-oisd-nl)
-- [x] [zoso.ro - rolist](https://zoso.ro/rolist/)
+- [x] https://codeberg.org/knuschberkeks/knuschberblock
+- [x] https://codeberg.org/magnesium1062/badblock
+- [x] https://divested.dev/pages/dnsbl
+- [x] https://easylist.to
+- [x] https://firebog.net
+- [x] https://getadhell.com
+- [x] https://gist.github.com/marfjeh/97f2f049b41b3f09eabcc04004073ae3
+- [x] https://gist.github.com/opus-x/3e673a9d5db2a214df05929a4eee6a57
+- [x] https://gist.github.com/zoonderkins/232057d3562bffc31daa7739dfdb4469
+- [x] https://git.herrbischoff.com/trackers/about
+- [x] https://github.com/10zin/10zin.github.io
+- [x] https://github.com/abc45628/hosts
+- [x] https://github.com/adaway/adaway.github.io
+- [x] https://github.com/adguardteam/adguardforios
+- [x] https://github.com/adguardteam/adguardsdnsfilter
+- [x] https://github.com/adguardteam/cname-trackers
+- [x] https://github.com/adguardteam/httpsexclusions
+- [x] https://github.com/adroitadorkhan/antipopads-re
+- [x] https://github.com/anarki999/adblock-list-archive
+- [x] https://github.com/anudeepnd/blacklist
+- [x] https://github.com/arcetera/minimal-hosts-blocker
+- [x] https://github.com/austinheap/sophos-xg-block-lists
+- [x] https://github.com/badmojr/1hosts
+- [x] https://github.com/badmojr/addons_1hosts
+- [x] https://github.com/bebasid/bebasid
+- [x] https://github.com/bigdargon/hostsvn
+- [x] https://github.com/biroloter/mobile-ad-hosts
+- [x] https://github.com/bjornstar/hosts
+- [x] https://github.com/blocklistproject/lists
+- [x] https://github.com/blocktastic/pihole
+- [x] https://github.com/bongochong/combinedprivacyblocklists
+- [x] https://github.com/brijrajparmar27/host-sources
+- [x] https://github.com/btgregory/ublock-supplementary-blocklist
+- [x] https://github.com/cb-software/cb-malicious-domains
+- [x] https://github.com/cchevy/macedonian-pi-hole-blocklist
+- [x] https://github.com/chadmayfield/my-pihole-blocklists
+- [x] https://github.com/chrisjudk/hosts
+- [x] https://github.com/citizenxvil/hosts
+- [x] https://github.com/crazy-max/windowsspyblocker
+- [x] https://github.com/cryptofr/crypto-scams-fr
+- [x] https://github.com/datamaster-2501/datamaster-android-adblock-hosts
+- [x] https://github.com/davidonzo/threat-intel
+- [x] https://github.com/dead-hosts/.pl-host-file_git_xxcriticxx
+- [x] https://github.com/dead-hosts/adaway.github.io_git_adaway
+- [x] https://github.com/dead-hosts/adblockid-plus_realodix
+- [x] https://github.com/dead-hosts/adblockid_git_realodix
+- [x] https://github.com/dead-hosts/add.2o7net_git_fademind
+- [x] https://github.com/dead-hosts/add.dead_git_fademind
+- [x] https://github.com/dead-hosts/add.risk_git_fademind
+- [x] https://github.com/dead-hosts/add.spam_git_fademind
+- [x] https://github.com/dead-hosts/badd-boyz-hosts_git_mitchellkrogza
+- [x] https://github.com/dead-hosts/basic-tracking-list_web_disconnect.me
+- [x] https://github.com/dead-hosts/blacklist_git_anudeepnd
+- [x] https://github.com/dead-hosts/cameleon_web_sysctl.org
+- [x] https://github.com/dead-hosts/coinblockerslists-hosts_browser_git_zerodot1
+- [x] https://github.com/dead-hosts/coinblockerslists-hosts_optional_git_zerodot1
+- [x] https://github.com/dead-hosts/cookies_filters_git_majkiit
+- [x] https://github.com/dead-hosts/domainvoider_git_intr0
+- [x] https://github.com/dead-hosts/domain_blocklist_web_dbl-oisd-nl
+- [x] https://github.com/dead-hosts/easylist_web_easylist.to
+- [x] https://github.com/dead-hosts/easyprivacy_web_easylist.to
+- [x] https://github.com/dead-hosts/hosts_facebook0_git_kowith337
+- [x] https://github.com/dead-hosts/hosts_git_lightswitch05
+- [x] https://github.com/dead-hosts/hosts_git_stevenblack
+- [x] https://github.com/dead-hosts/hosts_google_adservice_id_git_kowith337
+- [x] https://github.com/dead-hosts/hosts_web_mvps.org
+- [x] https://github.com/dead-hosts/hosts_web_someonewhocares.org
+- [x] https://github.com/dead-hosts/hosts_web_yoyo.org
+- [x] https://github.com/dead-hosts/hphosts---ad-and-tracking_web_hosts-file.net
+- [x] https://github.com/dead-hosts/indonesianadblockrules-subscriptions_git_abpindo
+- [x] https://github.com/dead-hosts/indonesianadblockrules-validate-hosts_git_abpindo
+- [x] https://github.com/dead-hosts/indonesianadblockrules_git_abpindo
+- [x] https://github.com/dead-hosts/iosadblocklist-hosts_git_blackjack8
+- [x] https://github.com/dead-hosts/ivoid.hosts_git_intr0
+- [x] https://github.com/dead-hosts/just-domains_web_malwaredomains.com
+- [x] https://github.com/dead-hosts/kadhosts_git_azet12
+- [x] https://github.com/dead-hosts/polish-adblock-filters_git_majkiit
+- [x] https://github.com/dead-hosts/polish-pihole-filters_git_majkiit
+- [x] https://github.com/dead-hosts/red-flag-domains_web_red.flag.domains
+- [x] https://github.com/dead-hosts/rlwpx.free.fr.htrc_git_fademind
+- [x] https://github.com/dead-hosts/the-big-list-of-hacked-malware-web-sites_git_mitchellkrogza
+- [x] https://github.com/dead-hosts/uncheckyads_git_fademind
+- [x] https://github.com/dead-hosts/upd_domain_git_gioxx
+- [x] https://github.com/dead-hosts/xfiles_filtri_git_gioxx
+- [x] https://github.com/dead-hosts/xfiles_siteblock_git_gioxx
+- [x] https://github.com/deep-bhatt/huawei-block-list
+- [x] https://github.com/dibdot/doh-ip-blocklists
+- [x] https://github.com/drsdavidsoft/additional-hosts
+- [x] https://github.com/dylanarmstrong/hosts
+- [x] https://github.com/easylist/easylist
+- [x] https://github.com/elliotwutingfeng/globalantiscamorg-blocklist
+- [x] https://github.com/fademind/hosts.extras
+- [x] https://github.com/filtersheroes/kadhosts
+- [x] https://github.com/funilrys/dead-hosts
+- [x] https://github.com/furuycom/androidsecurityhosts
+- [x] https://github.com/furuycom/protectorhosts
+- [x] https://github.com/googlehosts/hosts
+- [x] https://github.com/goooler/1024_hosts
+- [x] https://github.com/greatis/anti-webminer
+- [x] https://github.com/gwillem/magento-malware-scanner
+- [x] https://github.com/gyli/blocklist
+- [x] https://github.com/hagezi/dns-blocklists
+- [x] https://github.com/highsea/hosts
+- [x] https://github.com/hoshsadiq/adblock-nocoin-list
+- [x] https://github.com/ilpl/ad-hosts
+- [x] https://github.com/infinitytec/blocklists
+- [x] https://github.com/jakejarvis/ios-trackers
+- [x] https://github.com/jarelllama/scam-blocklist
+- [x] https://github.com/jbunner/adblock
+- [x] https://github.com/jdlingyu/ad-wars
+- [x] https://github.com/jerryn70/goodbyeads
+- [x] https://github.com/jkrejcha/admiralist
+- [x] https://github.com/jmdugan/blocklists
+- [x] https://github.com/jmhenrique/adblock
+- [x] https://github.com/knuschberkeks/knuschberblock
+- [x] https://github.com/kodopengin/gameindustry-hosts-template
+- [x] https://github.com/kowith337/personalfilterlistcollection
+- [x] https://github.com/kurzgedanke/kurzblock
+- [x] https://github.com/laicure/hosts
+- [x] https://github.com/lassekongo83/frellwits-filter-lists
+- [x] https://github.com/lerist/go-hosts
+- [x] https://github.com/liamengland1/mischosts
+- [x] https://github.com/lightswitch05/hosts
+- [x] https://github.com/loyalsoldier/v2ray-rules-dat
+- [x] https://github.com/metamask/eth-phishing-detect
+- [x] https://github.com/mhhakim/pihole-blocklist
+- [x] https://github.com/michaeltrimm/hosts-blocking
+- [x] https://github.com/migueldemoura/ublock-umatrix-rulesets
+- [x] https://github.com/mitchellkrogza/badd-boyz-hosts
+- [x] https://github.com/mkb2091/blockconvert
+- [x] https://github.com/multiverse2011/adawaylist-jp
+- [x] https://github.com/nextdns/cname-cloaking-blocklist
+- [x] https://github.com/oush1/domainvoider.github.io
+- [x] https://github.com/perflyst/piholeblocklist
+- [x] https://github.com/pirat28/ihatetracker
+- [x] https://github.com/r-a-y/mobile-hosts
+- [x] https://github.com/sinfonietta/hostfiles
+- [x] https://github.com/some-username-here1/motd-adblock
+- [x] https://github.com/sophoslabs/covid-iocs
+- [x] https://github.com/spam404/lists
+- [x] https://github.com/stevenblack/hosts
+- [x] https://github.com/superliaoyong/hosts
+- [x] https://github.com/tiuxo/hosts
+- [x] https://github.com/touhidurrr/malicious-hosts-bd
+- [x] https://github.com/what-zit-tooya/ad-block
+- [x] https://github.com/whyisevery4thyearalwaysbad/anti-cancer-filter-lists
+- [x] https://github.com/xruffkez/nrd
+- [x] https://github.com/xxcriticxx/.pl-host-file
+- [x] https://github.com/zoonderkins/blahdns
+- [x] https://hblock.molinero.dev
+- [x] https://hostfiles.frogeye.fr
+- [x] https://hostsfile.org/hosts.html
+- [x] https://oisd.nl
+- [x] https://sefinek.net/blocklist-generator/pihole
+- [x] https://someonewhocares.org
+- [x] https://someonewhocares.org/hosts
+- [x] https://tgc.cloud/downloads
+- [x] https://www.github.developerdan.com/hosts
+
+http://dsi.ut-capitole.fr/blacklists/download
+http://lists.l4t.pl
+http://www.hostsfile.org/hosts.html
+https://arstech.net/pi-hole-blocking-lists-2023
+https://cert.pl/en/posts/2020/03/malicious_domains
+https://codeberg.org/allendema/noplaylist
+https://codeberg.org/badandugly/badandugly
+https://codeberg.org/cloudyyuw/adblock-to-pihole-blocklist
+https://codeberg.org/decatec/pihole-blacklists
+https://codeberg.org/explorer422/privacy-badger-block-list-for-pihole
+https://codeberg.org/grateful/win10piholeblocklist
+https://codeberg.org/homemadeadvanced/pihole
+https://codeberg.org/iam-py-test/my_filters_001_mirror_1
+https://codeberg.org/knuschberkeks/knuschberblock
+https://codeberg.org/lightrain/pihole_blocklists
+https://codeberg.org/lumiworx/hpt-ai-blocklist
+https://codeberg.org/maxi2142/piholeblocklist
+https://codeberg.org/nebelix/pihole_adlists
+https://codeberg.org/nemalex/pihole_blocklist
+https://codeberg.org/nory/pihole-blocklists
+https://codeberg.org/polarhive/arceo
+https://codeberg.org/spootle/blocklist
+https://codeberg.org/taubesnuesschen/ya-pihole-list
+https://codeberg.org/tosunkaya/pihole-blacklists
+https://codeberg.org/vibrantleaf/hosts
+https://codeberg.org/voryzen/pihole_adlist
+https://codeberg.org/wh0ami/pihole-lists
+https://codeberg.org/yozzer/dns-blocklists
+https://fuzzthepiguy.tech/blocklist
+https://git.herrbischoff.com/trackers
+https://github.com/0n1con3/the-nso-blacklist
+https://github.com/0xdaniellopez/phishing_kits
+https://github.com/521xueweihan/github520
+https://github.com/9600baudconsolecable/ifunny-blocklist
+https://github.com/abpindo/indonesianadblockrules
+https://github.com/abpvn/abpvn
+https://github.com/adguardteam/adguardfilters
+https://github.com/adguardteam/adguardsdnsfilter
+https://github.com/adsecu/black-domains
+https://github.com/aetherinox/host-blacklist-collection
+https://github.com/alexrabbit/adios
+https://github.com/alexsannikov/adguardhome-filters
+https://github.com/allendema/noplaylist
+https://github.com/amazefcc233/no-ads-hosts
+https://github.com/amnestytech/investigations
+https://github.com/and96/adblock-additional-filters
+https://github.com/angelics/pfbng
+https://github.com/anosoldierno/adblock-nordic
+https://github.com/anthony-wang/piholeblocklist
+https://github.com/antifa-n/pihole
+https://github.com/articrevised/hosts-file-list
+https://github.com/aspartam206/gravity_housekeeper
+https://github.com/assoechap/stalkerware-indicators
+https://github.com/authorshin/blocklist_pi_hole
+https://github.com/autinerd/anti-axelspringer-hosts
+https://github.com/ayanagroup-official/hosts
+https://github.com/bamf2077/quarklist
+https://github.com/banbendalao/adgk
+https://github.com/bestpika/abp
+https://github.com/bkrucarci/turk-adlist
+https://github.com/blackjack8/iosadblocklist
+https://github.com/bmyjacks/adlists
+https://github.com/buildbot42/discord-scam-links
+https://github.com/caffeinewriter/dontpushme
+https://github.com/castle67/castleads
+https://github.com/cats-team/adrules
+https://github.com/cbuijs/accomplist
+https://github.com/cbuijs/instigator
+https://github.com/cbuijs/unbound-dns-firewall
+https://github.com/cedws/apple-telemetry
+https://github.com/cjx82630/cjxlist
+https://github.com/cleanmachine1/adlisttxts
+https://github.com/cloudsentraldotnet/pfsense_ips_facebook
+https://github.com/cloudsentraldotnet/pfsense_ips_instagram
+https://github.com/cloudsentraldotnet/pfsense_ips_miscsocialmedia
+https://github.com/codesapiens/adguard-filters
+https://github.com/columndeeply/hosts
+https://github.com/coopgroupatx/pihole-game-blocklist
+https://github.com/copy05/blocklists
+https://github.com/cpeterso/clickbait-blocklist
+https://github.com/craiu/mobiletrackers
+https://github.com/crpietschmann/pi-hole-blocklist
+https://github.com/cschp/cschp_pihole
+https://github.com/curbengh/urlhaus-filter
+https://github.com/curryonpatat/forntite-blocklist
+https://github.com/cyanidebrother/anti-pr0n
+https://github.com/d3cim/block
+https://github.com/d3ward/toolz
+https://github.com/d43m0nhlint3r/socialblocklists
+https://github.com/damengzhu/banad
+https://github.com/dandelionsprout/adfilt
+https://github.com/danhorton7/pihole-block-tiktok
+https://github.com/dannyvanlierop/txt_blocklists
+https://github.com/dawsey21/lists
+https://github.com/daylamtayari/pi-hole-blocklist
+https://github.com/de956/adblock-list
+https://github.com/dead-hosts/ad-filter-list_web_disconnect.me
+https://github.com/dead-hosts/coinblockerslists-hosts_git_zerodot1
+https://github.com/dead-hosts/indonesianadblockrules-subscriptions_git_abpindo
+https://github.com/dead-hosts/indonesianadblockrules_git_abpindo
+https://github.com/dead-hosts/xfiles_facebook_git_gioxx
+https://github.com/dead-hosts/zelo72s_rpi.pihole.blocklists.multi
+https://github.com/deathbybandaid/piholeparser
+https://github.com/dehakkelaar/cryptojacking-campaign-list
+https://github.com/devspen/scam-links
+https://github.com/dfederlein/dnsbl-dfed
+https://github.com/disconnectme/disconnect-tracking-protection
+https://github.com/discord-antiscam/scam-links
+https://github.com/divestedcg/dnsbl
+https://github.com/divestedcg/dnsrm
+https://github.com/dmachard/blocklist-domains
+https://github.com/dnsblocklistnet/blocklists
+https://github.com/dogino/discord-phishing-urls
+https://github.com/domainvoider
+https://github.com/durablenapkin/block
+https://github.com/durablenapkin/scamblocklist
+https://github.com/easonjim/blackhosts
+https://github.com/easylist/easylisthebrew
+https://github.com/easylistbrasil/easylistbrasil
+https://github.com/eded333/thefuckinglist
+https://github.com/edmond-nader/mypiholelists
+https://github.com/elbkr/bad-websites
+https://github.com/elliotwutingfeng/inversion-dnsbl-blocklists
+https://github.com/energizedprotection/block
+https://github.com/energizedprotection/energizedblu
+https://github.com/energizedprotection/unblock
+https://github.com/error13/premonition
+https://github.com/esentire/malfeed
+https://github.com/esox-lucius/blocklist-malware-do-not-use-
+https://github.com/esox-lucius/piholeblocklists
+https://github.com/fabriziosalmi/blacklists
+https://github.com/farrokhi/adblock-iran
+https://github.com/filippobuletto/pihole-hoax-sites-list
+https://github.com/ftpmorph/ftprivacy
+https://github.com/furkun/protectorhosts
+https://github.com/fusionplmh/dead-block
+https://github.com/futaguard/lowtechfilter
+https://github.com/gatmyit/pihole-lists
+https://github.com/genediazjr/nopelist
+https://github.com/gieljnssns/social-media-blocklists
+https://github.com/gioxx/xfiles
+https://github.com/go2engineering/pihole-blocklists
+https://github.com/greg-2600/pihole_block_list
+https://github.com/guardicore/labs_campaigns
+https://github.com/hectorm/hblock
+https://github.com/hell-sh/evil-domains
+https://github.com/hemiipatu/piholeblocklists
+https://github.com/hendersonaw/pi-hole-project
+https://github.com/heribertokubuntu/pihole
+https://github.com/hermanjustinm/herms-blacklist
+https://github.com/hexxiumcreations/threat-list
+https://github.com/hkamran80/blocklists
+https://github.com/hl2guide/filterlist-for-adguard-or-pihole
+https://github.com/horusteknoloji/tr-phishinglist
+https://github.com/hpthreatresearch/iocs
+https://github.com/hubird-au/adversity
+https://github.com/iam-py-test/my_filters_001
+https://github.com/ignaciocastro/adobe-is-dumb
+https://github.com/imkarthikk/pihole-facebook
+https://github.com/inaugral/pihole-blocklist-gametrackers
+https://github.com/iocium/download.dangerous.domains
+https://github.com/isaaker/spotify-adslist
+https://github.com/itayfunes/steamnitrophishinglinks
+https://github.com/jackcuthbert/pihole-reddit
+https://github.com/jackcuthbert/pihole-splogs
+https://github.com/jackcuthbert/pihole-twitter
+https://github.com/jameshas/public-doh-lists
+https://github.com/jamiemansfield/minecraft-hosts
+https://github.com/jankais3r/synology-safe-access-domain-list
+https://github.com/jarelllama/emerging-threats
+https://github.com/jawz101/subdomain_blocklists
+https://github.com/jjjxu/nso_pegasus_blocklist
+https://github.com/johang/cookie-consent-hosts
+https://github.com/joshi-jhon23/block-domains
+https://github.com/juanico10/pihole_list
+https://github.com/justdomains/blocklists
+https://github.com/k0nsl/unbound-blocklist
+https://github.com/kaythomas0/cryptoscamdb-lists
+https://github.com/kevle1/windows-telemetry-blocklist
+https://github.com/kevle1/xiaomi-telemetry-blocklist
+https://github.com/kiril-u/orbit-pihole
+https://github.com/kitsapcreator/pihole-blocklists
+https://github.com/koff75/pi-hole-rules-for-fr---us
+https://github.com/konnor88/anti-grabify
+https://github.com/kornelski/sblam
+https://github.com/kox599/pi-hole-block-list-etc
+https://github.com/leavemealone-app/email-trackers
+https://github.com/leroyby/pihole_settings
+https://github.com/lethalaspect/ipdefender
+https://github.com/levi2288/advancedblocklist
+https://github.com/leyyce/pihole-parsed-filter-lists
+https://github.com/lggomez/squidcontrib_pihole
+https://github.com/linuxtracker/blocklists
+https://github.com/littlecordines/pfsense-hosts-file
+https://github.com/logroid/adaway-hosts
+https://github.com/luca1844/pihole_spotify_blockads
+https://github.com/lukaszlapaj/pihole-filters
+https://github.com/luois45/dnsblocklists
+https://github.com/luois45/vrchatanalyticsblocklist
+https://github.com/lwojcik/lukes-pihole-blocklist
+https://github.com/m-a-sc/adlist-sanitizer
+https://github.com/manic-code/emerging-malicious-domain-blocklist
+https://github.com/marco-acorte/antispam-it
+https://github.com/marcusminus/orthrus-blocklist
+https://github.com/marfjeh/coinhive-block
+https://github.com/matomo-org/referrer-spam-list
+https://github.com/maxwai/pihole_ad_lists
+https://github.com/mdp43140/badomain
+https://github.com/merkleid/covid-domains
+https://github.com/miogmiog/filters
+https://github.com/miriquidi/dns-block-lists
+https://github.com/miriquidi/domain-blocklists
+https://github.com/miscellaneousfactory/adblocklist
+https://github.com/mitchellkrogza/phishing
+https://github.com/mitchellkrogza/phishing.database
+https://github.com/mitchellkrogza/the-big-list-of-hacked-malware-web-sites
+https://github.com/mklemmingen/stopthetoken
+https://github.com/mohamedelashri/doh-list
+https://github.com/moose84/list
+https://github.com/moralcode/pihole-antitelemetry
+https://github.com/mrchi/adaway-hosts
+https://github.com/mrxehmad/pi-hole-adlist
+https://github.com/mtxadmin/ublock
+https://github.com/muhrizki1996/pihole-adblocker-list
+https://github.com/mullvad/dns-blocklists
+https://github.com/nabeelxy/domainbl
+https://github.com/nanoadblocker/nanofilters
+https://github.com/neo23x0/signature-base
+https://github.com/neodevpro/neodevhost
+- [x] https://github.com/neofelhz/neohosts
+https://github.com/nextdns/bin-domains
+https://github.com/nextdns/blocklists
+https://github.com/nextdns/click-tracking-domains
+https://github.com/nextdns/ddns-domains
+https://github.com/nextdns/mixed-content-domains
+https://github.com/nextdns/native-tracking-domains
+https://github.com/nextdns/no-safesearch
+https://github.com/nextdns/piracy-blocklists
+https://github.com/nextdns/public-suffixes-extras
+https://github.com/nextdns/url-shorteners-domains
+https://github.com/nicholasb2101/pihole
+https://github.com/nickoppen/pihole-blocklists
+https://github.com/nickspaargaren/no-amazon
+- [x] https://github.com/nickspaargaren/no-google
+https://github.com/nikolaischunk/discord-phishing-links
+https://github.com/nizekun/adguardhome-blocklist
+https://github.com/no-cmyk/search-engine-spam-blocklist
+https://github.com/nocturnalarchives/blocklists
+https://github.com/nocturnalarchives/blocklists-x
+https://github.com/notracking/hosts-blocklists
+https://github.com/notracking/hosts-blocklists-scripts
+https://github.com/ogollemon/blacklistspihole
+https://github.com/olbat/ut1-blacklists
+https://github.com/olegwukr/polish-privacy-filters
+https://github.com/oneclicklab/ugly-email-trackers
+https://github.com/oneoffdallas/dohservers
+https://github.com/openwrt/packages
+https://github.com/origamiofficial/odd-blacklist
+https://github.com/origamiofficial/piholebl
+https://github.com/originalsouth/nsomet
+https://github.com/p-mng/hosts-file-backup
+https://github.com/pallebone/personalblocklistspallebone
+https://github.com/pallebone/strictblockpallebone
+https://github.com/peatrick/my-pihole-lists
+https://github.com/pengelana/blocklist
+https://github.com/perksie/blocklist
+https://github.com/peterdavehello/threat-hostlist
+https://github.com/ph00lt0/blocklist
+https://github.com/pirat28/ihatespamlist
+https://github.com/pirat28/ihateurlshort
+https://github.com/playbackthatradiohit/filter-ads-block-list
+https://github.com/polarhive/arceo
+https://github.com/poorpocketsmcnewhold/steamscamsites
+https://github.com/potterli20/hosts
+https://github.com/praveenprem/adblocker
+https://github.com/privacy-protection-tools/anti-ad
+https://github.com/pureexe/leech-list
+https://github.com/pushinginertia/ip-blacklist
+https://github.com/qfoxb/anti-grabify
+https://github.com/qwiri/blocklist
+https://github.com/rampd2/specials
+https://github.com/realodix/adblockid
+https://github.com/red-laboratory/nso-hosts
+https://github.com/rentianyu/ad-set-hosts
+https://github.com/rimu/no-qanon
+https://github.com/robi052/pihole
+https://github.com/rooneymcnibnug/pihole-stuff
+https://github.com/rpilist/specials
+https://github.com/rto/phased-array
+https://github.com/ruddernation-designs/adobe-url-block-list
+https://github.com/ryanbr/fanboy-adblock
+https://github.com/sanatg/allblock-ultimateblocklists
+https://github.com/schrebra/windows.10.dns.block.list
+https://github.com/sefinek24/sefinek-blocklist-collection
+https://github.com/sekhan/thegreatwall
+https://github.com/shadowwhisperer/blocklists
+https://github.com/shahidcodes/firebog-ticked-list
+https://github.com/shoenig/donutdns
+https://github.com/sjhgvr/oisd
+https://github.com/sk-cat/fluffy-blocklist
+https://github.com/smashah/smashblock
+https://github.com/smed79/blacklist
+https://github.com/smokingwheels/smokingwheels.github.io
+https://github.com/softcreatr/fakerando-domains
+https://github.com/sometechyguy/my-school-pihole-stuff
+https://github.com/songxiaosen/anotherunifiedblocklist
+https://github.com/soteria-nou/domain-list
+https://github.com/spiri-leo/blocklist-collection
+https://github.com/square252/adblockhosts
+https://github.com/srbdev/blocklist
+https://github.com/stamparm/blackbook
+https://github.com/stevejenkins/my-pihole-lists
+https://github.com/stevoh6/pihole---allow-and-block-lists
+https://github.com/stonecrusher/filterlists-pihole
+https://github.com/strappazzon/teleme7ry
+https://github.com/sudaraka/domain-block-list
+https://github.com/sukkaw/surge
+https://github.com/suodrazah/murdoch_blocklist
+https://github.com/suuhm/pdns-recreator
+https://github.com/sweetsophia/androidappspihole
+https://github.com/sweetsophia/mifitxiaomipiholelist
+https://github.com/systemjargon/blocklists
+https://github.com/systemjargon/pi-hole
+https://github.com/t145/black-mirror
+https://github.com/t145/metalhead
+https://github.com/tekintian/hosts_ads_block
+https://github.com/tg-twilight/awavenue-ads-rule
+https://github.com/tgjohnst/pihole-guide
+https://github.com/theantisocialengineer/antisocial-blocklist-uk-community
+https://github.com/thezeeka/zeeka-filters
+https://github.com/timedin-de/pihole-full-privacy
+https://github.com/tonyrl/blocklist
+https://github.com/tqml/pi-hole-lists
+https://github.com/trigus42/block-securedns
+https://github.com/ttc-cert/ttc-cert_blocklist_recommended
+https://github.com/tweedge/emerging-threats-pihole
+https://github.com/ultimate-hosts-blacklist/2o7.net
+https://github.com/ultimate-hosts-blacklist/adblock-nocoin-list
+https://github.com/ultimate-hosts-blacklist/add_risk
+https://github.com/ultimate-hosts-blacklist/add_spam
+https://github.com/ultimate-hosts-blacklist/ads_disconnect.me
+https://github.com/ultimate-hosts-blacklist/antipopads
+https://github.com/ultimate-hosts-blacklist/anudeepnd_blacklist_ad_server
+https://github.com/ultimate-hosts-blacklist/baddboyzhosts
+https://github.com/ultimate-hosts-blacklist/badips.com_key
+https://github.com/ultimate-hosts-blacklist/badips.com_level_3
+https://github.com/ultimate-hosts-blacklist/badips.com_level_4
+https://github.com/ultimate-hosts-blacklist/badips.com_level_5
+https://github.com/ultimate-hosts-blacklist/bad_jav_sites
+https://github.com/ultimate-hosts-blacklist/blacklist
+https://github.com/ultimate-hosts-blacklist/cameleon_at_sysctl.org
+https://github.com/ultimate-hosts-blacklist/cyveillance_blocks
+https://github.com/ultimate-hosts-blacklist/firehol_level1
+https://github.com/ultimate-hosts-blacklist/hostsvn
+https://github.com/ultimate-hosts-blacklist/justdomains_mirror1.malwaredomains.com
+https://github.com/ultimate-hosts-blacklist/kadhosts_azet12
+https://github.com/ultimate-hosts-blacklist/lightswitch05_hosts_ads-and-tracking-extended
+https://github.com/ultimate-hosts-blacklist/malc0de.com
+https://github.com/ultimate-hosts-blacklist/malwaredomainlist.com
+https://github.com/ultimate-hosts-blacklist/michael_trimms_hosts
+https://github.com/ultimate-hosts-blacklist/minimalhostsblocker
+https://github.com/ultimate-hosts-blacklist/mitchell_krog_snooping_ips
+https://github.com/ultimate-hosts-blacklist/phishing.database
+https://github.com/ultimate-hosts-blacklist/pl-host-file
+https://github.com/ultimate-hosts-blacklist/quidsup_malicious-sites
+https://github.com/ultimate-hosts-blacklist/quidsup_notrack_trackers
+https://github.com/ultimate-hosts-blacklist/smed79_blacklist
+https://github.com/ultimate-hosts-blacklist/someonewhocares.org
+https://github.com/ultimate-hosts-blacklist/spam404
+https://github.com/ultimate-hosts-blacklist/ssh_attackers_probers
+https://github.com/ultimate-hosts-blacklist/suspicious.snooping.sniffing.hacking.ip.addresses
+https://github.com/ultimate-hosts-blacklist/the-big-list-of-hacked-malware-web-sites
+https://github.com/ultimate-hosts-blacklist/top-attacking-ip-addresses-against-wordpress-sites
+https://github.com/ultimate-hosts-blacklist/ultimate.hosts.blacklist
+https://github.com/ultimate-hosts-blacklist/wally3k_blacklist
+https://github.com/ultimate-hosts-blacklist/wiggum27_blockers
+https://github.com/ultimate-hosts-blacklist/www.blocklist.de
+https://github.com/ultimate-hosts-blacklist/youslist
+https://github.com/ultimate-hosts-blacklist/yoyo.org_domains
+https://github.com/ultimate-hosts-blacklist/yoyo.org_ips
+https://github.com/ultimate-hosts-blacklist/zerodot1_coinblockerlists
+https://github.com/ultimate-hosts-blacklist/zerodot1_coinblockerlists_browser
+https://github.com/ultimate-pihole-list/list
+https://github.com/unknownfallen/xiaomi-dns-blocklist
+https://github.com/upal212/pihole-ios-update-blocklist
+https://github.com/velesila/yhosts
+https://github.com/veticia/antipopads
+https://github.com/vincentkenny01/spotblock
+https://github.com/viperman1271/pihole
+https://github.com/vladak/fishysites
+https://github.com/vokins/yhosts
+https://github.com/w13d/adblocklistabp-pihole
+https://github.com/waelisa/best-blocklist
+https://github.com/werewolfke/ad-blocklist
+https://github.com/willidieente/betterblocklist
+https://github.com/windowslies/blockwindows
+https://github.com/wolfsrealm/adblocklists
+https://github.com/worldwideblock/netguard-block
+https://github.com/wranders/doh-list
+https://github.com/x8716e
+https://github.com/xannythepleb/adguard-home-adblock
+https://github.com/xionkzn/pihole-lists
+https://github.com/xlimit91/xlimit91-block-list
+https://github.com/yhonay/antipopads
+https://github.com/yokoffing/filterlists
+https://github.com/yous/youslist
+https://github.com/yucked/blackhole
+https://github.com/zangadoprojets/pi-hole-blocklist
+https://github.com/zebpalmer/blockworkr
+https://github.com/zebpalmer/dns_blocklists
+https://github.com/zingyawesome/easylists-for-pihole
+https://github.com/zoonderkins/dbl-oisd-nl
+https://gitlab.com/andryou/andrews-settings
+https://gitlab.com/andryou/block
+https://gitlab.com/cmiksche/blacklists
+https://gitlab.com/intr0/appleblock
+https://gitlab.com/kurobeats/phishing_hosts
+https://gitlab.com/malware-filter/phishing-filter
+https://gitlab.com/malware-filter/pup-filter
+https://gitlab.com/malware-filter/tracking-filter
+https://gitlab.com/malware-filter/urlhaus-filter
+https://gitlab.com/malware-filter/vn-badsite-filter
+https://gitlab.com/nezu81/pihole-mega-lists
+https://gitlab.com/nitrohorse/government-malware-domains-blocklist
+https://gitlab.com/quidsup/notrack-blocklists
+https://gitlab.com/the_quantum_alpha/the-quantum-ad-list
+https://gitlab.com/zerodot1/coinblockerlists
+https://hosts.trli.club
+https://jussiroine.com/pi-hole-adlists
+https://o0.pages.dev
+https://obutterbach.medium.com/unlock-the-full-potential-of-pihole-e795342e0e36
+https://oisd.nl/knownlists.php
+https://openphish.com/index.html
+https://pagure.io/curben/phishing-filter
+https://pagure.io/curben/vn-badsite-filter
+https://phishing.army
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/adguardmobileads.txt
+https://red.flag.domains
+https://rescure.me/feeds.html
+https://threatfox.abuse.ch
+https://threatview.io
+https://urlhaus.abuse.ch
+https://www.iblocklist.com/lists
+https://www.openphish.com
+https://www.phishing.army
+https://www.sindastra.de/p/987/big-block-lists-for-pi-hole
+https://www.stopforumspam.com/downloads
+https://zoso.ro/rolist
+- [x] https://github.com/duangsuse-valid-projects/neohosts
+https://github.com/nextdns/services
+https://github.com/nextdns/dns-bypass-methods
+- [x] https://github.com/nextdns/cname-cloaking-blocklist
+https://github.com/PeterDaveHello/url-shorteners
+https://github.com/1r2/iosparanoid
+https://github.com/Bundy01/meta-blocklists
+- [x] https://github.com/parseword/nolovia
+
+
+
