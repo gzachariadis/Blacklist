@@ -304,8 +304,6 @@ https://hostsfile.org/hosts.html
 
 https://oisd.nl
 
-https://sefinek.net/blocklist-generator/pihole
-
 https://someonewhocares.org
 
 https://someonewhocares.org/hosts
@@ -1261,3 +1259,5 @@ https://github.com/parseword/nolovia
 - [x] https://warui.intaa.net/adhosts
 
 - [x] https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator
+
+- [x] https://sefinek.net/blocklist-generator/pihole
