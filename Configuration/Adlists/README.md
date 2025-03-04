@@ -11,7 +11,8 @@ This directory contains a set of curated adlists that can be added to your Pi-ho
 - **Ads**: Common advertising domains.
 - **Trackers**: Domains related to online tracking and analytics.
 - **Malware**: Known domains associated with malicious activity.
-- **Social Media**: Block domains that serve social media scripts or trackers.
+- **Misc**:
+    - **Social Media**: Block domains that serve social media scripts or trackers.
 
 The lists are in a format that Pi-hole can use directly, and they can be added through the Pi-hole web interface or by directly modifying the Pi-hole configuration files.
 
