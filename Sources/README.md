@@ -302,7 +302,7 @@ https://hostfiles.frogeye.fr
 
 https://hostsfile.org/hosts.html
 
-https://oisd.nl
+- [x] https://oisd.nl
 
 https://someonewhocares.org
 

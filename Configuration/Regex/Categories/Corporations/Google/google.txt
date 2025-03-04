@@ -1,4 +1,0 @@
-/^(.*\.)*google[-]*(analytic|syndication|(ad[a-z0-9]*|tag)[-]*service)[s]*\./
-/^(.*\.)*(www[-]*)*google[-]*(analytic[s]*|(ad|tag)[-]*manager)\./
-/^(.*\.)double[-]*clic(k|k[-]*by[-]*google)\./
-/^(google|partner|pub)ad[s]*(api[s]*)*\./
